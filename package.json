@@ -1,0 +1,14 @@
+{
+  "name": "mikodb",
+  "version": "1.0.0",
+  "description": "MikoDB — curated anime extension repo + canonical anime identity mapping database for Miko",
+  "private": true,
+  "scripts": {
+    "build:index": "node scripts/build-index.js",
+    "build:db": "node scripts/build-db.js",
+    "build": "node scripts/build-index.js && node scripts/build-db.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.10.0"
+  }
+}

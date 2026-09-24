@@ -1,0 +1,2782 @@
+{
+ "eu.kanade.tachiyomi.animeextension.en.anipm": {
+  "name": "AniPM",
+  "tier": "A",
+  "idType": "anilist+mal",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.anipm-v16.2.apk",
+  "version": "16.2",
+  "code": 2,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "AniPM",
+    "lang": "en",
+    "id": "3404118931365067168",
+    "baseUrl": "https://ani.pm"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.anikage": {
+  "name": "Anikage",
+  "tier": "A",
+  "idType": "anilist",
+  "numbering": "absolute-with-season-fields",
+  "lang": "en",
+  "apk": "aniyomi-en.anikage-v14.7.apk",
+  "version": "14.7",
+  "code": 7,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Anikage",
+    "lang": "en",
+    "id": "975930199828232260",
+    "baseUrl": "https://anikage.cc"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.reanime": {
+  "name": "Re:ANIME",
+  "tier": "A",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.reanime-v16.7.apk",
+  "version": "16.7",
+  "code": 7,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Re:ANIME",
+    "lang": "en",
+    "id": "7105156973687362431",
+    "baseUrl": "https://reanime.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.it.animeworld": {
+  "name": "ANIMEWORLD.tv",
+  "tier": "B",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "it",
+  "apk": "aniyomi-it.animeworld-v14.59.apk",
+  "version": "14.59",
+  "code": 59,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "ANIMEWORLD.tv",
+    "lang": "it",
+    "id": "6601315231151625432",
+    "baseUrl": "https://www.animeworld.ac"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.animevostfr": {
+  "name": "AnimeVostFr",
+  "tier": "B",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.animevostfr-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeVostFr",
+    "lang": "fr",
+    "id": "5563793683192822639",
+    "baseUrl": "https://animevostfr.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ko.aniweek": {
+  "name": "Aniweek",
+  "tier": "B",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "ko",
+  "apk": "aniyomi-ko.aniweek-v14.18.apk",
+  "version": "14.18",
+  "code": 18,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Aniweek",
+    "lang": "ko",
+    "id": "4565983297271071094",
+    "baseUrl": "https://aniweek.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.empirestreaming": {
+  "name": "EmpireStreaming",
+  "tier": "B",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.empirestreaming-v14.28.apk",
+  "version": "14.28",
+  "code": 28,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "EmpireStreaming",
+    "lang": "fr",
+    "id": "1449801594109278557",
+    "baseUrl": "https://empire-stream.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.locopelis": {
+  "name": "LocoPelis",
+  "tier": "B",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.locopelis-v14.39.apk",
+  "version": "14.39",
+  "code": 39,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "LocoPelis",
+    "lang": "es",
+    "id": "7685749277599065785",
+    "baseUrl": "https://www.locopelis.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.miruro": {
+  "name": "Miruro.tv",
+  "tier": "A",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.miruro-v14.11.apk",
+  "version": "14.11",
+  "code": 11,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Miruro.tv",
+    "lang": "en",
+    "id": "4467610354363305307",
+    "baseUrl": "https://www.miruro.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.uhdmovies": {
+  "name": "UHD Movies",
+  "tier": "B",
+  "idType": "anilist",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.uhdmovies-v14.19.apk",
+  "version": "14.19",
+  "code": 19,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "UHD Movies",
+    "lang": "en",
+    "id": "582068848290425167",
+    "baseUrl": "https://uhdmovies.vip"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.onetwothreeanime": {
+  "name": "123Anime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.onetwothreeanime-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "123Anime",
+    "lang": "en",
+    "id": "9168084761765988435",
+    "baseUrl": "https://123animehub.cc"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.av1encodes": {
+  "name": "AV1Encodes",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.av1encodes-v14.1.apk",
+  "version": "14.1",
+  "code": 1,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AV1Encodes",
+    "lang": "en",
+    "id": "1014227790860730234",
+    "baseUrl": "https://av1encodes.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.anilist": {
+  "name": "AniList",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.anilist-v14.13.apk",
+  "version": "14.13",
+  "code": 13,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AniList",
+    "lang": "en",
+    "id": "297628545340942341",
+    "baseUrl": "https://anilist.co"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.aniwaves": {
+  "name": "AniWaves.ru",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.aniwaves-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AniWaves.ru",
+    "lang": "en",
+    "id": "5863960468592971590",
+    "baseUrl": "https://aniwaves.ru"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.aniworld": {
+  "name": "AniWorld",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.aniworld-v14.40.apk",
+  "version": "14.40",
+  "code": 40,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AniWorld",
+    "lang": "de",
+    "id": "8286900189409315836",
+    "baseUrl": "https://aniworld.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.anizone": {
+  "name": "AniZone",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.anizone-v16.14.apk",
+  "version": "16.14",
+  "code": 14,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AniZone",
+    "lang": "all",
+    "id": "954848840440936266",
+    "baseUrl": "https://anizone.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.anikoto": {
+  "name": "Anikoto",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.anikoto-v16.8.apk",
+  "version": "16.8",
+  "code": 8,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Anikoto",
+    "lang": "en",
+    "id": "4697393375201558791",
+    "baseUrl": "https://anikototv.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.anikyuu": {
+  "name": "Anikyuu",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.anikyuu-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Anikyuu",
+    "lang": "pt-BR",
+    "id": "4361637123039891722",
+    "baseUrl": "https://anikyuu.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.animebase": {
+  "name": "Anime-Base",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.animebase-v14.46.apk",
+  "version": "14.46",
+  "code": 46,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Anime-Base",
+    "lang": "de",
+    "id": "891780646468545269",
+    "baseUrl": "https://anime-base.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.animesama": {
+  "name": "Anime-Sama",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.animesama-v14.31.apk",
+  "version": "14.31",
+  "code": 31,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Anime-Sama",
+    "lang": "fr",
+    "id": "6170936930338275444",
+    "baseUrl": "https://anime-sama.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.animestream": {
+  "name": "Anime-Stream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.animestream-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Anime-Stream",
+    "lang": "de",
+    "id": "314593699490737069",
+    "baseUrl": "https://anime-stream.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.zh.anime1": {
+  "name": "Anime1.me",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "zh-hant",
+  "apk": "aniyomi-zh.anime1-v14.4.apk",
+  "version": "14.4",
+  "code": 4,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Anime1.me",
+    "lang": "zh-hant",
+    "id": "8121834351495460193",
+    "baseUrl": "https://anime1.me"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animeav1": {
+  "name": "AnimeAv1",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animeav1-v14.5.apk",
+  "version": "14.5",
+  "code": 5,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeAv1",
+    "lang": "es",
+    "id": "1563723619853520901",
+    "baseUrl": "https://animeav1.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.sr.animebalkan": {
+  "name": "AnimeBalkan",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "sr",
+  "apk": "aniyomi-sr.animebalkan-v14.17.apk",
+  "version": "14.17",
+  "code": 17,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeBalkan",
+    "lang": "sr",
+    "id": "1322485891319274755",
+    "baseUrl": "https://animebalkan.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animebum": {
+  "name": "AnimeBum",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animebum-v14.20.apk",
+  "version": "14.20",
+  "code": 20,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeBum",
+    "lang": "es",
+    "id": "8233706727551070437",
+    "baseUrl": "https://www.animebum.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animefenix": {
+  "name": "AnimeFenix",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animefenix-v14.76.apk",
+  "version": "14.76",
+  "code": 76,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeFenix",
+    "lang": "es",
+    "id": "1901838936011764172",
+    "baseUrl": "https://animefenix2.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.animegg": {
+  "name": "AnimeGG",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.animegg-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeGG",
+    "lang": "en",
+    "id": "2247987965040486818",
+    "baseUrl": "https://www.animegg.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animeid": {
+  "name": "AnimeID",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animeid-v14.27.apk",
+  "version": "14.27",
+  "code": 27,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeID",
+    "lang": "es",
+    "id": "3757015232925755985",
+    "baseUrl": "https://www.animeid.tv/"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.id.animeindo": {
+  "name": "AnimeIndo",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "id",
+  "apk": "aniyomi-id.animeindo-v14.30.apk",
+  "version": "14.30",
+  "code": 30,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeIndo",
+    "lang": "id",
+    "id": "2019695674801188380",
+    "baseUrl": "https://animeindo.skin"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.animekhor": {
+  "name": "AnimeKhor",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.animekhor-v14.27.apk",
+  "version": "14.27",
+  "code": 27,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeKhor",
+    "lang": "en",
+    "id": "2156984402743841841",
+    "baseUrl": "https://animekhor.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animemovil": {
+  "name": "AnimeMovil",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animemovil-v14.49.apk",
+  "version": "14.49",
+  "code": 49,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeMovil",
+    "lang": "es",
+    "id": "3892773447316414021",
+    "baseUrl": "https://animemeow.xyz"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.animeonsen": {
+  "name": "AnimeOnsen",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.animeonsen-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeOnsen",
+    "lang": "all",
+    "id": "8542735178285060053",
+    "baseUrl": "https://www.animeonsen.xyz"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.animeparadise": {
+  "name": "AnimeParadise",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.animeparadise-v14.1.apk",
+  "version": "14.1",
+  "code": 1,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeParadise",
+    "lang": "en",
+    "id": "3319373396687010408",
+    "baseUrl": "https://www.animeparadise.moe"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.animeplayer": {
+  "name": "AnimePlayer",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.animeplayer-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "AnimePlayer",
+    "lang": "pt-BR",
+    "id": "6456382572881676651",
+    "baseUrl": "https://animeplayer.com.br"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.it.animesaturn": {
+  "name": "Anime Saturn",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "it",
+  "apk": "aniyomi-it.animesaturn-v14.13.apk",
+  "version": "14.13",
+  "code": 13,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeSaturn",
+    "lang": "it",
+    "id": "1863212142777957799",
+    "baseUrl": "https://animesaturn.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.animetoast": {
+  "name": "AnimeToast",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.animetoast-v14.35.apk",
+  "version": "14.35",
+  "code": 35,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeToast",
+    "lang": "de",
+    "id": "2386616842414617638",
+    "baseUrl": "https://www.animetoast.cc"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.it.animeunity": {
+  "name": "AnimeUnity",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "it",
+  "apk": "aniyomi-it.animeunity-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeUnity",
+    "lang": "it",
+    "id": "7762808921754601430",
+    "baseUrl": "https://www.animeunity.so"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.animexin": {
+  "name": "AnimeXin",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.animexin-v14.29.apk",
+  "version": "14.29",
+  "code": 29,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeXin",
+    "lang": "all",
+    "id": "4620219025406449669",
+    "baseUrl": "https://animexin.dev"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animeyt": {
+  "name": "Animeyt",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animeyt-v14.19.apk",
+  "version": "14.19",
+  "code": 19,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AnimeYT",
+    "lang": "es",
+    "id": "3945696494710013768",
+    "baseUrl": "https://ytanime.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.animeito": {
+  "name": "AnimeIto",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.animeito-v14.16.apk",
+  "version": "14.16",
+  "code": 16,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Animeito",
+    "lang": "pt-BR",
+    "id": "5503541725559168140",
+    "baseUrl": "https://animesonline.io"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animejl": {
+  "name": "Animejl",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animejl-v14.21.apk",
+  "version": "14.21",
+  "code": 21,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Animejl",
+    "lang": "es",
+    "id": "2934893552535692335",
+    "baseUrl": "https://www.anime-jl.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ru.animelib": {
+  "name": "Animelib",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "ru",
+  "apk": "aniyomi-ru.animelib-v14.16.apk",
+  "version": "14.16",
+  "code": 16,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Animelib",
+    "lang": "ru",
+    "id": "1484002441113474607",
+    "baseUrl": "https://animelib.org/ru"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.animenix": {
+  "name": "Animenix",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.animenix-v14.26.apk",
+  "version": "14.26",
+  "code": 26,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Animenix",
+    "lang": "es",
+    "id": "1547119562002827048",
+    "baseUrl": "https://animenix.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.animenosub": {
+  "name": "Animenosub",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.animenosub-v14.30.apk",
+  "version": "14.30",
+  "code": 30,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Animenosub",
+    "lang": "en",
+    "id": "6722573244246256733",
+    "baseUrl": "https://animenosub.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.animesdigital": {
+  "name": "Animes Digital",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.animesdigital-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Animes Digital",
+    "lang": "pt-BR",
+    "id": "4877286181768246205",
+    "baseUrl": "https://animesdigital.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ru.animevost": {
+  "name": "Animevost",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "ru",
+  "apk": "aniyomi-ru.animevost-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Animevost",
+    "lang": "ru",
+    "id": "6632887527758140506",
+    "baseUrl": "https://animevost.org"
+   },
+   {
+    "name": "Animevost Mirror",
+    "lang": "ru",
+    "id": "6851436110983735038",
+    "baseUrl": "https://v13.vost.pw"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ar.asia2tv": {
+  "name": "asia2tv",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "ar",
+  "apk": "aniyomi-ar.asia2tv-v14.37.apk",
+  "version": "14.37",
+  "code": 37,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Asia2TV",
+    "lang": "ar",
+    "id": "2083042094654392493",
+    "baseUrl": "https://ww1.asia2tv.pw"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri": {
+  "name": "AsyaAnimeleri",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "tr",
+  "apk": "aniyomi-tr.asyaanimeleri-v14.25.apk",
+  "version": "14.25",
+  "code": 25,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "AsyaAnimeleri",
+    "lang": "tr",
+    "id": "2012826325126448867",
+    "baseUrl": "https://asyaanimeleri.top"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.blzone": {
+  "name": "BLZone",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.blzone-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "BLZone",
+    "lang": "en",
+    "id": "1437838328434413410",
+    "baseUrl": "https://blzone.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.beatzanime": {
+  "name": "BeatZ Anime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.beatzanime-v14.3.apk",
+  "version": "14.3",
+  "code": 3,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "BeatZ Anime",
+    "lang": "es",
+    "id": "27781270364033644",
+    "baseUrl": "https://www.beatz-anime.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.betteranimeio": {
+  "name": "BetterAnimeIo",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.betteranimeio-v14.4.apk",
+  "version": "14.4",
+  "code": 4,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "BetterAnimeIo",
+    "lang": "pt-BR",
+    "id": "2407610655424858426",
+    "baseUrl": "https://betteranime.io"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.chineseanime": {
+  "name": "ChineseAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.chineseanime-v14.34.apk",
+  "version": "14.34",
+  "code": 34,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "ChineseAnime",
+    "lang": "all",
+    "id": "8639880285552928628",
+    "baseUrl": "https://www.chineseanime.in"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.cinecalidad": {
+  "name": "CineCalidad",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.cinecalidad-v14.36.apk",
+  "version": "14.36",
+  "code": 36,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "CineCalidad",
+    "lang": "es",
+    "id": "661928073480792687",
+    "baseUrl": "https://www.cinecalidad.ec"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.cineplus123": {
+  "name": "Cineplus123",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.cineplus123-v14.23.apk",
+  "version": "14.23",
+  "code": 23,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Cineplus123",
+    "lang": "es",
+    "id": "2117238897122405265",
+    "baseUrl": "https://cineplus123.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pl.docchi": {
+  "name": "Docchi",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pl",
+  "apk": "aniyomi-pl.docchi-v14.13.apk",
+  "version": "14.13",
+  "code": 13,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Docchi",
+    "lang": "pl",
+    "id": "594564153449456404",
+    "baseUrl": "https://docchi.pl"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai": {
+  "name": "Donghua no Sekai",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.donghuanosekai-v14.4.apk",
+  "version": "14.4",
+  "code": 4,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Donghua no Sekai",
+    "lang": "pt-BR",
+    "id": "1190488322033769414",
+    "baseUrl": "https://donghuanosekai.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.donghuastream": {
+  "name": "DonghuaStream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.donghuastream-v14.29.apk",
+  "version": "14.29",
+  "code": 29,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "DonghuaStream",
+    "lang": "en",
+    "id": "5750955808412743706",
+    "baseUrl": "https://donghuastream.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.doramasflix": {
+  "name": "Doramasflix",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.doramasflix-v14.52.apk",
+  "version": "14.52",
+  "code": 52,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Doramasflix",
+    "lang": "es",
+    "id": "1955566742338181506",
+    "baseUrl": "https://doramasflix.in"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.doramasyt": {
+  "name": "Doramasyt",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.doramasyt-v14.39.apk",
+  "version": "14.39",
+  "code": 39,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Doramasyt",
+    "lang": "es",
+    "id": "885919523581666049",
+    "baseUrl": "https://www.doramasyt.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.doramogo": {
+  "name": "Doramogo",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.doramogo-v14.18.apk",
+  "version": "14.18",
+  "code": 18,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Doramogo",
+    "lang": "pt-BR",
+    "id": "913841527115486600",
+    "baseUrl": "https://doramogo.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ar.egydead": {
+  "name": "Egy Dead",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "ar",
+  "apk": "aniyomi-ar.egydead-v14.29.apk",
+  "version": "14.29",
+  "code": 29,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Egy Dead",
+    "lang": "ar",
+    "id": "8402300441936118056",
+    "baseUrl": "https://egydead.space"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.franime": {
+  "name": "FRAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.franime-v14.28.apk",
+  "version": "14.28",
+  "code": 28,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "FRAnime",
+    "lang": "fr",
+    "id": "3074980924810171824",
+    "baseUrl": "https://franime.fr"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.fanpelis": {
+  "name": "FanPelis",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.fanpelis-v14.24.apk",
+  "version": "14.24",
+  "code": 24,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "FanPelis",
+    "lang": "es",
+    "id": "1270541458457028378",
+    "baseUrl": "https://fanpelis.la"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.filmpalast": {
+  "name": "FilmPalast",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.filmpalast-v14.27.apk",
+  "version": "14.27",
+  "code": 27,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "FilmPalast",
+    "lang": "de",
+    "id": "3592180368623395225",
+    "baseUrl": "https://filmpalast.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.flixlatam": {
+  "name": "FlixLatam",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.flixlatam-v14.27.apk",
+  "version": "14.27",
+  "code": 27,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "FlixLatam",
+    "lang": "es",
+    "id": "2400169316701597839",
+    "baseUrl": "https://flixlatam.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.gnula": {
+  "name": "Gnula",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.gnula-v14.50.apk",
+  "version": "14.50",
+  "code": 50,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Gnula",
+    "lang": "es",
+    "id": "6896649241746590059",
+    "baseUrl": "https://gnula.life"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.googledrive": {
+  "name": "Google Drive",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.googledrive-v14.18.apk",
+  "version": "14.18",
+  "code": 18,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Google Drive",
+    "lang": "all",
+    "id": "4222017068256633289",
+    "baseUrl": "https://drive.google.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.zh.hanime1": {
+  "name": "Hanime1.me",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "zh",
+  "apk": "aniyomi-zh.hanime1-v14.7.apk",
+  "version": "14.7",
+  "code": 7,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Hanime1.me",
+    "lang": "zh",
+    "id": "2853734405579058222",
+    "baseUrl": "https://hanime1.me"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.hentaitorrent": {
+  "name": "Hentai Torrent (Torrent)",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.hentaitorrent-v14.4.apk",
+  "version": "14.4",
+  "code": 4,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Hentai Torrent (Torrent)",
+    "lang": "all",
+    "id": "5093529078954574163",
+    "baseUrl": "https://www.hentaitorrents.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.hentaihaven": {
+  "name": "HentaiHaven",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.hentaihaven-v14.7.apk",
+  "version": "14.7",
+  "code": 7,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "HentaiHaven",
+    "lang": "en",
+    "id": "1700779054663752842",
+    "baseUrl": "https://hentaihaven.xxx"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.hentaimama": {
+  "name": "HentaiMama",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.hentaimama-v16.8.apk",
+  "version": "16.8",
+  "code": 8,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "HentaiMama",
+    "lang": "en",
+    "id": "8058423919997530503",
+    "baseUrl": "https://hentaimama.io"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.it.hentaisaturn": {
+  "name": "Hentai Saturn",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "it",
+  "apk": "aniyomi-it.hentaisaturn-v14.5.apk",
+  "version": "14.5",
+  "code": 5,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "HentaiSaturn",
+    "lang": "it",
+    "id": "5832452298268268088",
+    "baseUrl": "https://www.hentaisaturn.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.hentaitk": {
+  "name": "HentaiTk",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.hentaitk-v14.28.apk",
+  "version": "14.28",
+  "code": 28,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "HentaiTk",
+    "lang": "es",
+    "id": "7726637677864789742",
+    "baseUrl": "https://hentaitk.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.tr.hentaizm": {
+  "name": "HentaiZM",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "tr",
+  "apk": "aniyomi-tr.hentaizm-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "HentaiZM",
+    "lang": "tr",
+    "id": "9058842310298227429",
+    "baseUrl": "https://www.hentaizm6.online"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.hentaijk": {
+  "name": "Hentaijk",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.hentaijk-v14.19.apk",
+  "version": "14.19",
+  "code": 19,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Hentaijk",
+    "lang": "es",
+    "id": "4616479108300191837",
+    "baseUrl": "https://hentaijk.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.hstream": {
+  "name": "Hstream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.hstream-v14.12.apk",
+  "version": "14.12",
+  "code": 12,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Hstream",
+    "lang": "en",
+    "id": "8733115911403916257",
+    "baseUrl": "https://hstream.moe"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.javgg": {
+  "name": "JavGG",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.javgg-v14.20.apk",
+  "version": "14.20",
+  "code": 20,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "JavGG",
+    "lang": "all",
+    "id": "3378993382379910095",
+    "baseUrl": "https://javgg.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.jetanime": {
+  "name": "JetAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.jetanime-v14.23.apk",
+  "version": "14.23",
+  "code": 23,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "JetAnime",
+    "lang": "fr",
+    "id": "8914615515692839881",
+    "baseUrl": "https://ssl.jetanimes.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.jkanime": {
+  "name": "Jkanime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.jkanime-v14.51.apk",
+  "version": "14.51",
+  "code": 51,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Jkanime",
+    "lang": "es",
+    "id": "6007374093317538838",
+    "baseUrl": "https://jkanime.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.kayoanime": {
+  "name": "Kayoanime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.kayoanime-v14.13.apk",
+  "version": "14.13",
+  "code": 13,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Kayoanime",
+    "lang": "en",
+    "id": "203922289858257167",
+    "baseUrl": "https://kayoanime.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.kickassanime": {
+  "name": "KickAssAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.kickassanime-v14.61.apk",
+  "version": "14.61",
+  "code": 61,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "KickAssAnime",
+    "lang": "en",
+    "id": "2081771513481539599",
+    "baseUrl": "https://kaa.lt"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.kinoking": {
+  "name": "Kinoking",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.kinoking-v14.36.apk",
+  "version": "14.36",
+  "code": 36,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Kinoking",
+    "lang": "de",
+    "id": "996816978236636598",
+    "baseUrl": "https://kinoking.cc"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.kool": {
+  "name": "Kool",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.kool-v14.26.apk",
+  "version": "14.26",
+  "code": 26,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Kool",
+    "lang": "de",
+    "id": "5602415922350710914",
+    "baseUrl": "https://www.kool.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.lmanime": {
+  "name": "LMAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.lmanime-v14.28.apk",
+  "version": "14.28",
+  "code": 28,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "LMAnime",
+    "lang": "all",
+    "id": "7296222662412524790",
+    "baseUrl": "https://lmanime.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.latanime": {
+  "name": "Latanime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.latanime-v14.42.apk",
+  "version": "14.42",
+  "code": 42,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Latanime",
+    "lang": "es",
+    "id": "7257892387451890645",
+    "baseUrl": "https://latanime.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.luciferdonghua": {
+  "name": "LuciferDonghua",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.luciferdonghua-v14.25.apk",
+  "version": "14.25",
+  "code": 25,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "LuciferDonghua",
+    "lang": "en",
+    "id": "1480485712825107891",
+    "baseUrl": "https://luciferdonghua.in"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.mkissa": {
+  "name": "MKissa",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.mkissa-v14.68.apk",
+  "version": "14.68",
+  "code": 68,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "MKissa",
+    "lang": "en",
+    "id": "4709139914729853090",
+    "baseUrl": "https://mkissa.to/anime"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.mapple": {
+  "name": "Mapple",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.mapple-v16.6.apk",
+  "version": "16.6",
+  "code": 6,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Mapple",
+    "lang": "en",
+    "id": "4419717598017841435",
+    "baseUrl": "https://mapple.fun"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.metroseries": {
+  "name": "MetroSeries",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.metroseries-v14.33.apk",
+  "version": "14.33",
+  "code": 33,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "MetroSeries",
+    "lang": "es",
+    "id": "302544302370133084",
+    "baseUrl": "https://www3.seriesmetro.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.meusanimes": {
+  "name": "Meus Animes",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.meusanimes-v14.1.apk",
+  "version": "14.1",
+  "code": 1,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Meus Animes",
+    "lang": "pt-BR",
+    "id": "8394381853778573358",
+    "baseUrl": "https://meusanimes.vip"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.mhdflix": {
+  "name": "MhdFlix",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.mhdflix-v14.24.apk",
+  "version": "14.24",
+  "code": 24,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "MhdFlix",
+    "lang": "es",
+    "id": "4812325950703384298",
+    "baseUrl": "https://ww1.mhdflix.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.id.minioppai": {
+  "name": "MiniOppai",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "id",
+  "apk": "aniyomi-id.minioppai-v14.19.apk",
+  "version": "14.19",
+  "code": 19,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "MiniOppai",
+    "lang": "id",
+    "id": "3422641844834047610",
+    "baseUrl": "https://minioppai.org"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.missav": {
+  "name": "MissAV",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.missav-v14.30.apk",
+  "version": "14.30",
+  "code": 30,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "MissAV",
+    "lang": "all",
+    "id": "168969881246615628",
+    "baseUrl": "https://missav.live"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.moflixstream": {
+  "name": "Moflix-Stream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.moflixstream-v14.29.apk",
+  "version": "14.29",
+  "code": 29,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Moflix-Stream",
+    "lang": "de",
+    "id": "6760309784631443658",
+    "baseUrl": "https://moflix-stream.xyz"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.monoschinos": {
+  "name": "MonosChinos",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.monoschinos-v14.55.apk",
+  "version": "14.55",
+  "code": 55,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "MonosChinos",
+    "lang": "es",
+    "id": "6957694006954649296",
+    "baseUrl": "https://monoschinos.st"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.movie4k": {
+  "name": "Movie4k",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.movie4k-v14.19.apk",
+  "version": "14.19",
+  "code": 19,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Movie4k",
+    "lang": "de",
+    "id": "4846722280190238047",
+    "baseUrl": "https://movie4k.stream"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.moviesmod": {
+  "name": "MoviesMod",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.moviesmod-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Movies Mod",
+    "lang": "en",
+    "id": "2828515480418041073",
+    "baseUrl": "https://moviesmod.zone"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.muitohentai": {
+  "name": "Muito Hentai",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.muitohentai-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Muito Hentai",
+    "lang": "pt-BR",
+    "id": "1062606379654091909",
+    "baseUrl": "https://www.muitohentai.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.mundodonghua": {
+  "name": "MundoDonghua",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.mundodonghua-v14.45.apk",
+  "version": "14.45",
+  "code": 45,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "MundoDonghua",
+    "lang": "es",
+    "id": "4356029013369426954",
+    "baseUrl": "https://www.mundodonghua.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.myrunningman": {
+  "name": "My Running Man",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.myrunningman-v14.12.apk",
+  "version": "14.12",
+  "code": 12,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "My Running Man",
+    "lang": "en",
+    "id": "6399273548157311628",
+    "baseUrl": "https://www.myrunningman.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.myanime": {
+  "name": "Myanime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.myanime-v14.16.apk",
+  "version": "14.16",
+  "code": 16,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Myanime",
+    "lang": "en",
+    "id": "4364465995809265087",
+    "baseUrl": "https://myanime.live"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.id.neonime": {
+  "name": "NeoNime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "id",
+  "apk": "aniyomi-id.neonime-v14.25.apk",
+  "version": "14.25",
+  "code": 25,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "NeoNime",
+    "lang": "id",
+    "id": "6698339357657312694",
+    "baseUrl": "https://neonime.ink"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ar.okanime": {
+  "name": "Okanime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "ar",
+  "apk": "aniyomi-ar.okanime-v14.26.apk",
+  "version": "14.26",
+  "code": 26,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Okanime",
+    "lang": "ar",
+    "id": "2275740574829569178",
+    "baseUrl": "https://www.okanime.xyz"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.id.oploverz": {
+  "name": "Oploverz",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "id",
+  "apk": "aniyomi-id.oploverz-v14.26.apk",
+  "version": "14.26",
+  "code": 26,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Oploverz",
+    "lang": "id",
+    "id": "2573103800968432770",
+    "baseUrl": "https://oploverz.media"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.oppaistream": {
+  "name": "Oppai Stream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.oppaistream-v14.6.apk",
+  "version": "14.6",
+  "code": 6,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Oppai Stream",
+    "lang": "en",
+    "id": "1938195875614354298",
+    "baseUrl": "https://oppai.stream"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.id.otakudesu": {
+  "name": "OtakuDesu",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "id",
+  "apk": "aniyomi-id.otakudesu-v14.43.apk",
+  "version": "14.43",
+  "code": 43,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "OtakuDesu",
+    "lang": "id",
+    "id": "3428487071093013526",
+    "baseUrl": "https://otakudesu.blog"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.ptorrent": {
+  "name": "PTorrent (Torrent)",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.ptorrent-v14.4.apk",
+  "version": "14.4",
+  "code": 4,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "PTorrent (Torrent)",
+    "lang": "all",
+    "id": "2514899426758091629",
+    "baseUrl": "https://www.ptorrents.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.pandrama": {
+  "name": "Pandrama",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.pandrama-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Pandrama",
+    "lang": "es",
+    "id": "8290662435507939982",
+    "baseUrl": "https://pandrama.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.pelisforte": {
+  "name": "PelisForte",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.pelisforte-v14.51.apk",
+  "version": "14.51",
+  "code": 51,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "PelisForte",
+    "lang": "es",
+    "id": "4419048029031752703",
+    "baseUrl": "https://www2.pelisforte.se"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.pelisplushd": {
+  "name": "PelisPlusHD",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.pelisplushd-v14.93.apk",
+  "version": "14.93",
+  "code": 93,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "PelisPlusHD",
+    "lang": "es",
+    "id": "1400819034564144238",
+    "baseUrl": "https://pelisplushd.bz"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.pelisplusph": {
+  "name": "PelisPlusPh",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.pelisplusph-v14.93.apk",
+  "version": "14.93",
+  "code": 93,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "PelisPlusPh",
+    "lang": "es",
+    "id": "4917265654298497443",
+    "baseUrl": "https://www.pelisplushd.la"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.pelisplusto": {
+  "name": "PelisPlusTo",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.pelisplusto-v14.93.apk",
+  "version": "14.93",
+  "code": 93,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "PelisPlusTo",
+    "lang": "es",
+    "id": "1705636111422561130",
+    "baseUrl": "https://tioplus.app"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pt.pifansubs": {
+  "name": "Pi Fansubs",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pt-BR",
+  "apk": "aniyomi-pt.pifansubs-v14.34.apk",
+  "version": "14.34",
+  "code": 34,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Pi Fansubs",
+    "lang": "pt-BR",
+    "id": "2457282111412357647",
+    "baseUrl": "https://pifansubs.club"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia": {
+  "name": "PinoyMoviePedia",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.pinoymoviepedia-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "PinoyMoviePedia",
+    "lang": "en",
+    "id": "8569022244537791293",
+    "baseUrl": "https://pinoymoviepedia.ru"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.rule34video": {
+  "name": "Rule34Video",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.rule34video-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Rule34Video",
+    "lang": "en",
+    "id": "9212790518101043860",
+    "baseUrl": "https://rule34video.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.id.samehadaku": {
+  "name": "Samehadaku",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "id",
+  "apk": "aniyomi-id.samehadaku-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Samehadaku",
+    "lang": "id",
+    "id": "7446063017613536202",
+    "baseUrl": "https://v2.samehadaku.how"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.senshi": {
+  "name": "Senshi",
+  "tier": "A",
+  "idType": "mal",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.senshi-v16.1.apk",
+  "version": "16.1",
+  "code": 1,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Senshi",
+    "lang": "en",
+    "id": "347387517233905584",
+    "baseUrl": "https://senshi.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.de.serienstream": {
+  "name": "Serienstream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "de",
+  "apk": "aniyomi-de.serienstream-v14.34.apk",
+  "version": "14.34",
+  "code": 34,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Serienstream",
+    "lang": "de",
+    "id": "5798377917298605009",
+    "baseUrl": "https://serienstream.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.serieskao": {
+  "name": "SeriesKao",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.serieskao-v14.23.apk",
+  "version": "14.23",
+  "code": 23,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "SeriesKao",
+    "lang": "es",
+    "id": "1179552672777572300",
+    "baseUrl": "https://serieskao.top"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.sololatino": {
+  "name": "SoloLatino",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.sololatino-v14.28.apk",
+  "version": "14.28",
+  "code": 28,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "SoloLatino",
+    "lang": "es",
+    "id": "2714169179278506077",
+    "baseUrl": "https://sololatino.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.stremio": {
+  "name": "Stremio",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.stremio-v16.11.apk",
+  "version": "16.11",
+  "code": 11,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Stremio",
+    "lang": "all",
+    "id": "8425771932667600381",
+    "baseUrl": "https://app.strem.io/shell-v4.4"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.uk.ufdub": {
+  "name": "UFDub",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "uk",
+  "apk": "aniyomi-uk.ufdub-v14.1.apk",
+  "version": "14.1",
+  "code": 1,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "UFDub",
+    "lang": "uk",
+    "id": "4077428168272340843",
+    "baseUrl": "https://ufdub.com/anime"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.veohentai": {
+  "name": "VeoHentai",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.veohentai-v14.1.apk",
+  "version": "14.1",
+  "code": 1,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "VeoHentai",
+    "lang": "es",
+    "id": "1192827176989085393",
+    "baseUrl": "https://veohentai.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.veranime": {
+  "name": "VerAni.me",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.veranime-v14.5.apk",
+  "version": "14.5",
+  "code": 5,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "VerAni.me",
+    "lang": "es",
+    "id": "2476297921251317481",
+    "baseUrl": "https://verani.me"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.veranimes": {
+  "name": "VerAnimes",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.veranimes-v14.24.apk",
+  "version": "14.24",
+  "code": 24,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "VerAnimes",
+    "lang": "es",
+    "id": "6262145028910416459",
+    "baseUrl": "https://wwv.veranimes.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.verpelistop": {
+  "name": "VerPelisTop",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.verpelistop-v14.13.apk",
+  "version": "14.13",
+  "code": 13,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "VerPelisTop",
+    "lang": "es",
+    "id": "8167780943978050375",
+    "baseUrl": "https://www1.verpelis.top"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.voiranime": {
+  "name": "Voiranime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.voiranime-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Voiranime",
+    "lang": "fr",
+    "id": "5371141424049189102",
+    "baseUrl": "https://voir-anime.to"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.fr.vostfree": {
+  "name": "Vostfree",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "fr",
+  "apk": "aniyomi-fr.vostfree-v14.41.apk",
+  "version": "14.41",
+  "code": 41,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Vostfree",
+    "lang": "fr",
+    "id": "8596049504378147571",
+    "baseUrl": "https://vostfree.ws"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.wcostream": {
+  "name": "WCOStream",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.wcostream-v14.14.apk",
+  "version": "14.14",
+  "code": 14,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "WCOStream",
+    "lang": "en",
+    "id": "4144024127778211557",
+    "baseUrl": "https://www.wcostream.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.wcoanimedub": {
+  "name": "WcoAnimeDub",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.wcoanimedub-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "WcoAnimeDub",
+    "lang": "en",
+    "id": "8622868574170180857",
+    "baseUrl": "https://www.wcoanimedub.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.wcoanimesub": {
+  "name": "WcoAnimeSub",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.wcoanimesub-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "WcoAnimeSub",
+    "lang": "en",
+    "id": "665629163594938512",
+    "baseUrl": "https://www.wcoanimesub.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.wcoforever": {
+  "name": "WcoForever",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.wcoforever-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "WcoForever",
+    "lang": "en",
+    "id": "5805164799487731673",
+    "baseUrl": "https://www.wcoforever.net"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.wcotv": {
+  "name": "WcoTv",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.wcotv-v14.9.apk",
+  "version": "14.9",
+  "code": 9,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "WcoTv",
+    "lang": "en",
+    "id": "648702763126013078",
+    "baseUrl": "https://www.wco.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.wcofun": {
+  "name": "Wcofun",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.wcofun-v14.23.apk",
+  "version": "14.23",
+  "code": 23,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Wcofun",
+    "lang": "en",
+    "id": "1677488626877212634",
+    "baseUrl": "https://www.wcoflix.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.xanime": {
+  "name": "XAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.xanime-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "XAnime",
+    "lang": "en",
+    "id": "3262358113047577744",
+    "baseUrl": "https://xanime.me"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.xnxx": {
+  "name": "Xnxx",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.xnxx-v14.3.apk",
+  "version": "14.3",
+  "code": 3,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Xnxx",
+    "lang": "all",
+    "id": "1853973586604481267",
+    "baseUrl": "https://www.xnxx.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.xvideos": {
+  "name": "Xvideos",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.xvideos-v14.3.apk",
+  "version": "14.3",
+  "code": 3,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "Xvideos",
+    "lang": "all",
+    "id": "8016727706963226859",
+    "baseUrl": "https://www.xvideos.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.yfantasy": {
+  "name": "YFantasy",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "all",
+  "apk": "aniyomi-all.yfantasy-v16.2.apk",
+  "version": "16.2",
+  "code": 2,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "YFantasy",
+    "lang": "all",
+    "id": "2211136411127706662",
+    "baseUrl": "https://yfantasy.me"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.ru.yummyanime": {
+  "name": "YummyAnime",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "ru",
+  "apk": "aniyomi-ru.yummyanime-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "YummyAnime",
+    "lang": "ru",
+    "id": "6100431890263423378",
+    "baseUrl": "https://ru.yummyani.me"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.es.azanimex": {
+  "name": "az-animex",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "es",
+  "apk": "aniyomi-es.azanimex-v14.3.apk",
+  "version": "14.3",
+  "code": 3,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "az-animex",
+    "lang": "es",
+    "id": "7735188894368809510",
+    "baseUrl": "https://www.az-animex.com"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.pl.desuonline": {
+  "name": "desu-online",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "pl",
+  "apk": "aniyomi-pl.desuonline-v14.20.apk",
+  "version": "14.20",
+  "code": 20,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "desu-online",
+    "lang": "pl",
+    "id": "5996410160070658951",
+    "baseUrl": "https://desu-online.pl"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.hahomoe": {
+  "name": "haho.moe",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.hahomoe-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "haho.moe",
+    "lang": "en",
+    "id": "3727306173180829340",
+    "baseUrl": "https://haho.moe"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.en.hanime": {
+  "name": "hanime.tv",
+  "tier": "C",
+  "idType": "title",
+  "numbering": "absolute",
+  "lang": "en",
+  "apk": "aniyomi-en.hanime-v14.23.apk",
+  "version": "14.23",
+  "code": 23,
+  "nsfw": 1,
+  "sources": [
+   {
+    "name": "hanime.tv",
+    "lang": "en",
+    "id": "2649711761599612719",
+    "baseUrl": "https://hanime.tv"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.debridindex": {
+  "name": "Debrid Index",
+  "tier": "S",
+  "idType": "imdb/kitsu",
+  "numbering": "stremio-native",
+  "lang": "all",
+  "apk": "aniyomi-all.debridindex-v14.2.apk",
+  "version": "14.2",
+  "code": 2,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Debrid Index",
+    "lang": "all",
+    "id": "824133852049869443",
+    "baseUrl": "https://torrentio.strem.fun"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.torrentio": {
+  "name": "Torrentio (Torrent / Debrid)",
+  "tier": "S",
+  "idType": "imdb/kitsu",
+  "numbering": "stremio-native",
+  "lang": "all",
+  "apk": "aniyomi-all.torrentio-v14.10.apk",
+  "version": "14.10",
+  "code": 10,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Torrentio (Torrent / Debrid)",
+    "lang": "all",
+    "id": "3688044905832724625",
+    "baseUrl": "https://torrentio.strem.fun"
+   }
+  ]
+ },
+ "eu.kanade.tachiyomi.animeextension.all.torrentioanime": {
+  "name": "Torrentio Anime (Torrent / Debrid)",
+  "tier": "S",
+  "idType": "imdb/kitsu",
+  "numbering": "stremio-native",
+  "lang": "all",
+  "apk": "aniyomi-all.torrentioanime-v14.22.apk",
+  "version": "14.22",
+  "code": 22,
+  "nsfw": 0,
+  "sources": [
+   {
+    "name": "Torrentio Anime (Torrent / Debrid)",
+    "lang": "all",
+    "id": "7490206640756700883",
+    "baseUrl": "https://torrentio.strem.fun"
+   }
+  ]
+ }
+}

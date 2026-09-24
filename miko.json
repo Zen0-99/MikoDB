@@ -1,0 +1,1032 @@
+{
+  "sources": {
+    "eu.kanade.tachiyomi.animeextension.en.anipm": {
+      "name": "AniPM",
+      "tier": "A",
+      "idType": "anilist+mal",
+      "numbering": "absolute",
+      "baseUrl": "https://ani.pm"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.anikage": {
+      "name": "Anikage",
+      "tier": "A",
+      "idType": "anilist",
+      "numbering": "absolute-with-season-fields",
+      "baseUrl": "https://anikage.cc"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.reanime": {
+      "name": "Re:ANIME",
+      "tier": "A",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://reanime.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.it.animeworld": {
+      "name": "ANIMEWORLD.tv",
+      "tier": "B",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animeworld.ac"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.animevostfr": {
+      "name": "AnimeVostFr",
+      "tier": "B",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://animevostfr.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.ko.aniweek": {
+      "name": "Aniweek",
+      "tier": "B",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://aniweek.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.empirestreaming": {
+      "name": "EmpireStreaming",
+      "tier": "B",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://empire-stream.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.locopelis": {
+      "name": "LocoPelis",
+      "tier": "B",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://www.locopelis.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.miruro": {
+      "name": "Miruro.tv",
+      "tier": "A",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://www.miruro.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.uhdmovies": {
+      "name": "UHD Movies",
+      "tier": "B",
+      "idType": "anilist",
+      "numbering": "absolute",
+      "baseUrl": "https://uhdmovies.vip"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.onetwothreeanime": {
+      "name": "123Anime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://123animehub.cc"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.av1encodes": {
+      "name": "AV1Encodes",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://av1encodes.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.anilist": {
+      "name": "AniList",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anilist.co"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.aniwaves": {
+      "name": "AniWaves.ru",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://aniwaves.ru"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.aniworld": {
+      "name": "AniWorld",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://aniworld.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.anizone": {
+      "name": "AniZone",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anizone.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.anikoto": {
+      "name": "Anikoto",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anikototv.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.anikyuu": {
+      "name": "Anikyuu",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anikyuu.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.animebase": {
+      "name": "Anime-Base",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anime-base.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.animesama": {
+      "name": "Anime-Sama",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anime-sama.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.animestream": {
+      "name": "Anime-Stream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anime-stream.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.zh.anime1": {
+      "name": "Anime1.me",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://anime1.me"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animeav1": {
+      "name": "AnimeAv1",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animeav1.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.sr.animebalkan": {
+      "name": "AnimeBalkan",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animebalkan.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animebum": {
+      "name": "AnimeBum",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animebum.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animefenix": {
+      "name": "AnimeFenix",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animefenix2.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.animegg": {
+      "name": "AnimeGG",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animegg.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animeid": {
+      "name": "AnimeID",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animeid.tv/"
+    },
+    "eu.kanade.tachiyomi.animeextension.id.animeindo": {
+      "name": "AnimeIndo",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animeindo.skin"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.animekhor": {
+      "name": "AnimeKhor",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animekhor.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animemovil": {
+      "name": "AnimeMovil",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animemeow.xyz"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.animeonsen": {
+      "name": "AnimeOnsen",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animeonsen.xyz"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.animeparadise": {
+      "name": "AnimeParadise",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animeparadise.moe"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.animeplayer": {
+      "name": "AnimePlayer",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animeplayer.com.br"
+    },
+    "eu.kanade.tachiyomi.animeextension.it.animesaturn": {
+      "name": "Anime Saturn",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animesaturn.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.animetoast": {
+      "name": "AnimeToast",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animetoast.cc"
+    },
+    "eu.kanade.tachiyomi.animeextension.it.animeunity": {
+      "name": "AnimeUnity",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.animeunity.so"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.animexin": {
+      "name": "AnimeXin",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animexin.dev"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animeyt": {
+      "name": "Animeyt",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://ytanime.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.animeito": {
+      "name": "AnimeIto",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animesonline.io"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animejl": {
+      "name": "Animejl",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.anime-jl.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.ru.animelib": {
+      "name": "Animelib",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animelib.org/ru"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.animenix": {
+      "name": "Animenix",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animenix.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.animenosub": {
+      "name": "Animenosub",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animenosub.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.animesdigital": {
+      "name": "Animes Digital",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animesdigital.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.ru.animevost": {
+      "name": "Animevost",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://animevost.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.ar.asia2tv": {
+      "name": "asia2tv",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://ww1.asia2tv.pw"
+    },
+    "eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri": {
+      "name": "AsyaAnimeleri",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://asyaanimeleri.top"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.blzone": {
+      "name": "BLZone",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://blzone.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.beatzanime": {
+      "name": "BeatZ Anime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.beatz-anime.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.betteranimeio": {
+      "name": "BetterAnimeIo",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://betteranime.io"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.chineseanime": {
+      "name": "ChineseAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.chineseanime.in"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.cinecalidad": {
+      "name": "CineCalidad",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.cinecalidad.ec"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.cineplus123": {
+      "name": "Cineplus123",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://cineplus123.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.pl.docchi": {
+      "name": "Docchi",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://docchi.pl"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai": {
+      "name": "Donghua no Sekai",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://donghuanosekai.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.donghuastream": {
+      "name": "DonghuaStream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://donghuastream.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.doramasflix": {
+      "name": "Doramasflix",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://doramasflix.in"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.doramasyt": {
+      "name": "Doramasyt",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.doramasyt.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.doramogo": {
+      "name": "Doramogo",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://doramogo.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.ar.egydead": {
+      "name": "Egy Dead",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://egydead.space"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.franime": {
+      "name": "FRAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://franime.fr"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.fanpelis": {
+      "name": "FanPelis",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://fanpelis.la"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.filmpalast": {
+      "name": "FilmPalast",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://filmpalast.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.flixlatam": {
+      "name": "FlixLatam",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://flixlatam.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.gnula": {
+      "name": "Gnula",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://gnula.life"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.googledrive": {
+      "name": "Google Drive",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://drive.google.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.zh.hanime1": {
+      "name": "Hanime1.me",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hanime1.me"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.hentaitorrent": {
+      "name": "Hentai Torrent (Torrent)",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.hentaitorrents.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.hentaihaven": {
+      "name": "HentaiHaven",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hentaihaven.xxx"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.hentaimama": {
+      "name": "HentaiMama",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hentaimama.io"
+    },
+    "eu.kanade.tachiyomi.animeextension.it.hentaisaturn": {
+      "name": "Hentai Saturn",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.hentaisaturn.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.hentaitk": {
+      "name": "HentaiTk",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hentaitk.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.tr.hentaizm": {
+      "name": "HentaiZM",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.hentaizm6.online"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.hentaijk": {
+      "name": "Hentaijk",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hentaijk.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.hstream": {
+      "name": "Hstream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hstream.moe"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.javgg": {
+      "name": "JavGG",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://javgg.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.jetanime": {
+      "name": "JetAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://ssl.jetanimes.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.jkanime": {
+      "name": "Jkanime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://jkanime.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.kayoanime": {
+      "name": "Kayoanime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://kayoanime.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.kickassanime": {
+      "name": "KickAssAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://kaa.lt"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.kinoking": {
+      "name": "Kinoking",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://kinoking.cc"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.kool": {
+      "name": "Kool",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.kool.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.lmanime": {
+      "name": "LMAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://lmanime.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.latanime": {
+      "name": "Latanime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://latanime.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.luciferdonghua": {
+      "name": "LuciferDonghua",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://luciferdonghua.in"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.mkissa": {
+      "name": "MKissa",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://mkissa.to/anime"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.mapple": {
+      "name": "Mapple",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://mapple.fun"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.metroseries": {
+      "name": "MetroSeries",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www3.seriesmetro.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.meusanimes": {
+      "name": "Meus Animes",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://meusanimes.vip"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.mhdflix": {
+      "name": "MhdFlix",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://ww1.mhdflix.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.id.minioppai": {
+      "name": "MiniOppai",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://minioppai.org"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.missav": {
+      "name": "MissAV",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://missav.live"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.moflixstream": {
+      "name": "Moflix-Stream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://moflix-stream.xyz"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.monoschinos": {
+      "name": "MonosChinos",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://monoschinos.st"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.movie4k": {
+      "name": "Movie4k",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://movie4k.stream"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.moviesmod": {
+      "name": "MoviesMod",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://moviesmod.zone"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.muitohentai": {
+      "name": "Muito Hentai",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.muitohentai.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.mundodonghua": {
+      "name": "MundoDonghua",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.mundodonghua.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.myrunningman": {
+      "name": "My Running Man",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.myrunningman.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.myanime": {
+      "name": "Myanime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://myanime.live"
+    },
+    "eu.kanade.tachiyomi.animeextension.id.neonime": {
+      "name": "NeoNime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://neonime.ink"
+    },
+    "eu.kanade.tachiyomi.animeextension.ar.okanime": {
+      "name": "Okanime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.okanime.xyz"
+    },
+    "eu.kanade.tachiyomi.animeextension.id.oploverz": {
+      "name": "Oploverz",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://oploverz.media"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.oppaistream": {
+      "name": "Oppai Stream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://oppai.stream"
+    },
+    "eu.kanade.tachiyomi.animeextension.id.otakudesu": {
+      "name": "OtakuDesu",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://otakudesu.blog"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.ptorrent": {
+      "name": "PTorrent (Torrent)",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.ptorrents.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.pandrama": {
+      "name": "Pandrama",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://pandrama.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.pelisforte": {
+      "name": "PelisForte",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www2.pelisforte.se"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.pelisplushd": {
+      "name": "PelisPlusHD",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://pelisplushd.bz"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.pelisplusph": {
+      "name": "PelisPlusPh",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.pelisplushd.la"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.pelisplusto": {
+      "name": "PelisPlusTo",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://tioplus.app"
+    },
+    "eu.kanade.tachiyomi.animeextension.pt.pifansubs": {
+      "name": "Pi Fansubs",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://pifansubs.club"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia": {
+      "name": "PinoyMoviePedia",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://pinoymoviepedia.ru"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.rule34video": {
+      "name": "Rule34Video",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://rule34video.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.id.samehadaku": {
+      "name": "Samehadaku",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://v2.samehadaku.how"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.senshi": {
+      "name": "Senshi",
+      "tier": "A",
+      "idType": "mal",
+      "numbering": "absolute",
+      "baseUrl": "https://senshi.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.de.serienstream": {
+      "name": "Serienstream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://serienstream.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.serieskao": {
+      "name": "SeriesKao",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://serieskao.top"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.sololatino": {
+      "name": "SoloLatino",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://sololatino.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.stremio": {
+      "name": "Stremio",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://app.strem.io/shell-v4.4"
+    },
+    "eu.kanade.tachiyomi.animeextension.uk.ufdub": {
+      "name": "UFDub",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://ufdub.com/anime"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.veohentai": {
+      "name": "VeoHentai",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://veohentai.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.veranime": {
+      "name": "VerAni.me",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://verani.me"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.veranimes": {
+      "name": "VerAnimes",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://wwv.veranimes.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.verpelistop": {
+      "name": "VerPelisTop",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www1.verpelis.top"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.voiranime": {
+      "name": "Voiranime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://voir-anime.to"
+    },
+    "eu.kanade.tachiyomi.animeextension.fr.vostfree": {
+      "name": "Vostfree",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://vostfree.ws"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.wcostream": {
+      "name": "WCOStream",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.wcostream.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.wcoanimedub": {
+      "name": "WcoAnimeDub",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.wcoanimedub.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.wcoanimesub": {
+      "name": "WcoAnimeSub",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.wcoanimesub.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.wcoforever": {
+      "name": "WcoForever",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.wcoforever.net"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.wcotv": {
+      "name": "WcoTv",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.wco.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.wcofun": {
+      "name": "Wcofun",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.wcoflix.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.xanime": {
+      "name": "XAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://xanime.me"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.xnxx": {
+      "name": "Xnxx",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.xnxx.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.xvideos": {
+      "name": "Xvideos",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.xvideos.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.yfantasy": {
+      "name": "YFantasy",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://yfantasy.me"
+    },
+    "eu.kanade.tachiyomi.animeextension.ru.yummyanime": {
+      "name": "YummyAnime",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://ru.yummyani.me"
+    },
+    "eu.kanade.tachiyomi.animeextension.es.azanimex": {
+      "name": "az-animex",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://www.az-animex.com"
+    },
+    "eu.kanade.tachiyomi.animeextension.pl.desuonline": {
+      "name": "desu-online",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://desu-online.pl"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.hahomoe": {
+      "name": "haho.moe",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://haho.moe"
+    },
+    "eu.kanade.tachiyomi.animeextension.en.hanime": {
+      "name": "hanime.tv",
+      "tier": "C",
+      "idType": "title",
+      "numbering": "absolute",
+      "baseUrl": "https://hanime.tv"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.debridindex": {
+      "name": "Debrid Index",
+      "tier": "S",
+      "idType": "imdb/kitsu",
+      "numbering": "stremio-native",
+      "baseUrl": "https://torrentio.strem.fun"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.torrentio": {
+      "name": "Torrentio (Torrent / Debrid)",
+      "tier": "S",
+      "idType": "imdb/kitsu",
+      "numbering": "stremio-native",
+      "baseUrl": "https://torrentio.strem.fun"
+    },
+    "eu.kanade.tachiyomi.animeextension.all.torrentioanime": {
+      "name": "Torrentio Anime (Torrent / Debrid)",
+      "tier": "S",
+      "idType": "imdb/kitsu",
+      "numbering": "stremio-native",
+      "baseUrl": "https://torrentio.strem.fun"
+    }
+  },
+  "db": {
+    "version": "2026-09-24",
+    "sha256": "a562e6da0836c3f568a3dc9a25bbfb10f4d9a1dc064794f5611d32e675de633e",
+    "rows": 32367,
+    "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-anime-map.db.gz"
+  }
+}
