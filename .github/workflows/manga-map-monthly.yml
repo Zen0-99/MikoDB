@@ -1,0 +1,47 @@
+name: Monthly Manga Map Refresh
+
+on:
+  schedule:
+    - cron: '15 4 1 * *'   # 1st of month 04:15 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: Download + decompress MangaBaka dump
+        run: |
+          curl -fL -o series.full.sqlite.zst https://api.mangabaka.org/v1/database/series.full.sqlite.zst
+          unzstd -f series.full.sqlite.zst
+          rm series.full.sqlite.zst
+
+      - name: Build manga map artifact
+        run: node --experimental-sqlite scripts/build-manga-map.mjs series.full.sqlite dist
+
+      - name: Update miko.json mangaDb block
+        run: |
+          node scripts/update-manga-sidecar.mjs
+
+      - name: Commit manifest changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add miko.json
+          git diff --staged --quiet || git commit -m "Manga map refresh: $(date -u '+%Y-%m-%d')"
+          git push
+
+      - name: Publish artifact to db-latest release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh release view db-latest >/dev/null 2>&1 || \
+            gh release create db-latest --title "MikoDB artifact" --notes "Rolling release for Miko identity mapping databases."
+          gh release upload db-latest dist/miko-manga-map.db.gz --clobber
