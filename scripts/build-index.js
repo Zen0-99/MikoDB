@@ -20,6 +20,9 @@ const ROOT = path.join(__dirname, '..');
 const CURATION = path.join(ROOT, 'curation.json');
 const UPSTREAM = 'https://raw.githubusercontent.com/yuzono/anime-repo/repo/index.min.json';
 const UPSTREAM_RAW = 'https://raw.githubusercontent.com/yuzono/anime-repo/repo';
+// MikoNovelSources — novel/book APK extensions merged into this repo so one
+// GitHub URL gives Miko both anime extensions and novel sources.
+const NOVEL_REPO = 'https://raw.githubusercontent.com/Zen0-99/MikoNovelSources/main';
 
 function fetchJson(url) {
   return new Promise((resolve, reject) => {
@@ -37,6 +40,7 @@ function fetchJson(url) {
 }
 
 function download(url, dest) {
+  if (fs.existsSync(dest) && fs.statSync(dest).size > 0) return Promise.resolve();
   return new Promise((resolve, reject) => {
     const get = (u, redirects = 5) => {
       https.get(u, { headers: { 'User-Agent': 'MikoDB-Build/1.0' } }, res => {
@@ -89,6 +93,31 @@ async function main() {
       .catch(e => console.log(`apk ${pkg}: ${e.message}`)));
     jobs.push(download(`${UPSTREAM_RAW}/icon/${pkg}.png`, path.join(ROOT, 'icon', `${pkg}.png`))
       .catch(() => {})); // icons optional
+  }
+
+  // Merge the MikoNovelSources index — novel entries pass through as-is
+  // (already `Miko:`-named, yokai.extension.novel.* pkgs); APKs and icons are
+  // mirrored into this repo's apk/ and icon/ dirs.
+  const novelIndex = await fetchJson(`${NOVEL_REPO}/index.min.json`).catch(e => {
+    console.log(`novel index fetch failed: ${e.message}`);
+    return [];
+  });
+  for (const e of novelIndex) {
+    index.push({
+      name: e.name,
+      pkg: e.pkg,
+      apk: e.apk,
+      lang: e.lang,
+      code: e.code,
+      version: e.version,
+      nsfw: e.nsfw ?? 0,
+      ...(e.sources ? { sources: e.sources } : {}),
+      ...(e.mikoNovel ? { mikoNovel: e.mikoNovel } : {}),
+    });
+    jobs.push(download(`${NOVEL_REPO}/apk/${e.apk}`, path.join(ROOT, 'apk', e.apk))
+      .catch(err => console.log(`novel apk ${e.pkg}: ${err.message}`)));
+    jobs.push(download(`${NOVEL_REPO}/icon/${e.pkg}.png`, path.join(ROOT, 'icon', `${e.pkg}.png`))
+      .catch(() => {}));
   }
 
   // Download with modest concurrency
