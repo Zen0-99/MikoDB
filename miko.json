@@ -1028,5 +1028,11 @@
     "sha256": "a562e6da0836c3f568a3dc9a25bbfb10f4d9a1dc064794f5611d32e675de633e",
     "rows": 32367,
     "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-anime-map.db.gz"
+  },
+  "mangaDb": {
+    "version": "2026-09-26",
+    "sha256": "d89d89bb2665fec405bac575e21737b55607ccf2a738243d0c8ed51bbf7ca6e7",
+    "rows": 562358,
+    "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-manga-map.db.gz"
   }
 }
