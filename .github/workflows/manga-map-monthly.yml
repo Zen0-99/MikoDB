@@ -21,10 +21,18 @@ jobs:
         run: |
           curl -fL -o series.full.sqlite.zst https://api.mangabaka.org/v1/database/series.full.sqlite.zst
           unzstd -f series.full.sqlite.zst
-          rm series.full.sqlite.zst
+          # Keep the raw compressed dump — it's published as a release
+          # asset below so the map can be rebuilt even if MangaBaka's
+          # upstream dump disappears.
 
       - name: Build manga map artifact
         run: node --experimental-sqlite scripts/build-manga-map.mjs series.full.sqlite dist
+
+      - name: Checksum raw dump for release
+        run: |
+          mkdir -p dist
+          sha256sum series.full.sqlite.zst > dist/series.full.sqlite.zst.sha256
+          cp series.full.sqlite.zst dist/series.full.sqlite.zst
 
       - name: Update miko.json mangaDb block
         run: |
@@ -45,3 +53,7 @@ jobs:
           gh release view db-latest >/dev/null 2>&1 || \
             gh release create db-latest --title "MikoDB artifact" --notes "Rolling release for Miko identity mapping databases."
           gh release upload db-latest dist/miko-manga-map.db.gz --clobber
+          # Raw MangaBaka input dump + checksum — rebuild input survives
+          # upstream loss (Phase 12-03 hardening).
+          gh release upload db-latest dist/series.full.sqlite.zst --clobber
+          gh release upload db-latest dist/series.full.sqlite.zst.sha256 --clobber

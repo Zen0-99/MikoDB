@@ -55,7 +55,9 @@ const PROVIDER_ID_COLS = {
     anime_news_network: 'source_anime_news_network_id',
 };
 
-// provider_links external_id extractors (chapter-alignment seeds)
+// provider_links external_id extractors (chapter-alignment seeds).
+// Provider ids here define the vocabulary `manga_sources[].providers`
+// joins against — keep in sync with seed-manga-sources.mjs.
 const LINK_EXTRACTORS = [
     [/mangadex\.org\/title\/([0-9a-f-]{36})/i, 'mangadex'],
     [/webtoons\.com[^?]*\?[^"]*title_no=(\d+)/i, 'webtoons'],
@@ -63,6 +65,18 @@ const LINK_EXTRACTORS = [
     [/novelupdates\.com\/series\/([\w-]+)/i, 'novelupdates'],
     [/royalroad\.com\/fiction\/(\d+)/i, 'royalroad'],
     [/comic\.naver\.com\/webtoon\/list.*titleId=(\d+)/i, 'naver'],
+    [/series\.naver\.com\/.*[?&]productNo=(\d+)/i, 'naver'],
+    [/tapas\.io\/series\/([\w-]+)/i, 'tapas'],
+    [/comikey\.com\/comics\/id\/(\d+)/i, 'comikey'],
+    [/global\.manga-up\.com\/manga\/(\d+)/i, 'mangaup'],
+    [/toomics\.com\/.*(?:title_no=|\/)(\d+)/i, 'toomics'],
+    [/manta\.(?:net|com)\/(?:en\/)?series?\/(\d+)/i, 'manta'],
+    [/tappytoon\.com\/(?:en\/)?(?:comics|series|book)\/([\w-]+)/i, 'tappytoon'],
+    [/inkr\.com\/title\/([\w-]+)/i, 'inkr'],
+    [/page\.kakao\.com\/content\/(\d+)/i, 'kakao'],
+    [/webtoon\.kakao\.com\/content\/([\w-]+)/i, 'kakao'],
+    [/lezhin(?:us)?\.com\//i, 'lezhin'],
+    [/mangaplus\.shueisha\.co\.jp\/titles\/(\d+)/i, 'mangaplus'],
 ];
 
 const srcDb = new DatabaseSync(src, { open: true, readOnly: true });
@@ -145,7 +159,7 @@ for (const r of srcDb.prepare(`SELECT ${selectCols.map(c => `"${c}"`).join(',')}
             let provider = null, ext = null;
             for (const [re, name] of LINK_EXTRACTORS) {
                 const m = re.exec(l.url);
-                if (m) { provider = name; ext = m[1]; break; }
+                if (m) { provider = name; ext = m[1] ?? null; break; }
             }
             if (provider) {
                 insLink.run(wid, provider, ext, l.url);
