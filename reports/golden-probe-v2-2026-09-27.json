@@ -1,0 +1,2908 @@
+[
+  {
+    "source": "en.asurascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://asurascans.com/comics/solo-max-level-newbie-05c7df14",
+    "ch1": [
+      "Chapter 1 Nov 15, 2023  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 Base Defence Jun 25, 2022  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 285,
+    "totalNames": 287
+  },
+  {
+    "source": "en.asurascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://asurascans.com/comics/the-hero-cannot-rest-05c7df14",
+    "ch1": [
+      "Chapter 1 2 days ago  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 13,
+    "totalNames": 15
+  },
+  {
+    "source": "en.atsumaru",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.atsumaru",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.allanime",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.allanime",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.aryascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.aryascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "all.comicklive",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "all.comicklive",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.bbato",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.comix",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.bbato",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.dragontea",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.dragontea",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.comix",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.drakescans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://drakecomic.net/series/comic/disastrous-necromancer?ref=homepage_hero",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 107,
+    "totalNames": 107
+  },
+  {
+    "source": "en.dynasty",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://dynasty-scans.com/?post_type=wp-manga&amp;s=Naruto",
+    "ch1": [
+      "1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 11,
+    "totalNames": 11
+  },
+  {
+    "source": "en.decadencescans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://reader.decadencescans.com/manga/geten-no-hana/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.dynasty",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.drakescans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://drakecomic.net/series/comic/disastrous-necromancer?ref=homepage_hero",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 107,
+    "totalNames": 107
+  },
+  {
+    "source": "en.flamecomics",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://flamecomics.xyz/series/2",
+    "ch1": [
+      "1.00  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "50.00  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 313,
+    "totalNames": 313
+  },
+  {
+    "source": "en.flamecomics",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://flamecomics.xyz/series/2",
+    "ch1": [
+      "1.00  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "50.00  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 313,
+    "totalNames": 313
+  },
+  {
+    "source": "en.decadencescans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://reader.decadencescans.com/manga/kibyou-musume-to-toribito-no-hiyaku/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 2,
+    "totalNames": 2
+  },
+  {
+    "source": "en.galaxydegenscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://gdscans.com/manga/villain-heroine/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.galaxydegenscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://gdscans.com/manga/villain-heroine/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.suryascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.elftoon",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "themesia",
+    "picked": "https://elftoon.com/manga/infinite-evolution-from-zero/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 127,
+    "totalNames": 129
+  },
+  {
+    "source": "en.elftoon",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "themesia",
+    "picked": "https://elftoon.com/manga/infinite-evolution-from-zero/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 127,
+    "totalNames": 129
+  },
+  {
+    "source": "en.suryascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.gourmetscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://gourmetsupremacy.com/id/",
+    "ch1": null,
+    "ch50": [
+      "Episode 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 102,
+    "totalNames": 102
+  },
+  {
+    "source": "en.hijalascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://en-hijala.com/series/win-with-art",
+    "ch1": [
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Chapter 1 New  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 11,
+    "totalNames": 11
+  },
+  {
+    "source": "en.hijalascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://en-hijala.com/series/win-with-art",
+    "ch1": [
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Chapter 1 New  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 11,
+    "totalNames": 11
+  },
+  {
+    "source": "en.grimscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://grimscans.com/series/turn-based-wizard/",
+    "ch1": [
+      "Chapter 1 Jul 13, 2025  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 29,
+    "totalNames": 29
+  },
+  {
+    "source": "en.grimscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://grimscans.com/series/turn-based-wizard/",
+    "ch1": [
+      "Chapter 1 Jul 13, 2025  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 29,
+    "totalNames": 29
+  },
+  {
+    "source": "en.infernalvoidscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://hivetoons.org/series/red-shirt",
+    "ch1": [
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 26,
+    "totalNames": 26
+  },
+  {
+    "source": "en.infernalvoidscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://hivetoons.org/series/red-shirt",
+    "ch1": [
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 26,
+    "totalNames": 26
+  },
+  {
+    "source": "en.gourmetscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://gourmetsupremacy.com/id/search/solo-leveling/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.hiperdex",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.infinityscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.hiperdex",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.infinityscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.kenscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://kencomics.com/series/im-a-solo-guide",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.kenscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "script-json",
+    "picked": "https://kencomics.com/series/im-a-solo-guide",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.kodansha",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.kodansha",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.kunmangaonline",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://www.kunmanga.online/manga/renge-and-naruto",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 24,
+    "totalNames": 24
+  },
+  {
+    "source": "en.kunmangaonline",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://www.kunmanga.online/manga/solo-leveling-side-story",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 25,
+    "totalNames": 25
+  },
+  {
+    "source": "en.kaynscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://kaynscans.com/series/comic/fog-land?ref=homepage_featured",
+    "ch1": [
+      "Chapter 1 Chapter 0  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 Chapter 49  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 57,
+    "totalNames": 57
+  },
+  {
+    "source": "en.kaynscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://kaynscans.com/series/comic/fog-land?ref=homepage_featured",
+    "ch1": [
+      "Chapter 1 Chapter 0  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 Chapter 49  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 57,
+    "totalNames": 57
+  },
+  {
+    "source": "en.lilymanga",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.lilymanga",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.luascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://luacomic.org/series/surviving-in-a-romance-fantasy-novel",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.luascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://luacomic.org/series/surviving-in-a-romance-fantasy-novel",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.lunatoons",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.lunatoons",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.magusmanga",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://magustoon.org/series/miss-pendleton",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.magusmanga",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://magustoon.org/series/miss-pendleton",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.mangademon",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://demonicscans.org/manga/Swordmaster%2527s-Youngest-Son",
+    "ch1": [
+      "Chapter 1 2022-05-01  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 2022-12-10  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 214,
+    "totalNames": 215
+  },
+  {
+    "source": "en.mangademon",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://demonicscans.org/manga/Swordmaster%2527s-Youngest-Son",
+    "ch1": [
+      "Chapter 1 2022-05-01  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 2022-12-10  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 214,
+    "totalNames": 215
+  },
+  {
+    "source": "en.mangadistrict",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "madara-inline",
+    "picked": "https://mangadistrict.com/series/solo-leveling/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 203,
+    "totalNames": 203
+  },
+  {
+    "source": "en.mangadistrict",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "madara-inline",
+    "picked": "https://mangadistrict.com/series/searching-for-mr-hairless/",
+    "ch1": [
+      "Chapter 1 - Episode 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 9,
+    "totalNames": 9
+  },
+  {
+    "source": "ja.mangaparkpublisher",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://manga-park.com/title/103889",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.mangabat",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.mangabat",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.lhtranslation",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://lhtranslation.net/manga/genjitsushugi-yuusha-no-oukoku-saikenki/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 14,
+    "totalNames": 15
+  },
+  {
+    "source": "en.lhtranslation",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://lhtranslation.net/manga/genjitsushugi-yuusha-no-oukoku-saikenki/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 14,
+    "totalNames": 15
+  },
+  {
+    "source": "all.mangafire",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "ja.mangaparkpublisher",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://manga-park.com/title/103889",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.mangagg",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.mangagg",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "all.mangafire",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.mangago",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.mangago",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.mangahubio",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.mangahere",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://www.mangahere.cc/login/?from=%2f%3fs%3dNaruto%26post_type%3dwp-manga",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.mangabuddy",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://mangak.io/api/auth/hub-start?intent=login&amp;return_to=%2Fsearch%3Fquery%3DNaruto",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto"
+    ]
+  },
+  {
+    "source": "en.mangakakalot",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.mangakakalot",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.mangahere",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "themesia",
+    "picked": "https://www.mangahere.cc/manga/solo_leveling/",
+    "ch1": [
+      "Ch.001 Nov 05,2018  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Ch.050 Dec 20,2018  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 212,
+    "totalNames": 212
+  },
+  {
+    "source": "en.manganelo",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.manganelo",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.mangahubio",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.mangapill",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://mangapill.com/mangas/new",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.mangapill",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://mangapill.com/mangas/new",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.mangareadorg",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK",
+    "via": "madara-inline",
+    "picked": "https://www.mangaread.org/manga/naruto-konohas-story-the-steam-ninja-scrolls-the-manga/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 15,
+    "totalNames": 15
+  },
+  {
+    "source": "en.mangareadorg",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "madara-inline",
+    "picked": "https://www.mangaread.org/manga/solo-leveling-ragnarok/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 69,
+    "totalNames": 69
+  },
+  {
+    "source": "en.mangabuddy",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://mangak.io/manga/edit-info",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.manhuaplus",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "madara-inline",
+    "picked": "https://manhuaplus.com/manga/martial-peak/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 3364,
+    "totalNames": 3364
+  },
+  {
+    "source": "en.manhuaus",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.manhuaplus",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "madara-inline",
+    "picked": "https://manhuaplus.com/manga/martial-peak/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 3364,
+    "totalNames": 3364
+  },
+  {
+    "source": "en.manhwatop",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.manhuaus",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.manhwatop",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.mistscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://mistscans.com/series/solo-ex-rank-summoner/",
+    "ch1": [
+      "Chapter 1 Apr 16, 2026  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 40,
+    "totalNames": 40
+  },
+  {
+    "source": "en.mangasushi",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://mangasushi.org/manga/koko-wa-makasete-sakini-ike-wo-shitai-shinitagari-no-nozomanu-uchuu-gekokujou/",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.mangasushi",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://mangasushi.org/manga/koko-wa-makasete-sakini-ike-wo-shitai-shinitagari-no-nozomanu-uchuu-gekokujou/",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "all.niadd",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://www.niadd.com/manga/Quan_Qiu_Yi_Neng_Kaiju_Juexing_Zi_Xiao_Shen_Lei.html",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 5,
+    "totalNames": 6
+  },
+  {
+    "source": "en.mistscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://mistscans.com/series/solo-ex-rank-summoner/",
+    "ch1": [
+      "Chapter 1 Apr 16, 2026  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 40,
+    "totalNames": 40
+  },
+  {
+    "source": "en.nyrascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.nyrascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "all.niadd",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://www.niadd.com/manga/Solo_Leveling.html",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 5,
+    "totalNames": 6
+  },
+  {
+    "source": "en.nyxscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://nyxscans.com/series/asha-of-the-border",
+    "ch1": [
+      "Chapter 1 14 days  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 19,
+    "totalNames": 19
+  },
+  {
+    "source": "en.omegascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://omegascans.org/series/love-quest",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.nyxscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://nyxscans.com/series/asha-of-the-border",
+    "ch1": [
+      "Chapter 1 14 days  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 19,
+    "totalNames": 19
+  },
+  {
+    "source": "en.omegascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://omegascans.org/series/love-quest",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.orionscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "script-json",
+    "picked": "https://orion-scans.com/series/only-i-know-about-%22leveling-up%22-in-this-world",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.murimscan",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "all.projectsuki",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://projectsuki.com/book/198359",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto"
+    ]
+  },
+  {
+    "source": "en.orionscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://orion-scans.com/series/the-fixer%3A-soji",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "all.projectsuki",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://projectsuki.com/book/198359",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.renascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://renascans.net/series/the-one-in-my-class-hceltuys",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.murimscan",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.renascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://renascans.net/series/the-one-in-my-class-hceltuys",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.ritharscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://ritharscans.com/series/3c5afb0a-0f72-4c33-a5fc-2113fdf48d9e",
+    "ch1": [
+      "Chapter 01 1yr ago 7.3 K Views  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 6mos ago 2.5 K Views  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 78,
+    "totalNames": 79
+  },
+  {
+    "source": "en.ritharscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://ritharscans.com/series/3c5afb0a-0f72-4c33-a5fc-2113fdf48d9e",
+    "ch1": [
+      "Chapter 01 1yr ago 7.3 K Views  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 6mos ago 2.5 K Views  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 78,
+    "totalNames": 79
+  },
+  {
+    "source": "en.rizzcomic",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "themesia",
+    "picked": "https://rizzfables.com/series/r2311170-leveling-up-with-the-gods",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 146,
+    "totalNames": 148
+  },
+  {
+    "source": "en.rizzcomic",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "themesia",
+    "picked": "https://rizzfables.com/series/r2311170-top-tier-providence",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 230,
+    "totalNames": 232
+  },
+  {
+    "source": "en.ravenscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK",
+    "via": "themesia",
+    "picked": "https://ravenscans.org/manga/renge-to-naruto/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 62,
+    "totalNames": 62
+  },
+  {
+    "source": "en.ravenscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "themesia",
+    "picked": "https://ravenscans.org/manga/solo-leveling-arise/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 18,
+    "totalNames": 18
+  },
+  {
+    "source": "en.rosesquadscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.rosesquadscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.sanascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://sanascans.com/series/the-oblivious-saint-who-leaks-power-finds-happiness-in-her-new-home",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.sanascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://sanascans.com/series/the-oblivious-saint-who-leaks-power-finds-happiness-in-her-new-home",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 3
+  },
+  {
+    "source": "en.setsuscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.s2manga",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "madara-inline",
+    "picked": "https://s2read.com/manga/reveries-of-the-moonlight/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 40,
+    "totalNames": 40
+  },
+  {
+    "source": "en.setsuscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.s2manga",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "madara-inline",
+    "picked": "https://s2read.com/manga/solo-leveling-arise/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 26,
+    "totalNames": 26
+  },
+  {
+    "source": "en.tcbscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.tcbscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.sleepytranslations",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://sleepytranslations.com/series/after-i-married-the-disabled-war-god-as-my-concubine/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 21,
+    "totalNames": 21
+  },
+  {
+    "source": "en.sleepytranslations",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://sleepytranslations.com/series/after-i-married-the-disabled-war-god-as-my-concubine/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 21,
+    "totalNames": 21
+  },
+  {
+    "source": "en.templescan",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.toongod",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.toongod",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.toonily",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.templescan",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.toonily",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.topmanhua",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://mangatop.org/series/solo-leveling-arise/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 20,
+    "totalNames": 20
+  },
+  {
+    "source": "en.valirscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://valirscans.org/series/comic/about-things-that-havent-occurred-yet?ref=homepage_featured",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 20,
+    "totalNames": 20
+  },
+  {
+    "source": "en.topmanhua",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://mangatop.org/series/i-m-a-solo-guide/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 20,
+    "totalNames": 20
+  },
+  {
+    "source": "en.valirscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://valirscans.org/series/comic/about-things-that-havent-occurred-yet?ref=homepage_featured",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 20,
+    "totalNames": 20
+  },
+  {
+    "source": "en.shojoscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://violetscans.org/comics/list-mode",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 10,
+    "totalNames": 10
+  },
+  {
+    "source": "en.arvenscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://vortexscans.org/series/contract-killer-enrollment",
+    "ch1": [
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Chapter 1 3 months  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 22,
+    "totalNames": 22
+  },
+  {
+    "source": "en.arvenscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://vortexscans.org/series/contract-killer-enrollment",
+    "ch1": [
+      "Read Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Chapter 1 3 months  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 22,
+    "totalNames": 22
+  },
+  {
+    "source": "en.shojoscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://violetscans.org/comics/list-mode",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 10,
+    "totalNames": 10
+  },
+  {
+    "source": "en.vyvymanga",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://mangavyvy.net/manga/define-the-relationship_-l",
+    "ch1": [
+      "Chapter 1 Jan 10, 2024  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 Jan 10, 2024  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 109,
+    "totalNames": 113
+  },
+  {
+    "source": "en.vyvymanga",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://mangavyvy.net/manga/solo-leveling-78ay",
+    "ch1": [
+      "Chapter 1 Dec 26, 2021  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50 Dec 26, 2021  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 208,
+    "totalNames": 210
+  },
+  {
+    "source": "en.webdexscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.webtoonxyz",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "en.webdexscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.weebcentral",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.weebcentral",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT"
+  },
+  {
+    "source": "en.webtoonxyz",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "CF_BLOCKED",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.witchscans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://witchtoons.net/series/comic/global-superpowers-awakening-the-purple-heaven-divine-thunder-at-the-start?ref=homepage_latest",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 92,
+    "totalNames": 92
+  },
+  {
+    "source": "en.witchscans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://witchtoons.net/series/comic/global-superpowers-awakening-the-purple-heaven-divine-thunder-at-the-start?ref=homepage_latest",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 92,
+    "totalNames": 92
+  },
+  {
+    "source": "en.tritiniascans",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://tritinia.org/manga/kekkon-shiyou-rikon-zentei-de/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.xoxocomics",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://xoxocomic.com/comic/spider-man-long-way-home",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.xoxocomics",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://xoxocomic.com/comic/spider-man-long-way-home",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.wuxiaworld",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://wuxiaworld.site/novel/reborn-into-naruto-world-with-tenseigan/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 59,
+    "totalNames": 61
+  },
+  {
+    "source": "en.tritiniascans",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://tritinia.org/manga/kekkon-shiyou-rikon-zentei-de/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.wuxiaworld",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "generic-anchors",
+    "picked": "https://wuxiaworld.site/novel/solo-leveling-ragnarok/",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 59,
+    "totalNames": 61
+  },
+  {
+    "source": "all.comikey",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://comikey.com/comics/from-superfan-to-stepsister-manga/530/",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.zinmanga",
+    "tier": "A",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "madara-inline",
+    "picked": "https://mangazin.org/manga/solo-leveling-arise/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": null,
+    "parsedCount": 26,
+    "totalNames": 26
+  },
+  {
+    "source": "all.comikey",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "NO_CHAPTER_LIST",
+    "picked": "https://comikey.com/comics/leveling-up-the-hero-to-nation-manga/327/",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.inkr",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://comics.inkr.com/title/5377-neo-faust",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 2,
+    "totalNames": 4
+  },
+  {
+    "source": "en.inkr",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://comics.inkr.com/title/5377-neo-faust",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 2,
+    "totalNames": 4
+  },
+  {
+    "source": "en.kmanga",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://kmanga.kodansha.com/title/10011/episode/317222",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 1
+  },
+  {
+    "source": "en.kmanga",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://kmanga.kodansha.com/title/10011/episode/317222",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 1
+  },
+  {
+    "source": "en.zinmanga",
+    "tier": "A",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "madara-inline",
+    "picked": "https://mangazin.org/manga/i-m-a-solo-guide/",
+    "ch1": [
+      "Chapter 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "Chapter 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 88,
+    "totalNames": 88
+  },
+  {
+    "source": "all.mangaup",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://global.manga-up.com/manga/1026",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "all.mangadex",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "OK",
+    "via": "api",
+    "picked": "275c3ee8-bdeb-4070-a333-6add23a8415a",
+    "ch1": null,
+    "ch50": [
+      "Chapter 50 - Heater!  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 33,
+    "totalNames": 33
+  },
+  {
+    "source": "all.mangadex",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "api",
+    "picked": "ade0306c-f4b6-4890-9edb-1ddf04df2039",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 0,
+    "totalNames": 0
+  },
+  {
+    "source": "all.mangaup",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://global.manga-up.com/manga/1026",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "all.mangaplus",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "all.manta",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://manta.net/en/series/under-the-oak-tree?seriesId=1255",
+    "ch1": [
+      "S1 Episode 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Mini Episode 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "S2 Episode 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 186,
+    "totalNames": 186
+  },
+  {
+    "source": "all.manta",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "script-json",
+    "picked": "https://manta.net/en/series/under-the-oak-tree?seriesId=1255",
+    "ch1": [
+      "S1 Episode 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}",
+      "Mini Episode 1  => {\"number\":1,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "ch50": [
+      "S2 Episode 50  => {\"number\":50,\"volume\":null,\"part\":null,\"kind\":\"chapter\"}"
+    ],
+    "parsedCount": 186,
+    "totalNames": 186
+  },
+  {
+    "source": "all.mangaplus",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "en.tapastic",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "OK_UNVERIFIED",
+    "via": "generic-anchors",
+    "picked": "https://tapas.io/account/signin?from=/?s=Naruto&amp;post_type=wp-manga",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 1,
+    "totalNames": 1
+  },
+  {
+    "source": "en.tapastic",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://tapas.io/series/300256",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "ko.navercomic",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "ko.navercomic",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "all.toomics",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://global.toomics.com/en/webtoon/search_v2",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "all.toomics",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "WRONG_PAGE",
+    "picked": "https://global.toomics.com/en/webtoon/search_v2",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.vizshonenjump",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "WRONG_PAGE",
+    "picked": "https://www.viz.com/manga-books/manga/black-torch-complete-box-set/product/9008",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "en.vizshonenjump",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "NO_CHAPTER_LIST",
+    "picked": "https://www.viz.com/naruto",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga"
+    ]
+  },
+  {
+    "source": "all.tappytoon",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Naruto&post_type=wp-manga",
+      "/?s=Naruto",
+      "/search?query=Naruto",
+      "/search?q=Naruto",
+      "/search?keyword=Naruto",
+      "/search?title=Naruto",
+      "/search?name=Naruto",
+      "/search/naruto",
+      "/series?name=Naruto",
+      "/series?search=Naruto",
+      "/comics?q=Naruto",
+      "/manga?title=Naruto"
+    ]
+  },
+  {
+    "source": "all.webtoons",
+    "tier": "S",
+    "title": "Naruto",
+    "status": "NO_CHAPTER_LIST",
+    "picked": "1166391"
+  },
+  {
+    "source": "all.tappytoon",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "NO_SEARCH_HIT",
+    "tried": [
+      "/?s=Solo%20Leveling&post_type=wp-manga",
+      "/?s=Solo%20Leveling",
+      "/search?query=Solo%20Leveling",
+      "/search?q=Solo%20Leveling",
+      "/search?keyword=Solo%20Leveling",
+      "/search?title=Solo%20Leveling",
+      "/search?name=Solo%20Leveling",
+      "/search/solo-leveling",
+      "/series?name=Solo%20Leveling",
+      "/series?search=Solo%20Leveling",
+      "/comics?q=Solo%20Leveling",
+      "/manga?title=Solo%20Leveling"
+    ]
+  },
+  {
+    "source": "all.webtoons",
+    "tier": "S",
+    "title": "Solo Leveling",
+    "status": "OK",
+    "via": "webtoons-ajax",
+    "picked": "2154",
+    "ch1": null,
+    "ch50": null,
+    "parsedCount": 9,
+    "totalNames": 9
+  }
+]
