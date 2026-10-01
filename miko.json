@@ -1030,10 +1030,14 @@
     "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-anime-map.db.gz"
   },
   "mangaDb": {
-    "version": "2026-09-26",
-    "sha256": "d89d89bb2665fec405bac575e21737b55607ccf2a738243d0c8ed51bbf7ca6e7",
-    "rows": 562358,
-    "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-manga-map.db.gz"
+    "version": "2026-10-01",
+    "sha256": "1a8550731f639bee6b11bdaf2c12c9c9799134c15ed54927c068d9e33200ec05",
+    "rows": 562717,
+    "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-manga-map.db.gz",
+    "sourceDump": {
+      "sha256": "563c72805175c84e0a35a5e4e11bdc9e77977a40097cb12f53bf2bde7b18755f",
+      "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/series.full.sqlite.zst"
+    }
   },
   "manga_sources": {
     "eu.kanade.tachiyomi.extension.all.ahottie": {
