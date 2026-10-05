@@ -1,36 +1,6 @@
 {
  "titles": {
-  "x-jat": "CowBe",
-  "ru": "Ковбой Бибоп ТВ",
-  "ar": "صائدو جوائز بيبوب",
-  "nl": "Cowboy Bebop",
-  "lt": "Kaubojus Bebopas",
-  "tr": "Kovboy Bebop",
-  "uk": "Ковбой Бібоп ТБ",
-  "fa": "کابوی بیباپ",
-  "ja": "カウボーイビバップ",
-  "zh": "星际牛仔",
-  "en": "Cowboy Bebop",
-  "de": "Cowboy Bebop",
-  "fr": "Cowboy Bebop",
-  "it": "Cowboy Bebop",
-  "es": "Cowboy Bebop",
-  "ko": "카우보이 비밥",
-  "pl": "Cowboy Bebop",
-  "pt": "Cowboy Bebop",
-  "pt-BR": "Cowboy Bebop",
-  "es-CA": "Cowboy Bebop",
-  "cs": "Kovboj Bebop",
-  "fi": "Cowboy Bebop",
-  "el": "Καουμπόηδες του Διαστήματος",
-  "he": "קאובוי ביבופ",
-  "hu": "Csillagközi fejvadászok",
-  "ro": "Cowboy Bebop",
-  "bg": "Марсиански каубой",
-  "hr": "Kauboj Bebop",
-  "zh-Hant": "星際牛仔",
-  "zh-Hans": "星际牛仔",
-  "es-419": "Cowboy Bebop"
+  "en": "Synthetic Prefix Fixture (Bebop-derived)"
  },
  "episodes": {
   "1": {

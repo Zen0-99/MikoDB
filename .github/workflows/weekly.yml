@@ -22,8 +22,21 @@ jobs:
       - name: Rebuild extension index + mirror APKs/icons
         run: node scripts/build-index.js
 
+      - name: Restore ani.zip fetch cache
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p data/anizip
+          if gh release view db-latest >/dev/null 2>&1; then
+            gh release download db-latest -p anizip-cache.tar.gz --clobber || true
+            [ -f anizip-cache.tar.gz ] && tar xzf anizip-cache.tar.gz -C data || true
+          fi
+
       - name: Rebuild identity DB artifact
         run: node scripts/build-db.js
+
+      - name: Validate episode table
+        run: node scripts/check-episodes.mjs dist/miko-anime-map.db
 
       - name: Commit index + manifest changes
         run: |
@@ -40,3 +53,7 @@ jobs:
           gh release view db-latest >/dev/null 2>&1 || \
             gh release create db-latest --title "MikoDB artifact" --notes "Rolling release for the anime identity mapping database."
           gh release upload db-latest dist/miko-anime-map.db.gz --clobber
+          if [ -d data/anizip ]; then
+            tar czf dist/anizip-cache.tar.gz -C data anizip
+            gh release upload db-latest dist/anizip-cache.tar.gz --clobber
+          fi

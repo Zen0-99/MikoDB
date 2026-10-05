@@ -1,0 +1,10 @@
+{
+  "slug": "shingeki-no-kyojin",
+  "title": "Attack on Titan",
+  "mappings": { "anilist_id": 16498, "mal_id": 16498 },
+  "episodes": [
+    { "episode": 16, "title": "What Needs to Be Done Now: Eve of the Counterattack, Part 3", "type": "filler", "aired_date": "2013-07-28" },
+    { "episode": 22, "title": "The Defeated: The 57th Exterior Scouting Mission, Part 6", "type": "mixed-manga", "aired_date": "2013-09-08" },
+    { "episode": 1, "title": "To You, 2000 Years in the Future", "type": "manga-canon", "aired_date": "2013-04-07" }
+  ]
+}

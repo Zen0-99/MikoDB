@@ -1,0 +1,10 @@
+{
+  "slug": "cowboy-bebop",
+  "title": "Cowboy Bebop",
+  "mappings": { "anilist_id": 1, "mal_id": 1 },
+  "episodes": [
+    { "episode": 9, "title": "Jamming with Edward", "type": "filler", "aired_date": "1998-05-29" },
+    { "episode": 11, "title": "Toys in the Attic", "type": "mixed-manga", "aired_date": "1998-06-05" },
+    { "episode": 1, "title": "Asteroid Blues", "type": "manga-canon", "aired_date": "1998-04-03" }
+  ]
+}

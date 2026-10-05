@@ -10,6 +10,7 @@
     "check:episodes": "node scripts/check-episodes.mjs dist/miko-anime-map.db"
   },
   "dependencies": {
-    "better-sqlite3": "^11.10.0"
+    "better-sqlite3": "^11.10.0",
+    "cheerio": "^1.2.0"
   }
 }
