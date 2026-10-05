@@ -6,7 +6,8 @@
   "scripts": {
     "build:index": "node scripts/build-index.js",
     "build:db": "node scripts/build-db.js",
-    "build": "node scripts/build-index.js && node scripts/build-db.js"
+    "build": "node scripts/build-index.js && node scripts/build-db.js",
+    "check:episodes": "node scripts/check-episodes.mjs dist/miko-anime-map.db"
   },
   "dependencies": {
     "better-sqlite3": "^11.10.0"
