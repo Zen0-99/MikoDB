@@ -396,6 +396,15 @@ async function refreshAnizipCache(db) {
     }
     if (++done % 200 === 0) console.log(`anizip fetch: ${done}/${items.length} (${stats.fetched} ok, ${stats.missed} 404, ${stats.errors} err)`);
   });
+  // Anomaly guard: a run where >50% of tasks 404 isn't real coverage —
+  // it's a sick upstream (edge block, API change, network event).
+  // Persisting its sentinels would poison the index for the full
+  // 90-day TTL, so keep the pre-run index on disk instead.
+  const missRatio = items.length ? stats.missed / items.length : 0;
+  if (missRatio > 0.5 && stats.fetched === 0) {
+    console.warn(`anizip fetch: ${stats.missed}/${items.length} 404s looks like an upstream anomaly — sentinels NOT persisted`);
+    return;
+  }
   fs.writeFileSync(indexPath, JSON.stringify(idx));
   console.log(`anizip fetch: ${stats.fetched} fetched, ${stats.missed} 404-sentinels, ${stats.errors} errors of ${items.length} tasks`);
 }
@@ -622,15 +631,20 @@ async function applyFiller(db, docs, coveredPairs) {
   }
 
   const uniqueJoin = (set) => (set && set.size === 1 ? [...set][0] : null);
+  // Fuzzy fallback tolerates mild title variants only — a raw
+  // distance cap (~10) false-joins unrelated short titles
+  // ("clannad"→"cowboy bebop"), so the cap scales with title length:
+  // ≤2 edits for short titles, ≤3 for long ones.
   const fuzzyJoin = normTitle => {
-    let best = null, bestDist = 11;
+    const cap = Math.max(2, Math.floor(normTitle.length * 0.15));
+    let best = null, bestDist = cap + 1;
     for (const [t, set] of titleToAnidb) {
-      if (t[0] !== normTitle[0] || Math.abs(t.length - normTitle.length) > 10) continue;
+      if (t[0] !== normTitle[0] || Math.abs(t.length - normTitle.length) > cap) continue;
       const d = levenshtein(t, normTitle);
       if (d < bestDist) { bestDist = d; best = set; }
       else if (d === bestDist && best && ![...set].every(x => best.has(x))) { best = null; } // tie → ambiguous
     }
-    return bestDist <= 10 ? uniqueJoin(best) : null;
+    return bestDist <= cap ? uniqueJoin(best) : null;
   };
 
   let afl, anifiller;
