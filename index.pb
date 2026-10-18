@@ -1,6 +1,6 @@
 
 MikoDB"#
-!https://github.com/Zen0-99/MikoDBª¦¾%
+!https://github.com/Zen0-99/MikoDBªšÉ%
 ·
 Aniyomi: AniPM+eu.kanade.tachiyomi.animeextension.en.anipmÂ
 Thttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.anipm-v16.6.apkjhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.anipm.png"16(216.68B% óÉé„÷/AniPMen"https://ani.pm
@@ -9,8 +9,7 @@ Thttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.anipm-v16.
 Vhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.anikage-v14.8.apklhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.anikage.png"14(214.88B+ÄğÙ²‰ëÌÅAnikageen"https://anikage.cc
 É
 Aniyomi: Re:ANIME-eu.kanade.tachiyomi.animeextension.en.reanimeÇ
-Whttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.reanime-v16.10.apklhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.reanime.png"16(
-216.108B,ÿ¦™÷Ó¥ÍbRe:ANIMEen"https://reanime.to
+Whttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.reanime-v16.11.apklhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.reanime.png"16(216.118B,ÿ¦™÷Ó¥ÍbRe:ANIMEen"https://reanime.to
 ã
 Aniyomi: ANIMEWORLD.tv0eu.kanade.tachiyomi.animeextension.it.animeworldÍ
 Zhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-it.animeworld-v16.61.apkohttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.it.animeworld.png"16(=216.618B8Ø©¬Ù£§¥Î[ANIMEWORLD.tvit"https://www.animeworld.ac
@@ -281,7 +280,7 @@ Xhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-es.latanime-v
 ^https://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.luciferdonghua-v14.28.apkshttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.luciferdonghua.png"14(214.288B9³‹íÿ–½ïÅLuciferDonghuaen"https://luciferdonghua.in
 Ç
 Aniyomi: MKissa,eu.kanade.tachiyomi.animeextension.en.mkissaÅ
-Vhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.mkissa-v16.71.apkkhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.mkissa.png"16(G216.718B/¢¡Ø¸Ö¹­AMKissaen"https://mkissa.to/anime
+Vhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.mkissa-v16.72.apkkhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.mkissa.png"16(H216.728B/¢¡Ø¸Ö¹­AMKissaen"https://mkissa.to/anime
 À
 Aniyomi: Mapple,eu.kanade.tachiyomi.animeextension.en.mappleÄ
 Uhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.mapple-v16.7.apkkhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.mapple.png"16(216.78B*›Ò•ëÑ·ÿª=Mappleen"https://mapple.fun
@@ -311,7 +310,7 @@ Whttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-all.missav-v1
 Whttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-de.movie4k-v14.20.apklhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.de.movie4k.png"14(214.208B/ßº×İÁ‡Á¡CMovie4kde"https://movie4k.stream
 Ô
 Aniyomi: MoviesMod/eu.kanade.tachiyomi.animeextension.en.moviesmodÊ
-Xhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.moviesmod-v14.3.apknhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.moviesmod.png"14(214.38B2ñùŠ şú¹ '
+Xhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.moviesmod-v16.4.apknhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.en.moviesmod.png"16(216.48B2ñùŠ şú¹ '
 Movies Moden"https://moviesmod.zone
 ç
 Aniyomi: Muito Hentai1eu.kanade.tachiyomi.animeextension.pt.muitohentaiÎ
@@ -470,11 +469,10 @@ Vhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-en.hanime-v14
 [https://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-all.debridindex-v14.2.apkqhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.all.debridindex.png"14(214.28B:ƒ•ºÖó«ú·Debrid Indexall"https://torrentio.strem.fun
 „
 %Aniyomi: Torrentio (Torrent / Debrid)0eu.kanade.tachiyomi.animeextension.all.torrentioÍ
-Zhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-all.torrentio-v14.10.apkohttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.all.torrentio.png"14(
-214.108BJ‘ñäşÓ©¤—3Torrentio (Torrent / Debrid)all"https://torrentio.strem.fun
+Zhttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-all.torrentio-v16.11.apkohttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.all.torrentio.png"16(216.118BJ‘ñäşÓ©¤—3Torrentio (Torrent / Debrid)all"https://torrentio.strem.fun
 Ÿ
 +Aniyomi: Torrentio Anime (Torrent / Debrid)5eu.kanade.tachiyomi.animeextension.all.torrentioanime×
-_https://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-all.torrentioanime-v14.22.apkthttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png"14(214.228BPÓíÌ¤”è£ùg"Torrentio Anime (Torrent / Debrid)all"https://torrentio.strem.fun
+_https://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/aniyomi-all.torrentioanime-v16.23.apkthttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png"16(216.238BPÓíÌ¤”è£ùg"Torrentio Anime (Torrent / Debrid)all"https://torrentio.strem.fun
 ¥
 Miko: Royal Road"yokai.extension.novel.en.royalroad¬
 Ghttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/apk/royalroad.apkahttps://raw.githubusercontent.com/Zen0-99/MikoDB/main/icon/yokai.extension.novel.en.royalroad.png"1.0(21.0.28B.ğ.
@@ -533,16 +531,13 @@ dhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-a
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.akuma-v1.6.10.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/akuma/res/mipmap-xhdpi/ic_launcher.png"1.6(š¼21.6.108B)‚šÁ‹ëÜüÊAkumaall"https://akuma.moeB(¡„ªó©â¦vAkumaen"https://akuma.moeB(ÒãòÈŠÒÍÙAkumaid"https://akuma.moeB(Õè˜«äñõŠ5Akumajv"https://akuma.moeB(–˜ÁáŒ†ËAkumaca"https://akuma.moeB)·…È¿üÁüËEAkumaceb"https://akuma.moeB(Ëä²¾ŒÑø®7Akumacs"https://akuma.moeB(ùÚ¦ı•ÌSAkumada"https://akuma.moeB(øµ²ÎíŒ¦vAkumade"https://akuma.moeB(“—Úÿ€¯è«qAkumaet"https://akuma.moeB(¬ÜŠ‡ï…™ÆJAkumaes"https://akuma.moeB(àğÄñ²ƒ®‰Akumaeo"https://akuma.moeB(±˜©”æ«­şAkumafr"https://akuma.moeB(İâƒÓ¡ÚâÉFAkumait"https://akuma.moeB(»‰şğ×û›¡Akumahi"https://akuma.moeB(†îã†ã·ßAkumahu"https://akuma.moeB(µÕîüá¸ÃîMAkumanl"https://akuma.moeB(ˆ¡È“µà¥qAkumapl"https://akuma.moeB(œÈÑ³ŠãôHAkumapt"https://akuma.moeB(²“ÂŒÈÙµ”Akumavi"https://akuma.moeB(”ÉáÂ¤º¨&Akumatr"https://akuma.moeB(àí”çĞ…ãaAkumaru"https://akuma.moeB(à˜²ŠÁóóÉHAkumauk"https://akuma.moeB(ş„ÃŞ‹ä­wAkumaar"https://akuma.moeB(ù°İúáÔ÷sAkumako"https://akuma.moeB(¢õïíÈÚ©óhAkumazh"https://akuma.moeB(³•µéÕÉšüIAkumaja"https://akuma.moe
 ü
 AllPornComics.co1eu.kanade.tachiyomi.extension.all.allporncomicscoä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.allporncomicsco-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/allporncomicsco/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B;¾‰İÀ„Ë¨•XAllPornComics.coall"https://allporncomics.co
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.allporncomicsco-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/allporncomicsco/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B;¾‰İÀ„Ë¨•XAllPornComics.coall"https://allporncomics.co
 ï
 	AsmHentai+eu.kanade.tachiyomi.extension.all.asmhentaiØ
 ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.asmhentai-v1.6.13.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/asmhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.138B0½ÚŒßâË«“U	AsmHentaien"https://asmhentai.comB0§è­«•öŒk	AsmHentaija"https://asmhentai.comB0ñ¨”´Ñºø'	AsmHentaizh"https://asmhentai.comB1êòÖĞÅÓ‡l	AsmHentaiall"https://asmhentai.com
 Å
 BaoBua(eu.kanade.tachiyomi.extension.all.baobuaÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.baobua-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/baobua/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B+î±¸£şÜ°‘BaoBuaall"https://baobua.net
-í
-3600000 Beauty/eu.kanade.tachiyomi.extension.all.beauty3600000á
-jhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.beauty3600000-v1.4.6.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png"1.4(Æ¬21.4.68B4¹¬¦¹ú°É¦L3600000 Beautyall"https://3600000.xyz
 Ñ
 Buon Dua)eu.kanade.tachiyomi.extension.all.buonduaÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.buondua-v1.6.11.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/buondua/res/mipmap-xhdpi/ic_launcher.png"1.6(›¼21.6.118B.ÇóÒÿÉÒ õBuon Duaall"https://buondua.com
@@ -566,33 +561,36 @@ Comic Furyother"https://comicfury.comB>­½¢„¼¤é›#Comic Fury (No Text)othe
 â
 Comic Growl,eu.kanade.tachiyomi.extension.all.comicgrowlÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.comicgrowl-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicgrowl/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B5ığòÁ—„ñ“Comic Growlall"https://comic-growl.com
-î
-Comick (Unoriginal),eu.kanade.tachiyomi.extension.all.comickliveÛ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.comicklive-v1.6.5.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B9Ùí¹”å›ÚEComick (Unoriginal)all"https://comick.live
+ì
+Comick (Unoriginal),eu.kanade.tachiyomi.extension.all.comickliveÙ
+ehttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-all.comicklive-v1.6.6.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicklive/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B9Ùí¹”å›ÚEComick (Unoriginal)all"https://comick.live
 °
 ComicsKingdom/eu.kanade.tachiyomi.extension.all.comicskingdomß
 hhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.comicskingdom-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicskingdom/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B<¬ùÓ¸¤¿.Comics Kingdomen"https://wp.comicskingdom.comB<„´¨¥Ï€ŸàYComics Kingdomes"https://wp.comicskingdom.com
 í
 Comics Valley.eu.kanade.tachiyomi.extension.all.comicsvalleyŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.comicsvalley-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicsvalley/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8•ÓªöäÌ×§Comics Valleyall"https://comicsvalley.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.comicsvalley-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicsvalley/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8•ÓªöäÌ×§Comics Valleyall"https://comicsvalley.com
 ”
 Comikey)eu.kanade.tachiyomi.extension.all.comikeyÔ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.comikey-v1.6.12.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B,Í¼»«ÂÖ ¸&Comikeyen"https://comikey.comB,Å¿‰˜ÿø¿˜Comikeyes"https://comikey.comB,§å——ı°¾°Comikeyid"https://comikey.comB/¹ ‹Äğé…ø9Comikeypt-BR"https://comikey.comB9 ÂŒµê‚ÁªDComikey Brasilpt-BR"https://br.comikey.com
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.comikey-v1.6.12.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B,Í¼»«ÂÖ ¸&Comikeyen"https://comikey.comB,Å¿‰˜ÿø¿˜Comikeyes"https://comikey.comB,§å——ı°¾°Comikeyid"https://comikey.comB/¹ ‹Äğé…ø9Comikeypt-BR"https://comikey.comB9 ÂŒµê‚ÁªDComikey Brasilpt-BR"https://br.comikey.com
 £
 Commit Strip-eu.kanade.tachiyomi.extension.all.commitstripÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.commitstrip-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/commitstrip/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9Ô’¼ĞÎÒíøICommit Stripen"https://www.commitstrip.comB9ÀŞÜ ê±Ğ:Commit Stripfr"https://www.commitstrip.com
 Ä
 Coomer(eu.kanade.tachiyomi.extension.all.coomerÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.coomer-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/coomer/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*÷Æ½¤¼„ÆúxCoomerall"https://coomer.st
+ahttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-all.coomer-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/coomer/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B*÷Æ½¤¼„ÆúxCoomerall"https://coomer.st
 ã
 CosplayTele-eu.kanade.tachiyomi.extension.all.cosplayteleÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.cosplaytele-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/cosplaytele/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5‘ô‰Ç¾ÑfCosplayTeleall"https://cosplaytele.com
  
 Cubari(eu.kanade.tachiyomi.extension.all.cubariÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.cubari-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/cubari/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*Õ‘ğİ˜¥øúWCubarien"https://cubari.moeB+Ÿ¿à²“ƒà´Cubariall"https://cubari.moeB-¢Í™­Ğ²§ùCubariother"https://cubari.moe
+ahttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.cubari-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/cubari/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*Õ‘ğİ˜¥øúWCubarien"https://cubari.moeB+Ÿ¿à²“ƒà´Cubariall"https://cubari.moeB-¢Í™­Ğ²§ùCubariother"https://cubari.moe
 ×
 Danbooru*eu.kanade.tachiyomi.extension.all.danbooruÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.danbooru-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/danbooru/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5Îş…ÿÅú©ÀiDanbooruall"https://danbooru.donmai.us
+Û
+DB New Hope+eu.kanade.tachiyomi.extension.all.dbnewhope×
+dhttps://github.com/keiyoushi/extensions/releases/download/53a6f21/tachiyomi-all.dbnewhope-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/dbnewhope/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3Ê¤èƒ‹ÙÜÎDB New Hopeall"https://dbnewhope.com
 å
 
 DeviantArt,eu.kanade.tachiyomi.extension.all.deviantartÜ
@@ -625,9 +623,9 @@ chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all
 
 FoolSlide Customizable7eu.kanade.tachiyomi.extension.all.foolslidecustomizableê
 rhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.foolslidecustomizable-v1.6.6.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B<“¯¡¹¼ŸŞ‘XFoolSlide Customizableother"https://127.0.0.1
-È
-4KHD)eu.kanade.tachiyomi.extension.all.fourkhdÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.fourkhd-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/fourkhd/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B+ÉÏ‘÷ˆ†£Z4KHDall"https://www.4khd.com
+Æ
+4KHD)eu.kanade.tachiyomi.extension.all.fourkhdÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-all.fourkhd-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/fourkhd/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B+ÉÏ‘÷ˆ†£Z4KHDall"https://www.4khd.com
 °
 
 FSI Comics+eu.kanade.tachiyomi.extension.all.fsicomics×
@@ -647,10 +645,10 @@ FTV Hunterall"https://www.ftvhunter.com
 fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.globalcomix-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/globalcomix/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4¿¼ï ê»ÀÊ.GlobalComixsq"https://globalcomix.comB4àøÖÅî¼¥¾GlobalComixar"https://globalcomix.comB4áÓÅüö÷˜^GlobalComixbg"https://globalcomix.comB4¿ËôŸû÷¦GlobalComixbn"https://globalcomix.comB7´šßñªÕÆ”_GlobalComixpt-BR"https://globalcomix.comB9Ï©©ÁÌŞˆŸcGlobalComixzh-Hans"https://globalcomix.comB4âÍêÓÕØÚ?GlobalComixcs"https://globalcomix.comB4·Ìş¿î¯Û¸rGlobalComixde"https://globalcomix.comB4¿Âî¢¾®Õ‡FGlobalComixda"https://globalcomix.comB4¤€÷Ò‰«ÚÚEGlobalComixel"https://globalcomix.comB4ª²åĞ•—ıĞGlobalComixen"https://globalcomix.comB4åèíë·»©ıCGlobalComixes"https://globalcomix.comB4™ÂÙ¡«±áó*GlobalComixfa"https://globalcomix.comB4ïéè °ãÙŒsGlobalComixfi"https://globalcomix.comB5ö‹…Õ¤¤êcGlobalComixfil"https://globalcomix.comB4Şƒè§ˆØú¼GlobalComixfr"https://globalcomix.comB4Ã„ƒš‘õÍÚlGlobalComixhi"https://globalcomix.comB4†Å©ŞÌî¯çGlobalComixhu"https://globalcomix.comB4ş¨€’„ı•³PGlobalComixid"https://globalcomix.comB4ÊØ…×Ñ¥¹	GlobalComixit"https://globalcomix.comB4ó´ê²İìâõDGlobalComixhe"https://globalcomix.comB4ŸÉğ§²ÙÌÛHGlobalComixja"https://globalcomix.comB4Í²¥˜©û§¤bGlobalComixko"https://globalcomix.comB4ß“áæ‰ü«òGlobalComixlv"https://globalcomix.comB4øù±¬¯ÛÓ‘8GlobalComixms"https://globalcomix.comB4öæì‡ÀÊì—xGlobalComixnl"https://globalcomix.comB4¸şš¦ÛÙ–³GlobalComixno"https://globalcomix.comB4€½Œ´í¸´}GlobalComixpl"https://globalcomix.comB4üÃÙÓ£¾ÈGlobalComixpt"https://globalcomix.comB4ıÃï÷›×¦‡GlobalComixro"https://globalcomix.comB4ØûÄìÑ¬ÕÀwGlobalComixru"https://globalcomix.comB4¥¯å¬©à±²2GlobalComixsv"https://globalcomix.comB4¼¥Ä»Í¾¿Ş-GlobalComixsk"https://globalcomix.comB4Û´Ÿ¬ºÙéGlobalComixsl"https://globalcomix.comB4êÂÒëş¦¾÷LGlobalComixta"https://globalcomix.comB4£Ô¿’’ğ˜mGlobalComixth"https://globalcomix.comB4ß ç§âÑôÓ$GlobalComixtr"https://globalcomix.comB4ö¤´êÀıÜÄGlobalComixuk"https://globalcomix.comB4ô„›Ù×‰ÄGlobalComixur"https://globalcomix.comB4Íö´à¯İü`GlobalComixvi"https://globalcomix.comB9çŸïˆª•Õò/GlobalComixzh-Hant"https://globalcomix.com
 ä
 Grabber Zone-eu.kanade.tachiyomi.extension.all.grabberzoneÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.grabberzone-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/grabberzone/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3É¹ŠÉì¹¤¢aGrabber Zoneall"https://grabber.zone
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.grabberzone-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/grabberzone/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3É¹ŠÉì¹¤¢aGrabber Zoneall"https://grabber.zone
 ±
 HDoujin)eu.kanade.tachiyomi.extension.all.hdoujinÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.hdoujin-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hdoujin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Î›ÄÔİ¦üçHDoujinall"https://hdoujin.orgB,÷‰Ñ¡Œïáƒ3HDoujinen"https://hdoujin.orgB,ÇÒ×êÇû©[HDoujines"https://hdoujin.orgB,óİŸˆæ›Ğ@HDoujinja"https://hdoujin.orgB,´Ç¬ğŸÚ¸¡tHDoujinko"https://hdoujin.orgB,ğ‡ÛÉÆ“‘$HDoujinzh"https://hdoujin.org
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.hdoujin-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hdoujin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Î›ÄÔİ¦üçHDoujinall"https://hdoujin.orgB,÷‰Ñ¡Œïáƒ3HDoujinen"https://hdoujin.orgB,ÇÒ×êÇû©[HDoujines"https://hdoujin.orgB,óİŸˆæ›Ğ@HDoujinja"https://hdoujin.orgB,´Ç¬ğŸÚ¸¡tHDoujinko"https://hdoujin.orgB,ğ‡ÛÉÆ“‘$HDoujinzh"https://hdoujin.org
 €
 Hennojin*eu.kanade.tachiyomi.extension.all.hennojinÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.hennojin-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hennojin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.“ÑƒöäÚìÀ"Hennojinen"https://hennojin.comB.’µ²Áëıèİ]Hennojinja"https://hennojin.com
@@ -739,9 +737,6 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-all
 ¥
 IMHentai*eu.kanade.tachiyomi.extension.all.imhentaiØ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.imhentai-v1.6.25.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/imhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(©¼21.6.258B.ò±êá÷ŠºùIMHentaien"https://imhentai.xxxB.ŒÓë¡ˆº·»'IMHentaija"https://imhentai.xxxB.á¼Å€£¡›IMHentaies"https://imhentai.xxxB.×óî”¤”Ì»ZIMHentaifr"https://imhentai.xxxB.Ø½ùÚ§”ÔœIMHentaiko"https://imhentai.xxxB.®ã‚‹µ”øŞIMHentaide"https://imhentai.xxxB.š›§ô´êÑ”hIMHentairu"https://imhentai.xxxB/äù ÷õéÆ/IMHentaiall"https://imhentai.xxx
-“
-izneo (webtoons)'eu.kanade.tachiyomi.extension.all.izneoÑ
-bhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.izneo-v1.4.8.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/izneo/res/mipmap-xhdpi/ic_launcher.png"1.4(È¬21.4.88B7Ã¿ËÀê °cizneoen" https://www.izneo.com/en/webtoonB7ñ÷ö¢ëôizneofr" https://www.izneo.com/fr/webtoon
 ¿
 JJCOS'eu.kanade.tachiyomi.extension.all.jjcosÏ
 `https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.jjcos-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/jjcos/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B)Ç÷ï™›–±ıOJJCOSall"https://jjcos.com
@@ -753,24 +748,24 @@ Joymii Huball"https://www.joymiihub.com
 Ñ
 Junmeitu*eu.kanade.tachiyomi.extension.all.junmeituÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.junmeitu-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/junmeitu/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ì’‡­‹ÄÂAJunmeituall"https://meijuntu.com
-©
-Kagane(eu.kanade.tachiyomi.extension.all.kaganeÔ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.kagane-v1.6.31.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png"1.6(¯¼21.6.318B)ì³Õ¹¸˜¯í7Kaganeen"https://kagane.toB)‘í¿§êÀˆKaganeja"https://kagane.toB)†ôªç×Á¿ğKaganeko"https://kagane.toB)ëĞº‹Ãÿ»Kaganezh"https://kagane.toB)ó£ú—¹¨§WKaganees"https://kagane.toB-ÿµ„¤ë×‹-Kaganees-419"https://kagane.toB)Õ¤»¸·Ê§TKaganefr"https://kagane.toB)ÌÕ½ìÚ¥·ÁKaganede"https://kagane.toB)®ü¥ı¢ÚÅ-Kaganept"https://kagane.toB,Úİ©œ¡İâö{Kaganept-BR"https://kagane.toB)øã„’ëºæ¹yKaganeru"https://kagane.toB)Åı ³œ×ûµKaganeit"https://kagane.toB)ÁÏñŒ¾àŸòjKaganeid"https://kagane.toB)«–¨é‹‘×zKaganevi"https://kagane.toB)Ó³¤¸ÔÖìKaganeth"https://kagane.toB)¡˜Ğ“©ÑŸÿKaganepl"https://kagane.toB)°·ÎÓ×²‘}Kaganehi"https://kagane.toB)‹áÄ×åÊmKaganear"https://kagane.to
+§
+Kagane(eu.kanade.tachiyomi.extension.all.kaganeÒ
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.kagane-v1.6.34.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png"1.6(²¼21.6.348B)ì³Õ¹¸˜¯í7Kaganeen"https://kagane.siB)‘í¿§êÀˆKaganeja"https://kagane.siB)†ôªç×Á¿ğKaganeko"https://kagane.siB)ëĞº‹Ãÿ»Kaganezh"https://kagane.siB)ó£ú—¹¨§WKaganees"https://kagane.siB-ÿµ„¤ë×‹-Kaganees-419"https://kagane.siB)Õ¤»¸·Ê§TKaganefr"https://kagane.siB)ÌÕ½ìÚ¥·ÁKaganede"https://kagane.siB)®ü¥ı¢ÚÅ-Kaganept"https://kagane.siB,Úİ©œ¡İâö{Kaganept-BR"https://kagane.siB)øã„’ëºæ¹yKaganeru"https://kagane.siB)Åı ³œ×ûµKaganeit"https://kagane.siB)ÁÏñŒ¾àŸòjKaganeid"https://kagane.siB)«–¨é‹‘×zKaganevi"https://kagane.siB)Ó³¤¸ÔÖìKaganeth"https://kagane.siB)¡˜Ğ“©ÑŸÿKaganepl"https://kagane.siB)°·ÎÓ×²‘}Kaganehi"https://kagane.siB)‹áÄ×åÊmKaganear"https://kagane.si
 É
 Kemono(eu.kanade.tachiyomi.extension.all.kemonoÖ
-ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.kemono-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/kemono/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*­ÈÎñö¬ôKemonoall"https://kemono.cr
+ahttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-all.kemono-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/kemono/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B*­ÈÎñö¬ôKemonoall"https://kemono.cr
 Ë
 Kiutaku)eu.kanade.tachiyomi.extension.all.kiutakuÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.kiutaku-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kiutaku/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-¸Ğ©Œ€˜˜*Kiutakuall"https://kiutaku.com
-í
+ñ
 Kodoku Studio.eu.kanade.tachiyomi.extension.all.kodokustudioŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.kodokustudio-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kodokustudio/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8œôƒ–Úôğ»Kodoku Studioall"https://kodokustudio.com
-€
-SchaleNetwork(eu.kanade.tachiyomi.extension.all.koharuÔ
-dhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.koharu-v1.4.20.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/koharu/res/mipmap-xhdpi/ic_launcher.png"1.4(Ô¬21.4.208B6°±ºáñßó	SchaleNetworkall"https://schale.networkB5Ÿ“•Í‰ØÛÍSchaleNetworken"https://schale.networkB5·‚™®ÄØıvSchaleNetworkja"https://schale.networkB5œÆñÏˆşÖzSchaleNetworkzh"https://schale.network
+hhttps://github.com/keiyoushi/extensions/releases/download/53a6f21/tachiyomi-all.kodokustudio-v1.6.56.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kodokustudio/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B<”äú¾œ”íÓAKodoku Studioall"https://kodokueasyaccess.com
+ÿ
+SchaleNetwork(eu.kanade.tachiyomi.extension.all.koharuØ
+ahttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.koharu-v1.6.1.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/schalenetwork/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B5°±ºáñßó	SchaleNetworkall"https://shupogaki.moeB4Ÿ“•Í‰ØÛÍSchaleNetworken"https://shupogaki.moeB4·‚™®ÄØıvSchaleNetworkja"https://shupogaki.moeB4œÆñÏˆşÖzSchaleNetworkzh"https://shupogaki.moe
 ±
 Komga'eu.kanade.tachiyomi.extension.all.komgaĞ
-ahttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.komga-v1.6.72.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ø¼21.6.728B/Ğ§Àüñ¡É>Komgaall"https://127.0.0.1:25600B3ª€üôÇº”‡p	Komga (2)all"https://127.0.0.1:25600B3²‡Û–§¢ÚG	Komga (3)all"https://127.0.0.1:25600
+ahttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-all.komga-v1.6.73.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/komga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B/Ğ§Àüñ¡É>Komgaall"https://127.0.0.1:25600B3ª€üôÇº”‡p	Komga (2)all"https://127.0.0.1:25600B3²‡Û–§¢ÚG	Komga (3)all"https://127.0.0.1:25600
 €
 Kyokotsu*eu.kanade.tachiyomi.extension.all.kyokotsuÕ
 chttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-all.kyokotsu-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kyokotsu/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.¢ å•›‘ ”ZKyokotsuru"https://kyokotsu.comB.âîáñø“é¸]Kyokotsuen"https://kyokotsu.com
@@ -789,18 +784,18 @@ chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all
 ‰
 Magical Translators4eu.kanade.tachiyomi.extension.all.magicaltranslatorsé
 mhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.magicaltranslators-v1.6.0.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/magicaltranslators/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B>şÃ«Òƒ©­ü7Magical Translatorsen"https://mahoushoujobu.comB>¼‡µì­ªÅ£xMagical Translatorses"https://mahoushoujobu.comB>ºÃôÁŠ—óMagical Translatorspl"https://mahoushoujobu.com
-
-	Manga18fx+eu.kanade.tachiyomi.extension.all.manga18fxÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.manga18fx-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manga18fx/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B1ºÒóÏ„ğÜ°M	Manga18fxall"https://manga18fx.comB0Â­’¹“¼è+	Manga18fxen"https://manga18fx.com
-‡
-	Manga18Me+eu.kanade.tachiyomi.extension.all.manga18meÙ
-fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.manga18me-v1.4.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manga18me/res/mipmap-xhdpi/ic_launcher.png"1.4(Ã¬21.4.38B/•’óœÄº¾ä
+‹
+	Manga18fx+eu.kanade.tachiyomi.extension.all.manga18fxØ
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.manga18fx-v1.6.59.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manga18fx/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B1ºÒóÏ„ğÜ°M	Manga18fxall"https://manga18fx.comB0Â­’¹“¼è+	Manga18fxen"https://manga18fx.com
+…
+	Manga18Me+eu.kanade.tachiyomi.extension.all.manga18me×
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.manga18me-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manga18me/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/•’óœÄº¾ä
 Manga18.meall"https://manga18.meB.‰¨Ô›ÒëÕÓV
 Manga18.meen"https://manga18.me
 „
 
 Manga Ball+eu.kanade.tachiyomi.extension.all.mangaball×
-dhttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-all.mangaball-v1.6.4.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaball/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B1Ş—Ô”š ™şO
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.mangaball-v1.6.5.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaball/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B1Ş—Ô”š ™şO
 Manga Ballar"https://mangaball.comB1‰‹æÙ´©¯y
 Manga Ballbg"https://mangaball.comB1¾å‚ÈËåáş
 Manga Ballbn"https://mangaball.comB1¡Æàïÿñÿ‰~
@@ -846,7 +841,7 @@ Manga Ballzh"https://mangaball.com
 ß
 
 MangaCrazy,eu.kanade.tachiyomi.extension.all.mangacrazyÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.mangacrazy-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangacrazy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3’Ï¦õû›İÅ^
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.mangacrazy-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangacrazy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3’Ï¦õû›İÅ^
 MangaCrazyall"https://mangacrazy.net
 ¤
 MangaDex*eu.kanade.tachiyomi.extension.all.mangadex×
@@ -855,24 +850,24 @@ ehttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-a
 MangaDexlt"https://mangadex.orgB.•›Ó„­’µ¶MangaDexms"https://mangadex.orgB.šª§Ò±™ìèRMangaDexmn"https://mangadex.orgB.©ò•×ˆ–¦ŸMangaDexne"https://mangadex.orgB.›ÆÑÙÌ…åÎCMangaDexno"https://mangadex.orgB.›´ÄµŠå¼4MangaDexfa"https://mangadex.orgB.ÜÏøÊÀ¾oMangaDexpl"https://mangadex.orgB1´ìİ¹ª¿ì$MangaDexpt-BR"https://mangadex.orgB.Æ•¬™óHMangaDexpt"https://mangadex.orgB.‹ß±àµ³’¡BMangaDexro"https://mangadex.orgB.¾±ï˜™å³MangaDexru"https://mangadex.orgB.îîîîè¶­Ö0MangaDexsr"https://mangadex.orgB.ÚÅ¬Œƒïõó'MangaDexsk"https://mangadex.orgB2ÒÍáú…ƒÅDMangaDexes-419"https://mangadex.orgB.ÊÓä¹”òîéXMangaDexes"https://mangadex.orgB.¥ŠûÚÌ¨²óMangaDexsv"https://mangadex.orgB.×´ˆã¥ø¿¦;MangaDexta"https://mangadex.orgB.Íö™Ä½ËÊÉ_MangaDexte"https://mangadex.orgB.¤‹ş£½–ñãMangaDexth"https://mangadex.orgB.ùØÄ®¥±5MangaDextr"https://mangadex.orgB.¾Äå¶ø‰Ñ™PMangaDexuk"https://mangadex.orgB.İ·°“¶ê¨MangaDexur"https://mangadex.orgB.˜»ÊÀ˜É²'MangaDexuz"https://mangadex.orgB.ï¤•¶ï¬úËMangaDexvi"https://mangadex.org
 
 MangaDNA*eu.kanade.tachiyomi.extension.all.mangadnaÕ
-chttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-all.mangadna-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadna/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.œÊñ¤ÊèíóGMangaDNAen"https://mangadna.comB/¦·Áú¹şçVMangaDNAall"https://mangadna.com
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.mangadna-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadna/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.œÊñ¤ÊèíóGMangaDNAen"https://mangadna.comB/¦·Áú¹şçVMangaDNAall"https://mangadna.com
 Ş
 Manga Draft,eu.kanade.tachiyomi.extension.all.mangadraftÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.mangadraft-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadraft/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3”èÏ³ıÅ„¥_
 MangaDraftall"https://mangadraft.com
 „
 	MangaFire+eu.kanade.tachiyomi.extension.all.mangafireØ
-ehttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.mangafire-v1.6.34.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png"1.6(²¼21.6.348B/óŸñÉàïû¸T	MangaFireen"https://mangafire.toB/¶Ã§®åò±p	MangaFirees"https://mangafire.toB3ƒá¾Ë½ãµ5	MangaFirees-419"https://mangafire.toB/ş´¿´Ö˜·V	MangaFirefr"https://mangafire.toB/¼ş¹ÿ×ƒ£	MangaFireja"https://mangafire.toB/Û„ûÊ¾²˜Ã
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.mangafire-v1.6.34.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangafire/res/mipmap-xhdpi/ic_launcher.png"1.6(²¼21.6.348B/óŸñÉàïû¸T	MangaFireen"https://mangafire.toB/¶Ã§®åò±p	MangaFirees"https://mangafire.toB3ƒá¾Ë½ãµ5	MangaFirees-419"https://mangafire.toB/ş´¿´Ö˜·V	MangaFirefr"https://mangafire.toB/¼ş¹ÿ×ƒ£	MangaFireja"https://mangafire.toB/Û„ûÊ¾²˜Ã
 	MangaFirept"https://mangafire.toB2ˆÏô¼È·êl	MangaFirept-BR"https://mangafire.to
 ê
 MangaForFree.net.eu.kanade.tachiyomi.extension.all.mangaforfreeŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.mangaforfree-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaforfree/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B:óÓîÌÑ¶³gMangaForFree.neten"https://mangaforfree.netB:Ï—Ö€şÑ­MangaForFree.netko"https://mangaforfree.netB:Š“òÁêÔËMangaForFree.netall"https://mangaforfree.net
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.mangaforfree-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaforfree/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B:óÓîÌÑ¶³gMangaForFree.neten"https://mangaforfree.netB:Ï—Ö€şÑ­MangaForFree.netko"https://mangaforfree.netB:Š“òÁêÔËMangaForFree.netall"https://mangaforfree.net
 …<
 Manga Million.eu.kanade.tachiyomi.extension.all.mangamillionİ
-ghttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-all.mangamillion-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangamillion/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18BBŞÏĞ³ò©²©KManga Millionen"#https://mangamillion.shueisha.co.jpBEëÚæØÚ¡ëâQManga Millionzh-TW"#https://mangamillion.shueisha.co.jpBBü¾÷ì·Ú³(Manga Millionth"#https://mangamillion.shueisha.co.jpBBŸÒÿ¦³ğüµ8Manga Millionfr"#https://mangamillion.shueisha.co.jpBE©¿¥–ÏÁÃ?Manga Millionko-KR"#https://mangamillion.shueisha.co.jpBBÿ±–É«ÿ rManga Milliones"#https://mangamillion.shueisha.co.jpBB€„´ê‡ğŠù%Manga Millionit"#https://mangamillion.shueisha.co.jpBB‰Ì„¼Ö“ÆFManga Millionde"#https://mangamillion.shueisha.co.jpBEÖûÖÏøÀÂİManga Millionpt-BR"#https://mangamillion.shueisha.co.jpBE‘ø•ê¸ºè(Manga Milliones-MX"#https://mangamillion.shueisha.co.jpBE£ÚçÔ†õManga Millionzh-CN"#https://mangamillion.shueisha.co.jpBEÄ»¡«ô¿¹¥pManga Milliones-AR"#https://mangamillion.shueisha.co.jpBB§èŸªçå‹¨Manga Millionpl"#https://mangamillion.shueisha.co.jpBBéˆâ¡ºÔÍÚManga Millionvi"#https://mangamillion.shueisha.co.jpBBä«òÛÈ€·•xManga Millionel"#https://mangamillion.shueisha.co.jpBBŸÅ˜¤ÎÚ@Manga Millionsv"#https://mangamillion.shueisha.co.jpBB¨µËÒÏ«ÌéManga Milliontl"#https://mangamillion.shueisha.co.jpBBï¶Êş•†ÔManga Millionid"#https://mangamillion.shueisha.co.jpBB¦Ğ’¼ÆûVManga Millionhi"#https://mangamillion.shueisha.co.jpBB•¹å¢ñ’¾¨IManga Millionkm"#https://mangamillion.shueisha.co.jpBB‡ÃÈ¶šû•À<Manga Milliontr"#https://mangamillion.shueisha.co.jpBEùß¹¢™—ê·DManga Millionzh-HK"#https://mangamillion.shueisha.co.jpBB«Ñø’ƒ¢Ã“bManga Millioncs"#https://mangamillion.shueisha.co.jpBB°«¦Æò¿ø~Manga Millionru"#https://mangamillion.shueisha.co.jpBB ç¢Ÿ¯ÅµµjManga Millionpt"#https://mangamillion.shueisha.co.jpBBæ¬êÛàÚö{Manga Millionar"#https://mangamillion.shueisha.co.jpBA÷ûÀ’óáØManga Millionca"#https://mangamillion.shueisha.co.jpBBøÕ¨¿Â¿İ„MManga Millionzu"#https://mangamillion.shueisha.co.jpBBşÖî›ºã‘ Manga Millionhu"#https://mangamillion.shueisha.co.jpBB¿Â‘Æª•øÀMManga Millionfi"#https://mangamillion.shueisha.co.jpBBÁÿŸïà½èÿ$Manga Millionsr"#https://mangamillion.shueisha.co.jpBBç­é¯‡ô‰Ñ=Manga Millionro"#https://mangamillion.shueisha.co.jpBBÜñÇ¯Õ£¼¦aManga Millionms"#https://mangamillion.shueisha.co.jpBB²ªÏ¬ï“‘•eManga Millionnl"#https://mangamillion.shueisha.co.jpBB¼ı·¦Âì¡óManga Millionda"#https://mangamillion.shueisha.co.jpBBÜğ³“‰›åì^Manga Millionno"#https://mangamillion.shueisha.co.jpBBåÚêŠş©¼²2Manga Millionaf"#https://mangamillion.shueisha.co.jpBBü¯ªãîÑ¸ç%Manga Millionam"#https://mangamillion.shueisha.co.jpBB±äŞÔå¤âJManga Millionas"#https://mangamillion.shueisha.co.jpBB¯´‹£ä”Ş„Manga Millionbe"#https://mangamillion.shueisha.co.jpBBÙ›±ì°ç©Á:Manga Millionbg"#https://mangamillion.shueisha.co.jpBCÇ©“˜¬Ù˜’MManga Millionbho"#https://mangamillion.shueisha.co.jpBB»¥ê¢®¯ò)Manga Millionbo"#https://mangamillion.shueisha.co.jpBCà€šËÂ®¡±tManga Millionceb"#https://mangamillion.shueisha.co.jpBCò˜Úİ…ìš‡Manga Millioncnr"#https://mangamillion.shueisha.co.jpBB¥ÖëÈÌµXManga Millioncy"#https://mangamillion.shueisha.co.jpBC°Úöò£æª.Manga Milliondoi"#https://mangamillion.shueisha.co.jpBB’Š½È¿‚‚GManga Milliondv"#https://mangamillion.shueisha.co.jpBB¥Ú…£õè”ÉvManga Millionee"#https://mangamillion.shueisha.co.jpBB¸î½Ê¶±Ä\Manga Millionet"#https://mangamillion.shueisha.co.jpBBŞı™ÇàÊ±•Manga Millioneu"#https://mangamillion.shueisha.co.jpBBÈ“æ®ÈÔÏìPManga Millionga"#https://mangamillion.shueisha.co.jpBB—İ·ƒë¢Ğ7Manga Milliongl"#https://mangamillion.shueisha.co.jpBBÿë£¸¯½©ÈManga Milliongn"#https://mangamillion.shueisha.co.jpBB¹áŞÄ«æ½¼Manga Milliongu"#https://mangamillion.shueisha.co.jpBCı½ÒÀşÊù{Manga Millionhaw"#https://mangamillion.shueisha.co.jpBBìª— å‘Í£]Manga Millionhe"#https://mangamillion.shueisha.co.jpBCÑ¡ÙÅò÷ëüRManga Millionhmn"#https://mangamillion.shueisha.co.jpBB¥ïÿîËíManga Millionhr"#https://mangamillion.shueisha.co.jpBB’Ç»¾œ·§ÕManga Millionhy"#https://mangamillion.shueisha.co.jpBBÒ‡Ø ¥ú”‹|Manga Millionig"#https://mangamillion.shueisha.co.jpBC™ÿÎ®–İ³ùFManga Millionilo"#https://mangamillion.shueisha.co.jpBB®Œ¯·µÄÓfManga Millionis"#https://mangamillion.shueisha.co.jpBB†Ä¼Üç‡î£	Manga Millionka"#https://mangamillion.shueisha.co.jpBB¹„—ˆÉïÆ—GManga Millionkn"#https://mangamillion.shueisha.co.jpBCğ ±İÇ™Manga Millionkok"#https://mangamillion.shueisha.co.jpBBîû¨âùÖáÓUManga Millionla"#https://mangamillion.shueisha.co.jpBB†ÆÂÄïÇãê/Manga Millionlb"#https://mangamillion.shueisha.co.jpBBÈ‹÷ú¦éÇ^Manga Millionlg"#https://mangamillion.shueisha.co.jpBB¨ˆšÜ´ŸËManga Millionln"#https://mangamillion.shueisha.co.jpBBã¶èóÏ¶¯Manga Millionlo"#https://mangamillion.shueisha.co.jpBBõ—Áº¯È—¦uManga Millionlt"#https://mangamillion.shueisha.co.jpBCãËÇæıËì!Manga Millionlus"#https://mangamillion.shueisha.co.jpBBêö†¨Å©óñManga Millionlv"#https://mangamillion.shueisha.co.jpBCŒùÜå‚ŸŒã>Manga Millionmai"#https://mangamillion.shueisha.co.jpBB±Ü×©˜ĞÊç;Manga Millionmg"#https://mangamillion.shueisha.co.jpBBèÈé«ö÷ŠManga Millionmi"#https://mangamillion.shueisha.co.jpBBİ¥ğ¯•‰İ°JManga Millionmk"#https://mangamillion.shueisha.co.jpBB¶ó”ğÜ†jManga Millionml"#https://mangamillion.shueisha.co.jpBB™…¥×öòïú>Manga Millionmn"#https://mangamillion.shueisha.co.jpBC¤ó¼ãÃ¬ÔPManga Millionmni"#https://mangamillion.shueisha.co.jpBB÷í²ê™¡Ê¦<Manga Millionmr"#https://mangamillion.shueisha.co.jpBBö½­¸åó‰lManga Millionmt"#https://mangamillion.shueisha.co.jpBC³÷™³Ó–ÕÏBManga Millionmww"#https://mangamillion.shueisha.co.jpBBœëÖŒÜŒá‚Manga Millionmy"#https://mangamillion.shueisha.co.jpBBâèÖä«â¦ë\Manga Millionne"#https://mangamillion.shueisha.co.jpBCÁ”Ÿê‚ëíìQManga Millionnso"#https://mangamillion.shueisha.co.jpBBŸä²à®ŒÍÅDManga Millionny"#https://mangamillion.shueisha.co.jpBBşÀÖ¸Ö½º‘EManga Millionor"#https://mangamillion.shueisha.co.jpBB°‘ˆ—«öÇMManga Millionpa"#https://mangamillion.shueisha.co.jpBBÅ»˜œæ¥›Manga Millionqu"#https://mangamillion.shueisha.co.jpBEÊÉçöş†ĞşManga Millionro-MD"#https://mangamillion.shueisha.co.jpBB•Ú¬¶’­ê<Manga Millionrw"#https://mangamillion.shueisha.co.jpBBúë¢£š±µoManga Millionsa"#https://mangamillion.shueisha.co.jpBBÖıĞñ÷·¥›pManga Millionsd"#https://mangamillion.shueisha.co.jpBBÅİ÷Ÿ £¶tManga Millionsi"#https://mangamillion.shueisha.co.jpBBªÃô£Ù¡É˜GManga Millionsk"#https://mangamillion.shueisha.co.jpBBÆòç¶ÿÅ…íjManga Millionsl"#https://mangamillion.shueisha.co.jpBBøİÌ©·ÀÀøBManga Millionsm"#https://mangamillion.shueisha.co.jpBBüĞ¸ñ ŸìÖ"Manga Millionsn"#https://mangamillion.shueisha.co.jpBB™º§óİ¾ŞManga Millionsw"#https://mangamillion.shueisha.co.jpBBßêÛáÄ¶!Manga Millionta"#https://mangamillion.shueisha.co.jpBB¬òîà³Äšª/Manga Millionte"#https://mangamillion.shueisha.co.jpBB’ÈºçĞ¥Ú¾xManga Millionts"#https://mangamillion.shueisha.co.jpBBÑë°¾´î £;Manga Millionuk"#https://mangamillion.shueisha.co.jpBBõ“ñ¼„» Manga Millionxh"#https://mangamillion.shueisha.co.jpBBÿÔİÌ·šƒùHManga Millionyi"#https://mangamillion.shueisha.co.jpBB‚À’ĞÂêàãSManga Millionyo"#https://mangamillion.shueisha.co.jp
+ghttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-all.mangamillion-v1.6.2.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangamillion/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28BBŞÏĞ³ò©²©KManga Millionen"#https://mangamillion.shueisha.co.jpBEëÚæØÚ¡ëâQManga Millionzh-TW"#https://mangamillion.shueisha.co.jpBBü¾÷ì·Ú³(Manga Millionth"#https://mangamillion.shueisha.co.jpBBŸÒÿ¦³ğüµ8Manga Millionfr"#https://mangamillion.shueisha.co.jpBE©¿¥–ÏÁÃ?Manga Millionko-KR"#https://mangamillion.shueisha.co.jpBBÿ±–É«ÿ rManga Milliones"#https://mangamillion.shueisha.co.jpBB€„´ê‡ğŠù%Manga Millionit"#https://mangamillion.shueisha.co.jpBB‰Ì„¼Ö“ÆFManga Millionde"#https://mangamillion.shueisha.co.jpBEÖûÖÏøÀÂİManga Millionpt-BR"#https://mangamillion.shueisha.co.jpBE‘ø•ê¸ºè(Manga Milliones-MX"#https://mangamillion.shueisha.co.jpBE£ÚçÔ†õManga Millionzh-CN"#https://mangamillion.shueisha.co.jpBEÄ»¡«ô¿¹¥pManga Milliones-AR"#https://mangamillion.shueisha.co.jpBB§èŸªçå‹¨Manga Millionpl"#https://mangamillion.shueisha.co.jpBBéˆâ¡ºÔÍÚManga Millionvi"#https://mangamillion.shueisha.co.jpBBä«òÛÈ€·•xManga Millionel"#https://mangamillion.shueisha.co.jpBBŸÅ˜¤ÎÚ@Manga Millionsv"#https://mangamillion.shueisha.co.jpBB¨µËÒÏ«ÌéManga Milliontl"#https://mangamillion.shueisha.co.jpBBï¶Êş•†ÔManga Millionid"#https://mangamillion.shueisha.co.jpBB¦Ğ’¼ÆûVManga Millionhi"#https://mangamillion.shueisha.co.jpBB•¹å¢ñ’¾¨IManga Millionkm"#https://mangamillion.shueisha.co.jpBB‡ÃÈ¶šû•À<Manga Milliontr"#https://mangamillion.shueisha.co.jpBEùß¹¢™—ê·DManga Millionzh-HK"#https://mangamillion.shueisha.co.jpBB«Ñø’ƒ¢Ã“bManga Millioncs"#https://mangamillion.shueisha.co.jpBB°«¦Æò¿ø~Manga Millionru"#https://mangamillion.shueisha.co.jpBB ç¢Ÿ¯ÅµµjManga Millionpt"#https://mangamillion.shueisha.co.jpBBæ¬êÛàÚö{Manga Millionar"#https://mangamillion.shueisha.co.jpBA÷ûÀ’óáØManga Millionca"#https://mangamillion.shueisha.co.jpBBøÕ¨¿Â¿İ„MManga Millionzu"#https://mangamillion.shueisha.co.jpBBşÖî›ºã‘ Manga Millionhu"#https://mangamillion.shueisha.co.jpBB¿Â‘Æª•øÀMManga Millionfi"#https://mangamillion.shueisha.co.jpBBÁÿŸïà½èÿ$Manga Millionsr"#https://mangamillion.shueisha.co.jpBBç­é¯‡ô‰Ñ=Manga Millionro"#https://mangamillion.shueisha.co.jpBBÜñÇ¯Õ£¼¦aManga Millionms"#https://mangamillion.shueisha.co.jpBB²ªÏ¬ï“‘•eManga Millionnl"#https://mangamillion.shueisha.co.jpBB¼ı·¦Âì¡óManga Millionda"#https://mangamillion.shueisha.co.jpBBÜğ³“‰›åì^Manga Millionno"#https://mangamillion.shueisha.co.jpBBåÚêŠş©¼²2Manga Millionaf"#https://mangamillion.shueisha.co.jpBBü¯ªãîÑ¸ç%Manga Millionam"#https://mangamillion.shueisha.co.jpBB±äŞÔå¤âJManga Millionas"#https://mangamillion.shueisha.co.jpBB¯´‹£ä”Ş„Manga Millionbe"#https://mangamillion.shueisha.co.jpBBÙ›±ì°ç©Á:Manga Millionbg"#https://mangamillion.shueisha.co.jpBCÇ©“˜¬Ù˜’MManga Millionbho"#https://mangamillion.shueisha.co.jpBB»¥ê¢®¯ò)Manga Millionbo"#https://mangamillion.shueisha.co.jpBCà€šËÂ®¡±tManga Millionceb"#https://mangamillion.shueisha.co.jpBCò˜Úİ…ìš‡Manga Millioncnr"#https://mangamillion.shueisha.co.jpBB¥ÖëÈÌµXManga Millioncy"#https://mangamillion.shueisha.co.jpBC°Úöò£æª.Manga Milliondoi"#https://mangamillion.shueisha.co.jpBB’Š½È¿‚‚GManga Milliondv"#https://mangamillion.shueisha.co.jpBB¥Ú…£õè”ÉvManga Millionee"#https://mangamillion.shueisha.co.jpBB¸î½Ê¶±Ä\Manga Millionet"#https://mangamillion.shueisha.co.jpBBŞı™ÇàÊ±•Manga Millioneu"#https://mangamillion.shueisha.co.jpBBÈ“æ®ÈÔÏìPManga Millionga"#https://mangamillion.shueisha.co.jpBB—İ·ƒë¢Ğ7Manga Milliongl"#https://mangamillion.shueisha.co.jpBBÿë£¸¯½©ÈManga Milliongn"#https://mangamillion.shueisha.co.jpBB¹áŞÄ«æ½¼Manga Milliongu"#https://mangamillion.shueisha.co.jpBCı½ÒÀşÊù{Manga Millionhaw"#https://mangamillion.shueisha.co.jpBBìª— å‘Í£]Manga Millionhe"#https://mangamillion.shueisha.co.jpBCÑ¡ÙÅò÷ëüRManga Millionhmn"#https://mangamillion.shueisha.co.jpBB¥ïÿîËíManga Millionhr"#https://mangamillion.shueisha.co.jpBB’Ç»¾œ·§ÕManga Millionhy"#https://mangamillion.shueisha.co.jpBBÒ‡Ø ¥ú”‹|Manga Millionig"#https://mangamillion.shueisha.co.jpBC™ÿÎ®–İ³ùFManga Millionilo"#https://mangamillion.shueisha.co.jpBB®Œ¯·µÄÓfManga Millionis"#https://mangamillion.shueisha.co.jpBB†Ä¼Üç‡î£	Manga Millionka"#https://mangamillion.shueisha.co.jpBB¹„—ˆÉïÆ—GManga Millionkn"#https://mangamillion.shueisha.co.jpBCğ ±İÇ™Manga Millionkok"#https://mangamillion.shueisha.co.jpBBîû¨âùÖáÓUManga Millionla"#https://mangamillion.shueisha.co.jpBB†ÆÂÄïÇãê/Manga Millionlb"#https://mangamillion.shueisha.co.jpBBÈ‹÷ú¦éÇ^Manga Millionlg"#https://mangamillion.shueisha.co.jpBB¨ˆšÜ´ŸËManga Millionln"#https://mangamillion.shueisha.co.jpBBã¶èóÏ¶¯Manga Millionlo"#https://mangamillion.shueisha.co.jpBBõ—Áº¯È—¦uManga Millionlt"#https://mangamillion.shueisha.co.jpBCãËÇæıËì!Manga Millionlus"#https://mangamillion.shueisha.co.jpBBêö†¨Å©óñManga Millionlv"#https://mangamillion.shueisha.co.jpBCŒùÜå‚ŸŒã>Manga Millionmai"#https://mangamillion.shueisha.co.jpBB±Ü×©˜ĞÊç;Manga Millionmg"#https://mangamillion.shueisha.co.jpBBèÈé«ö÷ŠManga Millionmi"#https://mangamillion.shueisha.co.jpBBİ¥ğ¯•‰İ°JManga Millionmk"#https://mangamillion.shueisha.co.jpBB¶ó”ğÜ†jManga Millionml"#https://mangamillion.shueisha.co.jpBB™…¥×öòïú>Manga Millionmn"#https://mangamillion.shueisha.co.jpBC¤ó¼ãÃ¬ÔPManga Millionmni"#https://mangamillion.shueisha.co.jpBB÷í²ê™¡Ê¦<Manga Millionmr"#https://mangamillion.shueisha.co.jpBBö½­¸åó‰lManga Millionmt"#https://mangamillion.shueisha.co.jpBC³÷™³Ó–ÕÏBManga Millionmww"#https://mangamillion.shueisha.co.jpBBœëÖŒÜŒá‚Manga Millionmy"#https://mangamillion.shueisha.co.jpBBâèÖä«â¦ë\Manga Millionne"#https://mangamillion.shueisha.co.jpBCÁ”Ÿê‚ëíìQManga Millionnso"#https://mangamillion.shueisha.co.jpBBŸä²à®ŒÍÅDManga Millionny"#https://mangamillion.shueisha.co.jpBBşÀÖ¸Ö½º‘EManga Millionor"#https://mangamillion.shueisha.co.jpBB°‘ˆ—«öÇMManga Millionpa"#https://mangamillion.shueisha.co.jpBBÅ»˜œæ¥›Manga Millionqu"#https://mangamillion.shueisha.co.jpBEÊÉçöş†ĞşManga Millionro-MD"#https://mangamillion.shueisha.co.jpBB•Ú¬¶’­ê<Manga Millionrw"#https://mangamillion.shueisha.co.jpBBúë¢£š±µoManga Millionsa"#https://mangamillion.shueisha.co.jpBBÖıĞñ÷·¥›pManga Millionsd"#https://mangamillion.shueisha.co.jpBBÅİ÷Ÿ £¶tManga Millionsi"#https://mangamillion.shueisha.co.jpBBªÃô£Ù¡É˜GManga Millionsk"#https://mangamillion.shueisha.co.jpBBÆòç¶ÿÅ…íjManga Millionsl"#https://mangamillion.shueisha.co.jpBBøİÌ©·ÀÀøBManga Millionsm"#https://mangamillion.shueisha.co.jpBBüĞ¸ñ ŸìÖ"Manga Millionsn"#https://mangamillion.shueisha.co.jpBB™º§óİ¾ŞManga Millionsw"#https://mangamillion.shueisha.co.jpBBßêÛáÄ¶!Manga Millionta"#https://mangamillion.shueisha.co.jpBB¬òîà³Äšª/Manga Millionte"#https://mangamillion.shueisha.co.jpBB’ÈºçĞ¥Ú¾xManga Millionts"#https://mangamillion.shueisha.co.jpBBÑë°¾´î £;Manga Millionuk"#https://mangamillion.shueisha.co.jpBBõ“ñ¼„» Manga Millionxh"#https://mangamillion.shueisha.co.jpBBÿÔİÌ·šƒùHManga Millionyi"#https://mangamillion.shueisha.co.jpBB‚À’ĞÂêàãSManga Millionyo"#https://mangamillion.shueisha.co.jp
 Ğ
 MANGA Plus by SHUEISHA+eu.kanade.tachiyomi.extension.all.mangaplusØ
-ehttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-all.mangaplus-v1.6.66.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaplus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668BH®À«‚®±ëŞMANGA Plus by SHUEISHAen" https://mangaplus.shueisha.co.jpBHÎ¦¥ Ú™ÃìMANGA Plus by SHUEISHAes" https://mangaplus.shueisha.co.jpBHğÙ€ğ‰¦¢ˆjMANGA Plus by SHUEISHAfr" https://mangaplus.shueisha.co.jpBHï·¯å«ÑÈøMANGA Plus by SHUEISHAid" https://mangaplus.shueisha.co.jpBKÕıŠå²Îùæ/MANGA Plus by SHUEISHApt-BR" https://mangaplus.shueisha.co.jpBHµë³Ä‡ßÑí0MANGA Plus by SHUEISHAru" https://mangaplus.shueisha.co.jpBH©Øïß“®‡XMANGA Plus by SHUEISHAth" https://mangaplus.shueisha.co.jpBH‚¨¯”ò–AMANGA Plus by SHUEISHAvi" https://mangaplus.shueisha.co.jpBH”¹»ğ™Ç£MANGA Plus by SHUEISHAde" https://mangaplus.shueisha.co.jp
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-all.mangaplus-v1.6.67.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaplus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ó¼21.6.678BH®À«‚®±ëŞMANGA Plus by SHUEISHAen" https://mangaplus.shueisha.co.jpBHÎ¦¥ Ú™ÃìMANGA Plus by SHUEISHAes" https://mangaplus.shueisha.co.jpBHğÙ€ğ‰¦¢ˆjMANGA Plus by SHUEISHAfr" https://mangaplus.shueisha.co.jpBHï·¯å«ÑÈøMANGA Plus by SHUEISHAid" https://mangaplus.shueisha.co.jpBKÕıŠå²Îùæ/MANGA Plus by SHUEISHApt-BR" https://mangaplus.shueisha.co.jpBHµë³Ä‡ßÑí0MANGA Plus by SHUEISHAru" https://mangaplus.shueisha.co.jpBH©Øïß“®‡XMANGA Plus by SHUEISHAth" https://mangaplus.shueisha.co.jpBH‚¨¯”ò–AMANGA Plus by SHUEISHAvi" https://mangaplus.shueisha.co.jpBH”¹»ğ™Ç£MANGA Plus by SHUEISHAde" https://mangaplus.shueisha.co.jp
 ò
 MANGA Plus Creators by SHUEISHA3eu.kanade.tachiyomi.extension.all.mangapluscreatorsç
 lhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.mangapluscreators-v1.6.0.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangapluscreators/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BNËÑ¦÷Å¤¯¨EMANGA Plus Creators by SHUEISHAen"https://mangaplus-creators.jpBN®«š†Úö˜¥MANGA Plus Creators by SHUEISHAes"https://mangaplus-creators.jp
@@ -884,7 +879,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all
 dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.mangatoon-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;Ãâ÷úâ‚ãNMangaToon (Limited)zh"https://mangatoon.mobiB;ÈÚ¨—™ÎçÆBMangaToon (Limited)en"https://mangatoon.mobiB;ëŞ¾®ç´¬›[MangaToon (Limited)id"https://mangatoon.mobiB;âÔãÚé¨ó†_MangaToon (Limited)vi"https://mangatoon.mobiB;Şôì›§ç¾¦MangaToon (Limited)es"https://mangatoon.mobiB;ÿèàõõ‡ûVMangaToon (Limited)th"https://mangatoon.mobiB;êõĞ±¤ùÃÂ\MangaToon (Limited)fr"https://mangatoon.mobiB;ùˆ§û™Œ¦Ú0MangaToon (Limited)ja"https://mangatoon.mobiB>÷Íò‚Ó¼×ÓMangaToon (Limited)pt-BR"https://mangatoon.mobi
 Ö
 	Manga UP!)eu.kanade.tachiyomi.extension.all.mangaupÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.mangaup-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaup/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B6úÀ´™Íø Ûj	Manga UP!en"https://global.manga-up.com
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.mangaup-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaup/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B6úÀ´™Íø Ûj	Manga UP!en"https://global.manga-up.com
 Â
 Mango'eu.kanade.tachiyomi.extension.all.mangoÏ
 `https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.mango-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mango/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,Ï‡«ûóœ(Mangoen"http://127.0.0.1:9000
@@ -893,17 +888,17 @@ bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.manhuarm-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhuarm/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0ç«¨Í£ÿ·‰Manhuarmar"https://manhuarmtl.comB0îÃ§û¸İjManhuarmen"https://manhuarmtl.comB0õ¾ï±ÿ£éÎvManhuarmes"https://manhuarmtl.comB0ÜëÑñ×÷½vManhuarmfr"https://manhuarmtl.comB0¢ÙúÙÖİYManhuarmid"https://manhuarmtl.comB0±îŸË´Û£ĞiManhuarmit"https://manhuarmtl.comB3ÅÜ¢ĞÆûäûMManhuarmpt-BR"https://manhuarmtl.com
 Â
 Manhwa18.cc,eu.kanade.tachiyomi.extension.all.manhwa18ccÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.manhwa18cc-v1.6.64.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwa18cc/res/mipmap-xhdpi/ic_launcher.png"1.6(Ğ¼21.6.648B0‚ÉÆöĞò´˜CManhwa18.ccen"https://manhwa18.ccB0ß‡“ùøš‡¢_Manhwa18.ccko"https://manhwa18.ccB1ôêªÔÃÌÂäManhwa18.ccall"https://manhwa18.cc
+fhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.manhwa18cc-v1.6.66.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwa18cc/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B0‚ÉÆöĞò´˜CManhwa18.ccen"https://manhwa18.ccB0ß‡“ùøš‡¢_Manhwa18.ccko"https://manhwa18.ccB1ôêªÔÃÌÂäManhwa18.ccall"https://manhwa18.cc
 ã
 Manhwa18.net-eu.kanade.tachiyomi.extension.all.manhwa18netİ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.manhwa18net-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwa18net/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2ËñşàôôÏÄ	Manhwa18.Neten"https://manhwa18.net
 §
 ManhwaClub.net/eu.kanade.tachiyomi.extension.all.manhwaclubnetà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.manhwaclubnet-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwaclubnet/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6‰Ó§ë´«¢]ManhwaClub.neten"https://manhwaclub.netB6Ïòé„ÄÊª0ManhwaClub.netko"https://manhwaclub.net
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.manhwaclubnet-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwaclubnet/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6‰Ó§ë´«¢]ManhwaClub.neten"https://manhwaclub.netB6Ïòé„ÄÊª0ManhwaClub.netko"https://manhwaclub.net
 è
 
 Manhwa-raw/eu.kanade.tachiyomi.extension.all.manhwadashrawà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.manhwadashraw-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwadashraw/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B3‚¯üö®Ç¨ûM
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.manhwadashraw-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwadashraw/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B3‚¯üö®Ç¨ûM
 Manhwa-rawall"https://manhwa-raw.com
 ù
 Manta Comics'eu.kanade.tachiyomi.extension.all.mantaÒ
@@ -928,7 +923,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all
 ihttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.myreadingmanga-v1.6.0.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/myreadingmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;Î®ë†Œ£¬ÀCMyReadingMangaar"https://myreadingmanga.infoB;å±¹ı™øûÚzMyReadingMangaid"https://myreadingmanga.infoB;¦ÿ³ë´š“ŞsMyReadingMangazh"https://myreadingmanga.infoB;İÁá›üØ×WMyReadingMangaen"https://myreadingmanga.infoB;úÇçï“Ô¥÷MyReadingMangade"https://myreadingmanga.infoB;íåÀ“ıŞÇå.MyReadingMangait"https://myreadingmanga.infoB;³Ø¨º›ôØiMyReadingMangaja"https://myreadingmanga.infoB;ªÉİªîÿÒásMyReadingMangako"https://myreadingmanga.infoB>ô„•†ëÕ ÀbMyReadingMangapt-BR"https://myreadingmanga.infoB;ó¤ÙüıƒÕ¼:MyReadingMangaru"https://myreadingmanga.infoB;Çç­¦ĞŒ–1MyReadingMangaes"https://myreadingmanga.infoB;ĞŸ„İ»‹£¤MyReadingMangatr"https://myreadingmanga.infoB;şØ™²Íò‡§9MyReadingMangavi"https://myreadingmanga.info
 Â
 NamiComi*eu.kanade.tachiyomi.extension.all.namicomiÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-all.namicomi-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.Ô¿â’Ìú°Ê^NamiComien"https://namicomi.comB.†ˆ©¼ÎˆÊÖlNamiComiar"https://namicomi.comB.÷åàÕÄÀ›mNamiComibg"https://namicomi.comB.¤†ğÌ«Íğ„JNamiComica"https://namicomi.comB3††ßú±Ÿ’NamiComizh-Hans"https://namicomi.comB3Ğöóº–Ş¼‰mNamiComizh-Hant"https://namicomi.comB.Ş¹Ä›ÖŒ…ĞNamiComihr"https://namicomi.comB.Ş¿œ±ê³ø¢NamiComics"https://namicomi.comB.õ­ŸêóÃ×àhNamiComida"https://namicomi.comB.¦„¾Ä ú¹9NamiCominl"https://namicomi.comB.¸ï­¼±øNamiComiet"https://namicomi.comB/íÉé¿²”¡òlNamiComifil"https://namicomi.comB.ŞìòùßÂ’{NamiComifi"https://namicomi.comB.ßÁèüĞÈ¢¨%NamiComifr"https://namicomi.comB.¹–”“÷¾İí[NamiComide"https://namicomi.comB.…¦Ê†ğùüĞjNamiComiel"https://namicomi.comB.§”ªóÙÈ×«NamiComihe"https://namicomi.comB.”µƒİ±ÀôRNamiComihi"https://namicomi.comB.İèÙşŞî½‰lNamiComihu"https://namicomi.comB.¹Ù„üÈÿ§ÌNamiComiis"https://namicomi.comB.Ñ¯“ÚÏ¸Ñˆ1NamiComiga"https://namicomi.comB.–Á‰Û—Í¯³NamiComiid"https://namicomi.comB.ˆÕÃÚ¼õÈöRNamiComiit"https://namicomi.comB.¨¶Å¦í±_NamiComija"https://namicomi.comB.ÿÿ»ä‚Íå”NamiComiko"https://namicomi.comB.·ë„ˆ„òËÿUNamiComilt"https://namicomi.comB.¬ïÔ¬ÿàÊìTNamiComims"https://namicomi.comB.ö…¯ıáŒNamiComine"https://namicomi.comB.Á€¼¸äİ¥š[NamiComino"https://namicomi.comB.§Øæ‚¾ºŠ…
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-all.namicomi-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.Ô¿â’Ìú°Ê^NamiComien"https://namicomi.comB.†ˆ©¼ÎˆÊÖlNamiComiar"https://namicomi.comB.÷åàÕÄÀ›mNamiComibg"https://namicomi.comB.¤†ğÌ«Íğ„JNamiComica"https://namicomi.comB3††ßú±Ÿ’NamiComizh-Hans"https://namicomi.comB3Ğöóº–Ş¼‰mNamiComizh-Hant"https://namicomi.comB.Ş¹Ä›ÖŒ…ĞNamiComihr"https://namicomi.comB.Ş¿œ±ê³ø¢NamiComics"https://namicomi.comB.õ­ŸêóÃ×àhNamiComida"https://namicomi.comB.¦„¾Ä ú¹9NamiCominl"https://namicomi.comB.¸ï­¼±øNamiComiet"https://namicomi.comB/íÉé¿²”¡òlNamiComifil"https://namicomi.comB.ŞìòùßÂ’{NamiComifi"https://namicomi.comB.ßÁèüĞÈ¢¨%NamiComifr"https://namicomi.comB.¹–”“÷¾İí[NamiComide"https://namicomi.comB.…¦Ê†ğùüĞjNamiComiel"https://namicomi.comB.§”ªóÙÈ×«NamiComihe"https://namicomi.comB.”µƒİ±ÀôRNamiComihi"https://namicomi.comB.İèÙşŞî½‰lNamiComihu"https://namicomi.comB.¹Ù„üÈÿ§ÌNamiComiis"https://namicomi.comB.Ñ¯“ÚÏ¸Ñˆ1NamiComiga"https://namicomi.comB.–Á‰Û—Í¯³NamiComiid"https://namicomi.comB.ˆÕÃÚ¼õÈöRNamiComiit"https://namicomi.comB.¨¶Å¦í±_NamiComija"https://namicomi.comB.ÿÿ»ä‚Íå”NamiComiko"https://namicomi.comB.·ë„ˆ„òËÿUNamiComilt"https://namicomi.comB.¬ïÔ¬ÿàÊìTNamiComims"https://namicomi.comB.ö…¯ıáŒNamiComine"https://namicomi.comB.Á€¼¸äİ¥š[NamiComino"https://namicomi.comB.§Øæ‚¾ºŠ…
 NamiComipa"https://namicomi.comB.ş°æÀË‚»óNamiComifa"https://namicomi.comB.ÃéÏéœôåÀINamiComipl"https://namicomi.comB1À–èé³ºNamiComipt-BR"https://namicomi.comB.è‰ÑœıºÖBNamiComipt"https://namicomi.comB.ƒ„àá†½—NamiComiru"https://namicomi.comB.è×«¤¶ÛÂNamiComisk"https://namicomi.comB.óûÚş¡NamiComisl"https://namicomi.comB2œ¢Õ§ğå’Ñ3NamiComies-419"https://namicomi.comB.½çğŒ”ú¹ìgNamiComies"https://namicomi.comB.çêŞ¨”ŠêË7NamiComisv"https://namicomi.comB.ë ©’šªÒÜ^NamiComith"https://namicomi.comB.Èì»Ï£µ¾NamiComitr"https://namicomi.comB.ƒŞ¢ê©ÏÍÁgNamiComiuk"https://namicomi.com
 ¥
 nHentai.com (unoriginal),eu.kanade.tachiyomi.extension.all.nhentaicomÙ
@@ -950,7 +945,7 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-a
 `https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-all.niadd-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/niadd/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.Ğ¢ö½ëƒæiNiaddpt-BR"https://br.niadd.comB,š¾˜¨üÎÇVNiadden"https://www.niadd.comB+Ê™ÔãÇNiaddes"https://es.niadd.comB+ìŸÆÑä–rNiaddit"https://it.niadd.comB+Âè³ƒ—œ¡¿Niaddru"https://ru.niadd.comB+ã«±©„ÊÎ.Niaddde"https://de.niadd.comB+“Ú˜¶›¦´’(Niaddfr"https://fr.niadd.com
 ›
 	NovelCool+eu.kanade.tachiyomi.extension.all.novelcool×
-dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.novelcool-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/novelcool/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4¯¡ÿÄ®á™‡i	NovelCoolen"https://www.novelcool.comB3ìÑ”€³½×Š	NovelCooles"https://es.novelcool.comB3ıİş€¸©ÙB	NovelCoolde"https://de.novelcool.comB3°°›èòÇíá	NovelCoolru"https://ru.novelcool.comB3¯³ÁáüçŞì	NovelCoolit"https://it.novelcool.comB6ˆş“²óµïŞ!	NovelCoolpt-BR"https://br.novelcool.comB3â¢ô‚‹‹±¼	NovelCoolfr"https://fr.novelcool.com
+dhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-all.novelcool-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/novelcool/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4¯¡ÿÄ®á™‡i	NovelCoolen"https://www.novelcool.comB3ìÑ”€³½×Š	NovelCooles"https://es.novelcool.comB3ıİş€¸©ÙB	NovelCoolde"https://de.novelcool.comB3°°›èòÇíá	NovelCoolru"https://ru.novelcool.comB3¯³ÁáüçŞì	NovelCoolit"https://it.novelcool.comB6ˆş“²óµïŞ!	NovelCoolpt-BR"https://br.novelcool.comB3â¢ô‚‹‹±¼	NovelCoolfr"https://fr.novelcool.com
 ¬
 One Piece Fans.eu.kanade.tachiyomi.extension.all.onepiecefansİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.onepiecefans-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/onepiecefans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;ê¯·âæ±©ä)One Piece Fanses"https://one-piece-fans2.comB;´©Ò„Ë’áÏ[One Piece Fansen"https://one-piece-fans2.com
@@ -997,10 +992,7 @@ ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-all.saymanhwa-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/saymanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B0—úŠÃ›Œ‘ìm	SayManhwaar"https://saymanhwa.comB0ÎËÍüÁ¶ãû		SayManhwade"https://saymanhwa.comB0—Ïæñ½Çõ	SayManhwaen"https://saymanhwa.comB0¶êé‘ÊÁÿïA	SayManhwaes"https://saymanhwa.comB1‚ÍÛ²ÔáâÚz	SayManhwafil"https://saymanhwa.comB0¶•ŠÎÅ·Úˆ	SayManhwafr"https://saymanhwa.comB0ŠÈ¿¾»Ç·Ø'	SayManhwaid"https://saymanhwa.comB0¦ì€½È¼¹.	SayManhwaja"https://saymanhwa.comB0¿ÀÈ¤«ÅŸ]	SayManhwapt"https://saymanhwa.comB0•òŠğá€ÍŸ5	SayManhwath"https://saymanhwa.comB0ÒŸˆêó÷ßğr	SayManhwavi"https://saymanhwa.comB5©¦á‚Ö¤üæW	SayManhwazh-Hans"https://saymanhwa.comB5êôæÒŒöº’	SayManhwazh-Hant"https://saymanhwa.com
 Ì
 SeraphicDeviltry2eu.kanade.tachiyomi.extension.all.seraphicdeviltryæ
-lhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-all.seraphicdeviltry-v1.6.57.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/seraphicdeviltry/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B?Òªıó‹ÖşïJSeraphicDeviltryen"https://seraphic-deviltry.comBGïÆÉáèÓ«ú[SeraphicDeviltryes"%https://spanish.seraphic-deviltry.com
-ø
-Simply Cosplay/eu.kanade.tachiyomi.extension.all.simplycosplayá
-jhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.simplycosplay-v1.4.4.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/simplycosplay/res/mipmap-xhdpi/ic_launcher.png"1.4(Ä¬21.4.48B?†«ûìàÃÑLSimply Cosplayall"https://www.simply-cosplay.com
+lhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-all.seraphicdeviltry-v1.6.57.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/seraphicdeviltry/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B?Òªıó‹ÖşïJSeraphicDeviltryen"https://seraphic-deviltry.comBGïÆÉáèÓ«ú[SeraphicDeviltryes"%https://spanish.seraphic-deviltry.com
 
 Simply Hentai.eu.kanade.tachiyomi.extension.all.simplyhentaiİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.simplyhentai-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/simplyhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B<×½ƒ¥âæ“Simply Hentaien"https://www.simply-hentai.comB<®Äÿ¾“½‚¹
@@ -1046,9 +1038,6 @@ ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all
 ahttps://github.com/keiyoushi/extensions/releases/download/63ac848/tachiyomi-all.xcomic-v1.6.9.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B*‘Şš¢«¯‘hXCOMICall"https://xcomic.meB)ÙÇ½Ò»è©‹XCOMICen"https://xcomic.meB)¯õ±œ¸ÄàXCOMICfr"https://xcomic.meB)¨œ‰ú³®éøXCOMICes"https://xcomic.meB-»¹œîÔÈé®YXCOMICes-419"https://xcomic.meB)ÜÈÇŞ„âèµvXCOMICpt"https://xcomic.meB,ş°ÔÆàß—…XCOMICpt-BR"https://xcomic.meB)‡ÅÁÏïƒ‹„rXCOMICja"https://xcomic.meB)×”ìÛ°ßÄ½_XCOMICko"https://xcomic.meB)ÒøªŞŠï&XCOMICzh"https://xcomic.meB.Âä«‰…¸ÃÓiXCOMICzh-Hant"https://xcomic.meB)¡İ¡Àµ¾ı`XCOMICru"https://xcomic.meB)Ëéò•ëİ©±.XCOMICid"https://xcomic.meB)ØÌšæ“¶š¿1XCOMICab"https://xcomic.meB)¹Îæí›ğü¿OXCOMICaf"https://xcomic.meB)”¸˜âåÀüˆMXCOMICsq"https://xcomic.meB)ıª»¿êßçóXCOMICam"https://xcomic.meB)¾ÆãØµ²ÕXCOMICar"https://xcomic.meB)Ğ¢«ùİıä”uXCOMIChy"https://xcomic.meB)—ˆÓÊİ¹•÷IXCOMICaz"https://xcomic.meB)˜çÏìÇ¼Î´hXCOMICbe"https://xcomic.meB)ä®æ†ûÀ–æVXCOMICbn"https://xcomic.meB)Ä…šĞÀ’øåWXCOMICbs"https://xcomic.meB)å€ÇÉêÀÎÆXCOMICbg"https://xcomic.meB)×ç¨öööÉAXCOMICmy"https://xcomic.meB)‘´ÀÉø€äØjXCOMICkm"https://xcomic.meB)óµÈÛ¶ÀÖ±XCOMICca"https://xcomic.meB*ë™êçïŞİ\XCOMICceb"https://xcomic.meB)§ˆ„ª§¢£$XCOMIChr"https://xcomic.meB)ÄƒìĞ¦ı«ú9XCOMICcs"https://xcomic.meB)°ò­ƒüàëcXCOMICcv"https://xcomic.meB)„½®§µ­·„?XCOMICda"https://xcomic.meB)˜àÈÈĞÍGXCOMICnl"https://xcomic.meB)¨Çñö†ßæ:XCOMICet"https://xcomic.meB)Û¸úšĞãÀ¿XCOMICeo"https://xcomic.meB)ÊÙ…‚»Ö³qXCOMICeu"https://xcomic.meB)¡ªÀİ´¦™ÀnXCOMICfo"https://xcomic.meB*şä³¼¼“ÈKXCOMICfil"https://xcomic.meB)ûÔ«ùÍÈ¯;XCOMICfi"https://xcomic.meB)†É©Ú¨³˜¾XCOMICka"https://xcomic.meB)„¢ûÓĞ‰Øé
 XCOMICde"https://xcomic.meB)çš†È Ûüœ$XCOMICel"https://xcomic.meB)—­’æŠ´¢GXCOMICgn"https://xcomic.meB)†Ş÷ú¿ò¾XCOMICgu"https://xcomic.meB)ËÒ‹õâıÃâ<XCOMICht"https://xcomic.meB)ÿ»š Ğ…ÑÜXCOMICha"https://xcomic.meB)‰ÑĞÍ®É…ÀXCOMIChe"https://xcomic.meB)úÚ¤‘÷ØŸİ6XCOMIChi"https://xcomic.meB)Ú‰¢•·™ÅXCOMIChu"https://xcomic.meB)ÒóÇÙá¬¸¬xXCOMICis"https://xcomic.meB)õŸ³®¬ÀÄQXCOMICig"https://xcomic.meB)ùÕ—ôÚ¨ŒÙVXCOMICga"https://xcomic.meB(ä»â¹İÉ“FXCOMICgl"https://xcomic.meB)«¸¡ÛĞïaXCOMICit"https://xcomic.meB)ÃŞ°™ÑÑ«~XCOMICjv"https://xcomic.meB)²ÓÏ¶©Ç’¼#XCOMICkn"https://xcomic.meB)±ãÙÛ‡¸™ËNXCOMICkk"https://xcomic.meB)°™…«ËŠ“í`XCOMICku"https://xcomic.meB)Œéòô•¹ı`XCOMICky"https://xcomic.meB)›èáœåÀÁLXCOMICla"https://xcomic.meB)ä®Ï³ºúŸÂaXCOMIClo"https://xcomic.meB)¡´¯òì°ÂÁQXCOMIClv"https://xcomic.meB)ò›‘ü¬Ÿ¸jXCOMIClt"https://xcomic.meB)å¦¨ı´°¦¹XCOMIClb"https://xcomic.meB)¨É Ç‘üë§XCOMICmk"https://xcomic.meB)ìò «ºä±ÁXCOMICmg"https://xcomic.meB)Áƒ±ÕŠÖ£dXCOMICms"https://xcomic.meB)šı¨§Œëâ’XCOMICml"https://xcomic.meB)®Òû‰»Ğ¯äBXCOMICmt"https://xcomic.meB)á‘—Æ†¢¹¨XCOMICmi"https://xcomic.meB)Éıïâ¸ëªzXCOMICmr"https://xcomic.meB)ƒ§¢²•üÓ&XCOMICmo"https://xcomic.meB)‘º¯Š«©“š)XCOMICmn"https://xcomic.meB)ÒÿäºŒ°›ıjXCOMICne"https://xcomic.meB)Ø”ßîÃøç¿)XCOMICno"https://xcomic.meB)àÿèê‹Â€°eXCOMICny"https://xcomic.meB)ûÈ°Ğ«„«êXCOMICps"https://xcomic.meB)ÒÂ£÷›ıèÚ
 XCOMICfa"https://xcomic.meB)ÂŠäí˜ú‘áXCOMICpl"https://xcomic.meB)‘Ø¯À«Ûæò@XCOMICro"https://xcomic.meB)×ë…°·òÜfXCOMICrm"https://xcomic.meB)àæä²Á©¸ë+XCOMICsm"https://xcomic.meB)Ì™ôáªİÓ5XCOMICsr"https://xcomic.meB)Ò¥‡®°¤™­&XCOMICsh"https://xcomic.meB)É÷¼¸ƒÚ·³ XCOMICss"https://xcomic.meB)ºë¿ıâ—ÕaXCOMICst"https://xcomic.meB)ú“¤í“¥Â¢{XCOMICsn"https://xcomic.meB)ˆÌ¹äõ‰—÷XCOMICsd"https://xcomic.meB)¬÷‚§ƒÔÏXCOMICsi"https://xcomic.meB)¾–Ó»êó¤Õ(XCOMICsk"https://xcomic.meB)ù­ƒ£ĞÜ™ÜXCOMICsl"https://xcomic.meB)¦ËãˆĞü‚XCOMICso"https://xcomic.meB)Ğ‚™ØÑ­™NXCOMICsw"https://xcomic.meB)ä¡·Ş¿Ë£³PXCOMICsv"https://xcomic.meB)÷¼–®¨è¿‰]XCOMICtg"https://xcomic.meB)ìÙÅ“°Æñ‰MXCOMICta"https://xcomic.meB)µ€ã©‘ãô-XCOMICte"https://xcomic.meB)â¥ÁÊùæ§ZXCOMICth"https://xcomic.meB)¦˜ïøÉ¸ê±GXCOMICti"https://xcomic.meB)ë¾óığÓŒ \XCOMICto"https://xcomic.meB)üéŒê¨¥©À[XCOMICtr"https://xcomic.meB)Å…°¥ªÒ„ÖkXCOMICtk"https://xcomic.meB)ÍØÖÜƒÂÎÛXCOMICuk"https://xcomic.meB)ùÅÀÆå¨ËüXCOMICur"https://xcomic.meB)¹½ñ ÍÏâ$XCOMICuz"https://xcomic.meB)ĞŠà»ÀœŞô:XCOMICvi"https://xcomic.meB)ë‡«†¶¼øßDXCOMICyo"https://xcomic.meB)õ±°ãÏæiXCOMICzu"https://xcomic.meB,÷”†“ê–ù«XCOMICother"https://xcomic.me
-Ã
-XGMN&eu.kanade.tachiyomi.extension.all.xgmnÏ
-ahttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-all.xgmn-v1.4.4.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xgmn/res/mipmap-xhdpi/ic_launcher.png"1.4(Ä¬21.4.48B/ççö½Ç¨ê'æ€§æ„Ÿç¾å¥³all"http://xgmn8.vip
 Ë
 Xiutaku)eu.kanade.tachiyomi.extension.all.xiutakuÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-all.xiutaku-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xiutaku/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-ÚääƒÖ“¿ZXiutakuall"https://xiutaku.com
@@ -1073,14 +1062,14 @@ YSK Comicsar"https://www.ysk-comics.comB6¹Ö°Ñ‡˜›»
 YSK Comicsen"https://www.ysk-comics.com
 ã
 Anyone Manga,eu.kanade.tachiyomi.extension.ar.anyonemangaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.anyonemanga-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/anyonemanga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B5§“Ò×óß‡ÅAnyone Mangaar"https://anyonemanga.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.anyonemanga-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/anyonemanga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B5§“Ò×óß‡ÅAnyone Mangaar"https://anyonemanga.com
 Û
 	Manga Bab+eu.kanade.tachiyomi.extension.ar.arabhentaiÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-ar.arabhentai-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangabab/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B7íŠ†š”Ãáà_Ù…Ø§Ù†Ø¬Ø§ Ø¨Ø§Ø¨ar"https://mangabab.com
 Û
 
 ArabManhwa+eu.kanade.tachiyomi.extension.ar.arabmanhwaØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.arabmanhwa-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabmanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2¦è„İñòçP
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.arabmanhwa-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabmanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2¦è„İñòçP
 ArabManhwaar"https://arabmanhwa.com
 ê
 Arabs Hentai,eu.kanade.tachiyomi.extension.ar.arabshentaiÙ
@@ -1091,29 +1080,29 @@ Arab Toons*eu.kanade.tachiyomi.extension.ar.arabtoonsÖ
 dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ar.arabtoons-v1.6.57.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabtoons/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6è–­Õ¦ƒŸÓ!Ø¹Ø±Ø¨ ØªÙˆÙ†Ø²ar"https://arabtoons.net
 Õ
 	ArbxComix*eu.kanade.tachiyomi.extension.ar.arbxcomixÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.arbxcomix-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arbxcomix/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0¾ ÂùôòX	ArbxComixar"https://arbxcomix.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.arbxcomix-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arbxcomix/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0¾ ÂùôòX	ArbxComixar"https://arbxcomix.com
 à
 
 Area Manga*eu.kanade.tachiyomi.extension.ar.areamangaÕ
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-ar.areamanga-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/areamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B<ñ³êÔşş¦ÊpØ£Ø±ÙŠØ§ Ù…Ø§Ù†Ø¬Ø§ar"https://ar.kenmanga.com
 ×
 	AR Hentai)eu.kanade.tachiyomi.extension.ar.arhentaiÔ
-chttps://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-ar.arhentai-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5ã«Í´µ±›šjØ¢Ø± Ù‡Ù†ØªØ§ÙŠar"https://arhentai.net
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.arhentai-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5ã«Í´µ±›šjØ¢Ø± Ù‡Ù†ØªØ§ÙŠar"https://arhentai.net
 Ï
 AriaToon)eu.kanade.tachiyomi.extension.ar.ariatoonÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.ariatoon-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/ariatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.¬™Î“Î ¯™qAriaToonar"https://ariatoon.com
 Â
 Azora&eu.kanade.tachiyomi.extension.ar.azoraĞ
 bhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.azora-v1.6.73.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/azora/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B+ã¿îÚ’¦Ğ¹"Azoraar"https://azorafly.com
-ê
-Comic Verse+eu.kanade.tachiyomi.extension.ar.comicverseÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.comicverse-v1.6.16.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/comicverse/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168B>çˆÙú¥“ôgComic Versear"!https://arcomixverse.blogspot.com
+è
+Comic Verse+eu.kanade.tachiyomi.extension.ar.comicverseØ
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.comicverse-v1.6.17.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/comicverse/res/mipmap-xhdpi/ic_launcher.png"1.6(¡¼21.6.178B>çˆÙú¥“ôgComic Versear"!https://arcomixverse.blogspot.com
 è
 Despair Manga-eu.kanade.tachiyomi.extension.ar.despairmangaÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-ar.despairmanga-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/despairmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8û¢Çû×„å¦Despair Mangaar"https://despair-world.com
 ™
 Detective Conan Ar1eu.kanade.tachiyomi.extension.ar.detectiveconanarä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.detectiveconanar-v1.6.58.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/detectiveconanar/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BV†ÑÄŒÿ¿÷O"Ø´Ø¨ÙƒØ© ÙƒÙˆÙ†Ø§Ù† Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©ar""https://manga.detectiveconanar.com
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.detectiveconanar-v1.6.58.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/detectiveconanar/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BV†ÑÄŒÿ¿÷O"Ø´Ø¨ÙƒØ© ÙƒÙˆÙ†Ø§Ù† Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©ar""https://manga.detectiveconanar.com
 ¾
 Dilar&eu.kanade.tachiyomi.extension.ar.dilarÎ
 `https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ar.dilar-v1.6.18.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png"1.6(¢¼21.6.188B)¿ÆŠÊÃŸãùiDilarar"https://dilar.tube
@@ -1122,7 +1111,7 @@ khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.
 ehttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-ar.duskoryvile-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/duskoryvile/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4¸ÎÏ×¼ˆ?Duskoryvilear"https://duskoryvile.com
 ò
 Empire Webtoon.eu.kanade.tachiyomi.extension.ar.empirewebtoonŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.empirewebtoon-v1.6.61.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/empirewebtoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B<Ì˜ğóˆñÂì$Empire Webtoonar"https://webtoonempire-bl.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.empirewebtoon-v1.6.61.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/empirewebtoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B<Ì˜ğóˆñÂì$Empire Webtoonar"https://webtoonempire-bl.com
 É
 EShadow(eu.kanade.tachiyomi.extension.ar.eshadowÓ
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.eshadow-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/eshadow/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B,Õ¬êšŸ¤ñËwEShadowar"https://eshadow.net
@@ -1146,7 +1135,7 @@ fhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ar.
 `https://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-ar.hijala-v1.6.3.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/hijala/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B*‚öù·íØİHijalaar"https://hijala.com
 Ö
 	HizoManga*eu.kanade.tachiyomi.extension.ar.hizomangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.hizomanga-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/hizomanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1©ûš†ƒìü9
+dhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-ar.hizomanga-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/hizomanga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B1©ûš†ƒìü9
 Hizo Mangaar"https://hizomanga.net
 Ü
 Kawii Manga+eu.kanade.tachiyomi.extension.ar.kawiimanga×
@@ -1161,7 +1150,7 @@ Lava Scansar"https://lavascans.com
 nhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.lonertranslations-v1.6.14.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/lonertranslations/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148BA»ºÊÎù½Loner Translationsar"https://loner-tl.blogspot.com
 Ü
 3asq*eu.kanade.tachiyomi.extension.ar.manga3asqÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.manga3asq-v1.6.59.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/manga3asq/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B<¼âî¢¤ù‘óÙ…Ø§Ù†Ø¬Ø§ Ø§Ù„Ø¹Ø§Ø´Ù‚ar"https://3asq.online
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.manga3asq-v1.6.59.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/manga3asq/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B<¼âî¢¤ù‘óÙ…Ø§Ù†Ø¬Ø§ Ø§Ù„Ø¹Ø§Ø´Ù‚ar"https://3asq.online
 ò
 Manga Ai Land,eu.kanade.tachiyomi.extension.ar.mangaailandÜ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.mangaailand-v1.6.14.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaailand/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148BAªç¯„‹ìéÔbManga Ai Landar""https://manga-ai-land.blogspot.com
@@ -1178,32 +1167,35 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-a
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.mangahub-v1.6.16.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168B6¤Î–­ÍÂ‘MangaHubar"https://www.mangaxhentai.com
 Ø
 Mangalek)eu.kanade.tachiyomi.extension.ar.mangalekÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.mangalek-v1.6.68.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalek/res/mipmap-xhdpi/ic_launcher.png"1.6(Ô¼21.6.688B7°«•¶äÁßÙ…Ø§Ù†Ø¬Ø§ Ù„ÙŠÙƒar"https://mangalik.net
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.mangalek-v1.6.68.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalek/res/mipmap-xhdpi/ic_launcher.png"1.6(Ô¼21.6.688B7°«•¶äÁßÙ…Ø§Ù†Ø¬Ø§ Ù„ÙŠÙƒar"https://mangalik.net
 à
 	Mangalink*eu.kanade.tachiyomi.extension.ar.mangalinkÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.mangalink-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalink/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B;¯’ÈÔÙ™ºÃ1Ù…Ø§Ù†Ø¬Ø§ Ù„ÙŠÙ†Ùƒar"https://link-manga.net
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.mangalink-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalink/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B;¯’ÈÔÙ™ºÃ1Ù…Ø§Ù†Ø¬Ø§ Ù„ÙŠÙ†Ùƒar"https://link-manga.net
 Ü
 
 MangaLionz+eu.kanade.tachiyomi.extension.ar.mangalionzØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.mangalionz-v1.6.60.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalionz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B3®Ü ªÄû÷#
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.mangalionz-v1.6.60.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalionz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B3®Ü ªÄû÷#
 MangaLionzar"https://manga-lionz.org
 Û
 
 MangaSpark+eu.kanade.tachiyomi.extension.ar.mangasparkØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.mangaspark-v1.6.63.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaspark/res/mipmap-xhdpi/ic_launcher.png"1.6(Ï¼21.6.638B2‰©²ªÂÂç!
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.mangaspark-v1.6.63.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaspark/res/mipmap-xhdpi/ic_launcher.png"1.6(Ï¼21.6.638B2‰©²ªÂÂç!
 MangaSparkar"https://sparkmanga.net
 İ
 Manga Starz+eu.kanade.tachiyomi.extension.ar.mangastarzØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.mangastarz-v1.6.65.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangastarz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ñ¼21.6.658B3Ã¹èôÊ»‰TManga Starzar"https://starzmanga.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.mangastarz-v1.6.65.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangastarz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ñ¼21.6.658B3Ã¹èôÊ»‰TManga Starzar"https://starzmanga.com
 ×
 	MangaSwat*eu.kanade.tachiyomi.extension.ar.mangaswatØ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.mangaswat-v1.6.61.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaswat/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B0˜ºÁæĞïÉ¡j	MangaSwatar"https://meshmanga.com
 ß
 Manga Tales+eu.kanade.tachiyomi.extension.ar.mangatales×
-dhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ar.mangatales-v1.6.4.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatales/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B7Õñº×¾ü€¶HManga Talesar"https://www.mangatales.com
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ar.mangatales-v1.6.4.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatales/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B7Õñº×¾ü€¶HManga Talesar"https://www.mangatales.com
 Í
 MangaTek)eu.kanade.tachiyomi.extension.ar.mangatekÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ar.mangatek-v1.6.7.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B.¯˜Ü†·â„MangaTekar"https://mangatek.com
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ar.mangatek-v1.6.8.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatek/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B.¯˜Ü†·â„MangaTekar"https://mangatek.com
+Í
+MangaTik)eu.kanade.tachiyomi.extension.ar.mangatikÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-ar.mangatik-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatik/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.ÊªªÀŠÖ‹¢bMangaTikar"https://mangatik.com
 Õ
 	MangaTime*eu.kanade.tachiyomi.extension.ar.mangatime×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.mangatime-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangatime/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0„»±±¯óş	MangaTimear"https://mangatime.org
@@ -1235,13 +1227,16 @@ fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-a
 Orca Mangaar" https://infinity896.blogspot.com
 Ş
 Paradise BL+eu.kanade.tachiyomi.extension.ar.paradiseblØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.paradisebl-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/paradisebl/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Öáƒ˜ÔÔöæDParadise BLar"https://paradise-bl.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.paradisebl-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/paradisebl/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Öáƒ˜ÔÔöæDParadise BLar"https://paradise-bl.com
+Í
+ProComic)eu.kanade.tachiyomi.extension.ar.procomicÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ar.procomic-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/procomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.¶¿ûÏûœ³{ProComicar"https://procomic.pro
 İ
 Rocks Manga+eu.kanade.tachiyomi.extension.ar.rocksmangaØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.rocksmanga-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/rocksmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3áãÄÛ˜œéç-Rocks Mangaar"https://rocksmanga.com
-é
-StellarSaber-eu.kanade.tachiyomi.extension.ar.stellarsaberŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.stellarsaber-v1.6.33.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/stellarsaber/res/mipmap-xhdpi/ic_launcher.png"1.6(±¼21.6.338B6ÛŠÂ®Ó¼İStellarSaberar"https://stellarsaber.pro
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.rocksmanga-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/rocksmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3áãÄÛ˜œéç-Rocks Mangaar"https://rocksmanga.com
+ç
+StellarSaber-eu.kanade.tachiyomi.extension.ar.stellarsaberÜ
+ghttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ar.stellarsaber-v1.6.34.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/stellarsaber/res/mipmap-xhdpi/ic_launcher.png"1.6(²¼21.6.348B6ÛŠÂ®Ó¼İStellarSaberar"https://stellarsaber.pro
 Ç
 Team X&eu.kanade.tachiyomi.extension.ar.teamxĞ
 bhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.teamx-v1.6.33.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/teamx/res/mipmap-xhdpi/ic_launcher.png"1.6(±¼21.6.338B/â¼šßˆ±‘†9Team Xar"https://olympustaff.com
@@ -1253,7 +1248,7 @@ ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-a
 bhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.yokai-v1.6.16.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yokai/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168B6Õ”Ğ¸áú˜<Yokaiar"https://yokai-team.blogspot.com
 Ë
 Yona Bar(eu.kanade.tachiyomi.extension.ar.yonabarÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ar.yonabar-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yonabar/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B-¶ø›ôµİ§¦oYona Barar"https://yonaber.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ar.yonabar-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yonabar/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B-¶ø›ôµİ§¦oYona Barar"https://yonaber.com
 ğ
 Yuri Moon Sub,eu.kanade.tachiyomi.extension.ar.yurimoonsubÜ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-ar.yurimoonsub-v1.6.16.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yurimoonsub/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168B?–í¼£…ÛlYuri Moon Subar" https://yurimoonsub.blogspot.com
@@ -1278,39 +1273,31 @@ hhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-cs.
 Manga Tube*eu.kanade.tachiyomi.extension.de.mangatubeÕ
 chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-de.mangatube-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/de/mangatube/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B1µÖ€ı˜ÑÌŠ_
 Manga Tubede"https://manga-tube.me
-×
-
-Akai Comic*eu.kanade.tachiyomi.extension.en.akaicomic×
-ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.akaicomic-v1.4.3.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/akaicomic/res/mipmap-xhdpi/ic_launcher.png"1.4(Ã¬21.4.38B1Âñ¨Û–¶âÊ
-Akai Comicen"https://akaicomic.org
 Û
 Akaza Scans+eu.kanade.tachiyomi.extension.en.akazascans×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.akazascans-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/akazascans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3íëÁË²ÇÛ“vAkaza Scansen"https://akazascans.org
-É
-Alandal(eu.kanade.tachiyomi.extension.en.alandalÓ
-chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.alandal-v1.4.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/alandal/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B,ö¥Æ‡ıÉ•·Alandalen"https://alandal.com
 Ì
 AllManga)eu.kanade.tachiyomi.extension.en.allanimeÔ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.allanime-v1.6.29.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B+¢¡Ø¸Ö¹­AAllMangaen"https://mkissa.to
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.allanime-v1.6.29.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B+¢¡Ø¸Ö¹­AAllMangaen"https://mkissa.to
 ç
 AllPornComic-eu.kanade.tachiyomi.extension.en.allporncomicÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.allporncomic-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allporncomic/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6²½©ùœŠÏvAllPornComicen"https://allporncomic.com
+ghttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.allporncomic-v1.6.58.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allporncomic/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B6²½©ùœŠÏvAllPornComicen"https://allporncomic.com
 ò
 AllPornComic.io/eu.kanade.tachiyomi.extension.en.allporncomicioà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.allporncomicio-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allporncomicio/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8÷Ñ¹¼†÷´·\AllPornComic.ioen"https://allporncomic.io
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.allporncomicio-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allporncomicio/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8÷Ñ¹¼†÷´·\AllPornComic.ioen"https://allporncomic.io
 â
 Alpha Manga+eu.kanade.tachiyomi.extension.en.alphamangaÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.alphamanga-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/alphamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B8Ùâ˜éîŞ´’Alpha Mangaen"https://www.alpha-manga.com
 Ü
 Anisa Scans+eu.kanade.tachiyomi.extension.en.anisascansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.anisascans-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/anisascans/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2Õ…€êÚÃÊ{Anisa Scansen"https://anisascans.in
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.anisascans-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/anisascans/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2Õ…€êÚÃÊ{Anisa Scansen"https://anisascans.in
 Ñ
 	AP Comics)eu.kanade.tachiyomi.extension.en.apcomicsÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.apcomics-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/apcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B/»ÿ«Ñµ¢—öl	AP Comicsen"https://apcomics.org
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.apcomics-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/apcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B/»ÿ«Ñµ¢—öl	AP Comicsen"https://apcomics.org
 Ø
 
 Aqua Manga*eu.kanade.tachiyomi.extension.en.aquamangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.aquamanga-v1.6.69.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/aquamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Õ¼21.6.698B2şåˆöä¼Ø
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.aquamanga-v1.6.69.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/aquamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Õ¼21.6.698B2şåˆöä¼Ø
 Aqua Mangaen"https://aquareader.org
 Ü
 Arc-Relight+eu.kanade.tachiyomi.extension.en.arcrelight×
@@ -1323,20 +1310,17 @@ dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.armageddon-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/silentquill/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B4…ÅûÉ¨—§3SilentQuillen"https://silentquill.net
 Ñ
 	Art Lapsa)eu.kanade.tachiyomi.extension.en.artlapsaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.artlapsa-v1.6.29.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/artlapsa/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B/å¹Á½¶—È˜
+chttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.artlapsa-v1.6.30.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/artlapsa/res/mipmap-xhdpi/ic_launcher.png"1.6(®¼21.6.308B/å¹Á½¶—È˜
 	Art Lapsaen"https://artlapsa.com
 ã
 Vortex Scans+eu.kanade.tachiyomi.extension.en.arvenscansÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.arvenscans-v1.6.89.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vortexscans/res/mipmap-xhdpi/ic_launcher.png"1.6(é¼21.6.898B5¿û­™äëÚÂ#Vortex Scansen"https://vortexscans.org
 é
 BrainRotComics*eu.kanade.tachiyomi.extension.en.aryascansÛ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.aryascans-v1.6.58.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/brainrotcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B:Ë²üú¯ËóâiBrainRotComicsen"https://brainrotcomics.com
-Í
-AsiaToon)eu.kanade.tachiyomi.extension.en.asiatoonÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.asiatoon-v1.4.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/asiatoon/res/mipmap-xhdpi/ic_launcher.png"1.4(Ã¬21.4.38B.€İ¬Ğó·¶vAsiaToonen"https://asiatoon.net
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.aryascans-v1.6.58.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/brainrotcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B:Ë²üú¯ËóâiBrainRotComicsen"https://brainrotcomics.com
 Û
 Asmodeus Scans)eu.kanade.tachiyomi.extension.en.asmotoonÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.asmotoon-v1.6.25.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/asmotoon/res/mipmap-xhdpi/ic_launcher.png"1.6(©¼21.6.258B4§ÜÛĞ¶ÉıHAsmodeus Scansen"https://asmotoon.com
+chttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.asmotoon-v1.6.27.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/asmotoon/res/mipmap-xhdpi/ic_launcher.png"1.6(«¼21.6.278B4ˆìšú€œ°èAsmodeus Scansen"https://asmotoon.com
 í
 Assorted Scans.eu.kanade.tachiyomi.extension.en.assortedscansİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.assortedscans-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/assortedscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9Ø×õ¼ˆôªŸpAssorted Scansen"https://assortedscans.com
@@ -1354,13 +1338,13 @@ ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.atsumaru-v1.6.25.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png"1.6(©¼21.6.258B*‘Ã Äëî·¦ Atsumaruen"https://atsu.moe
 İ
 Aunt Manhwa+eu.kanade.tachiyomi.extension.en.auntmanhwaØ
-ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.auntmanhwa-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/auntmanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3—…ğüˆî¡[Aunt Manhwaen"https://auntmanhwa.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.auntmanhwa-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/auntmanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3—…ğüˆî¡[Aunt Manhwaen"https://auntmanhwa.com
 Æ
 aurora'eu.kanade.tachiyomi.extension.en.auroraÏ
 `https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.aurora-v1.6.4.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/aurora/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B/²ÚÜ¤Óš„û~Auroraen"https://comicaurora.com
 »
 Omoi&eu.kanade.tachiyomi.extension.en.azukiÌ
-_https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.azuki-v1.6.0.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/omoi/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*„Â¼á¿ßİqOmoien"https://www.omoi.com
+_https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.azuki-v1.6.1.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/omoi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B*„Â¼á¿ßİqOmoien"https://www.omoi.com
 Ï
 Bakkin'eu.kanade.tachiyomi.extension.en.bakkinÕ
 `https://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-en.bakkin-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/bakkin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2ßµÚß·ÑİéBakkinen"https://bakkin.moe/reader/
@@ -1369,27 +1353,27 @@ _https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 jhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-en.bakkinselfhosted-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/bakkin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5–‘’†¸µÇáVBakkin Self-hosteden"http://127.0.0.1/
 É
 BatCave(eu.kanade.tachiyomi.extension.en.batcaveÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.batcave-v1.6.12.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/batcave/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B,š•ûËñ„¦€gBatCaveen"https://batcave.biz
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.batcave-v1.6.12.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/batcave/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B,š•ûËñ„¦€gBatCaveen"https://batcave.biz
 Ê
 !Battle In 5 Seconds After Meeting@eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeetingƒ
-zhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.battleinfivesecondsaftermeeting-v1.6.55.apk„https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/battleinfivesecondsaftermeeting/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558BJûçŠ‹ƒô’#!Battle In 5 Seconds After Meetingen"https://www.deatte5.com
+zhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.battleinfivesecondsaftermeeting-v1.6.56.apk„https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/battleinfivesecondsaftermeeting/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568BJûçŠ‹ƒô’#!Battle In 5 Seconds After Meetingen"https://www.deatte5.com
 ½
 Bbato&eu.kanade.tachiyomi.extension.en.bbatoÏ
 ahttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.bbato-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bbato/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B(ƒ‘óñÏ ú¤Bbatoen"https://bato1.com
 Ù
 
 BookWalker+eu.kanade.tachiyomi.extension.en.bookwalker×
-dhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-en.bookwalker-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bookwalker/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2ô¿ó†ÎÆá‹&
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.bookwalker-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bookwalker/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2ô¿ó†ÎÆá‹&
 BookWalkeren"https://bookwalker.com
 İ
 Borat Scans+eu.kanade.tachiyomi.extension.en.boratscansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.boratscans-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/boratscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3‚äÛÓÊõámBorat Scansen"https://boratscans.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.boratscans-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/boratscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3‚äÛÓÊõámBorat Scansen"https://boratscans.com
 è
 Broccoli Soup-eu.kanade.tachiyomi.extension.en.broccolisoupÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.broccolisoup-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/broccolisoup/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8û§„ú‰†ä˜Broccoli Soupen"https://politeandgood.com
 Ñ
 	Bun Manga)eu.kanade.tachiyomi.extension.en.bunmangaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.bunmanga-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bunmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B/µ—¢Ú’Œî¿R	Bun Mangaen"https://bunmanga.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.bunmanga-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bunmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B/µ—¢Ú’Œî¿R	Bun Mangaen"https://bunmanga.com
 à
 
 buttsmithy+eu.kanade.tachiyomi.extension.en.buttsmithy×
@@ -1397,7 +1381,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 Buttsmithyen"https://incase.buttsmithy.com
 à
 CartoonPorn,eu.kanade.tachiyomi.extension.en.cartoonpornÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-en.cartoonporn-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cartoonporn/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3ĞáÏïÑ®ÏaCartoonPornen"https://cartoonporn.to
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.cartoonporn-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cartoonporn/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3ĞáÏïÑ®ÏaCartoonPornen"https://cartoonporn.to
 á
 Clone Manga+eu.kanade.tachiyomi.extension.en.clonemanga×
 dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.clonemanga-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/clonemanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9õöÙã÷ûåÕOClone Mangaen"https://manga.clone-army.org
@@ -1409,7 +1393,10 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-en.cmanhua-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/cmanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,á§öº³¥ìÃgCManhuazh"https://cmanhua.com
 È
 Cocomic(eu.kanade.tachiyomi.extension.en.cocomicÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.cocomic-v1.6.57.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cocomic/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B+±­³ß¸´ˆ˜1Cocomicen"https://cocomic.co
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.cocomic-v1.6.57.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cocomic/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B+±­³ß¸´ˆ˜1Cocomicen"https://cocomic.co
+›
+Coffee Manga (Unoriginal)6eu.kanade.tachiyomi.extension.en.coffeemangaunoriginalî
+phttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.coffeemangaunoriginal-v1.6.56.apkzhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/coffeemangaunoriginal/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568BBâà¨˜üğ×#Coffee Manga (Unoriginal)en"https://coffeemanga.net
 ı
 Collected Curios0eu.kanade.tachiyomi.extension.en.collectedcuriosá
 ihttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.collectedcurios-v1.6.0.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/collectedcurios/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BAÜ›û€—Ş¨Collected Curiosen"https://www.collectedcurios.com
@@ -1433,13 +1420,13 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.comicland-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comicland/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0ˆàÜûÌààŠX	ComicLanden"https://comicland.org
 ¼
 Comix&eu.kanade.tachiyomi.extension.en.comixÎ
-`https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.comix-v1.6.44.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png"1.6(¼¼21.6.448B'˜şßç‰†ÖÍhComixen"https://comix.to
+`https://github.com/keiyoushi/extensions/releases/download/bca1678/tachiyomi-en.comix-v1.6.52.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png"1.6(Ä¼21.6.528B'˜şßç‰†ÖÍhComixen"https://comix.to
 Æ
 Coolmic(eu.kanade.tachiyomi.extension.en.coolmicÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.coolmic-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/coolmic/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B+¡¸©£î‚Í¡ICoolmicen"https://coolmic.me
+ahttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.coolmic-v1.6.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/coolmic/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B+¡¸©£î‚Í¡ICoolmicen"https://coolmic.me
 ï
 Cucumber Manga.eu.kanade.tachiyomi.extension.en.cucumbermangaŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.cucumbermanga-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cucumbermanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9¢éôõÏçş5Cucumber Mangaen"https://cucumbermanga.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.cucumbermanga-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cucumbermanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9¢éôõÏçş5Cucumber Mangaen"https://cucumbermanga.com
 ë
 CulturedWorks.eu.kanade.tachiyomi.extension.en.culturedworksİ
 ghttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.culturedworks-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/culturedworks/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8´÷œÄ˜ä“CulturedWorksen"https://culturedworks.com
@@ -1448,7 +1435,7 @@ ghttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.cutiecomics-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cutiecomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5›ÄÙ²ù‘”ÆlCutie Comicsen"https://cutiecomics.com
 ç
 Daily Manhwa,eu.kanade.tachiyomi.extension.en.dailymanhwaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.dailymanhwa-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dailymanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9şÁê‚©–åºDaily Manhwaen"https://www.dailymanhwa.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.dailymanhwa-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dailymanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9şÁê‚©–åºDaily Manhwaen"https://www.dailymanhwa.com
 î
 Danke fÃ¼rs Lesen/eu.kanade.tachiyomi.extension.en.dankefurslesenß
 hhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.dankefurslesen-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dankefurslesen/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4¼»°»’è‘Danke fÃ¼rs Lesenen"https://danke.moe
@@ -1466,19 +1453,14 @@ fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 jhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.deathtollscans-v1.6.6.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/deathtollscans/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68BCªïÆ®®ÉÄADeath Toll Scansen"!https://reader.deathtollscans.net
 ü
 Decadence Scans/eu.kanade.tachiyomi.extension.en.decadencescansà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.decadencescans-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/decadencescans/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578BBâ¸Ò¿ ò¨’gDecadence Scansen"!https://reader.decadencescans.com
-á
-
-DFlowScans+eu.kanade.tachiyomi.extension.en.dflowscansÙ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.dflowscans-v1.4.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dflowscans/res/mipmap-xhdpi/ic_launcher.png"1.4(Á¬21.4.18B8¹æ€—‹êÀÄO
-DFlowScansen"https://dflow.alwaysdata.net
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.decadencescans-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/decadencescans/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578BBâ¸Ò¿ ò¨’gDecadence Scansen"!https://reader.decadencescans.com
 
 Digital Comic Museum3eu.kanade.tachiyomi.extension.en.digitalcomicmuseumç
 lhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.digitalcomicmuseum-v1.6.0.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/digitalcomicmuseum/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BD•ŸÂ­ñæ‘ÖDigital Comic Museumen"https://digitalcomicmuseum.com
 ×
 
 Diva Scans*eu.kanade.tachiyomi.extension.en.divascansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.divascans-v1.6.29.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/divascans/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B1³×ÓÚÛ­â0
+dhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.divascans-v1.6.30.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/divascans/res/mipmap-xhdpi/ic_launcher.png"1.6(®¼21.6.308B1³×ÓÚÛ­â0
 Diva Scansen"https://divascans.org
 Ú
 Doujin.io - J18)eu.kanade.tachiyomi.extension.en.doujinioÕ
@@ -1488,10 +1470,10 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.doujins-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/doujins/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,àÙÊ€ÿ­øç3Doujinsen"https://doujins.com
 Õ
 	DragonTea*eu.kanade.tachiyomi.extension.en.dragonteaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.dragontea-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dragontea/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B0óè´™¶òœ[	DragonTeaen"https://dragontea.ink
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.dragontea-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dragontea/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B0óè´™¶òœ[	DragonTeaen"https://dragontea.ink
 İ
 Drake Scans+eu.kanade.tachiyomi.extension.en.drakescansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.drakescans-v1.6.52.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/drakescans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ä¼21.6.528B3Œ’ªÏıêº¤eDrake Scansen"https://drakecomic.net
+ehttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.drakescans-v1.6.53.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/drakescans/res/mipmap-xhdpi/ic_launcher.png"1.6(Å¼21.6.538B3Œ’ªÏıêº¤eDrake Scansen"https://drakecomic.net
 Ù
 Dynasty Scans(eu.kanade.tachiyomi.extension.en.dynastyÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.dynasty-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dynasty/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8ÀÚöÛ¡ÙÆ¤	Dynasty Scansen"https://dynasty-scans.com
@@ -1517,18 +1499,18 @@ dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.
 dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.elanschool-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/elanschool/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0°ñÈóéƒ”½UElan Schoolen"https://elan.school
 É
 Elf Toon(eu.kanade.tachiyomi.extension.en.elftoonÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.elftoon-v1.6.8.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/elftoon/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B-š°ª¢×Ìş°mElf Toonen"https://elftoon.net
+ahttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.elftoon-v1.6.9.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/elftoon/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B-š°ª¢×Ìş°mElf Toonen"https://elftoon.net
 »
 emaqi&eu.kanade.tachiyomi.extension.en.emaqiÍ
-_https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-en.emaqi-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/emaqi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B(²ÛìùŒ”Ğù.emaqien"https://emaqi.com
+_https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.emaqi-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/emaqi/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B(²ÛìùŒ”Ğù.emaqien"https://emaqi.com
 ×
 
 Eris Scans*eu.kanade.tachiyomi.extension.en.erisscansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.erisscans-v1.6.22.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erisscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B1ªÆÌ´ıàÄÿs
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.erisscans-v1.6.23.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erisscans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B1ªÆÌ´ıàÄÿs
 Eris Scansen"https://erisscans.com
 Ã
 Ero18x'eu.kanade.tachiyomi.extension.en.ero18xĞ
-ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.ero18x-v1.6.55.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ero18x/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B*ğ¢ü€¶Û±¬QEro18xen"https://ero18x.com
+ahttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.ero18x-v1.6.55.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ero18x/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B*ğ¢ü€¶Û±¬QEro18xen"https://ero18x.com
 Å
 Erofus'eu.kanade.tachiyomi.extension.en.erofusÏ
 `https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.erofus-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erofus/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.È´¬ÇÓşß²*Erofusen"https://www.erofus.com
@@ -1537,7 +1519,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.erosscans-v1.6.9.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erosscans/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B5ª’‚ì…æíÌScythe Scansen"https://scythescans.com
 Ï
 	Eva Scans)eu.kanade.tachiyomi.extension.en.evascansÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.evascans-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/evascans/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B/ïÎ“èÆÓÂ	Eva Scansen"https://evascans.net
+bhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.evascans-v1.6.5.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/evascans/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B/ïÎ“èÆÓÂ	Eva Scansen"https://evascans.net
 …
 Existential Comics2eu.kanade.tachiyomi.extension.en.existentialcomicså
 khttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.existentialcomics-v1.6.0.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/existentialcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BAĞŞ¶¸¶€ˆÀ	Existential Comicsen"https://existentialcomics.com
@@ -1547,35 +1529,37 @@ ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 Ç
 EZmanga(eu.kanade.tachiyomi.extension.en.ezmangaÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-en.ezmanga-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ezmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,å£ØŒÄµ„.EZmangaen"https://ezmanga.org
-ß
-Fairy Scans+eu.kanade.tachiyomi.extension.en.fairyscansÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.fairyscans-v1.4.34.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/fairyscans/res/mipmap-xhdpi/ic_launcher.png"1.4(â¬21.4.348B3ƒ¯ÈÈ£‰ëlFairy Scansen"https://fairyscans.org
 á
 Flame Comics,eu.kanade.tachiyomi.extension.en.flamecomicsÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.flamecomics-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/flamecomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5×òÛÑìšˆ³vFlame Comicsen"https://flamecomics.xyz
+â
+
+4PornComic.eu.kanade.tachiyomi.extension.en.fourporncomicİ
+ghttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.fourporncomic-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/fourporncomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2¸ĞÁËıÏû´7
+4PornComicen"https://4porncomic.com
 ï
 Frieren Online.eu.kanade.tachiyomi.extension.en.frierenonlineŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.frierenonline-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/frierenonline/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9›²ıÈ¹˜›1Frieren Onlineen"https://www.frieren.online
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.frierenonline-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/frierenonline/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9›²ıÈ¹˜›1Frieren Onlineen"https://www.frieren.online
 Û
 
 GakaMangas+eu.kanade.tachiyomi.extension.en.gakamangasØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.gakamangas-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gakamangas/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2À©ì¶ÂÉğçH
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.gakamangas-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gakamangas/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2À©ì¶ÂÉğçH
 GakaMangasen"https://gakamangas.com
 ö
 GalaxyDegenScans1eu.kanade.tachiyomi.extension.en.galaxydegenscansä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.galaxydegenscans-v1.6.59.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/galaxydegenscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B5¨Í°å Üæè?GalaxyDegenScansen"https://gdscans.com
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.galaxydegenscans-v1.6.59.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/galaxydegenscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B5¨Í°å Üæè?GalaxyDegenScansen"https://gdscans.com
 à
 Galaxy Manga,eu.kanade.tachiyomi.extension.en.galaxymangaÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.galaxymanga-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/galaxymanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4Øœˆõ—•„ç*Galaxy Mangaen"https://galaxymanga.io
 ×
 
 GEDE Comix*eu.kanade.tachiyomi.extension.en.gedecomixÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.gedecomix-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gedecomix/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1Ó×³®ªÁó6
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.gedecomix-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gedecomix/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1Ó×³®ªÁó6
 GEDE Comixen"https://gedecomix.com
 Û
 
 GingeRTooN+eu.kanade.tachiyomi.extension.en.gingertoonØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.gingertoon-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gingertoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2áÄÅš«¾®:
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.gingertoon-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gingertoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2áÄÅš«¾®:
 GingeRTooNen"https://gingertoon.com
 Ñ
 GirlsTop)eu.kanade.tachiyomi.extension.en.girlstopÓ
@@ -1585,14 +1569,11 @@ bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 `https://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.goda-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B-â£ÉÏö§;Godaen"https://manhuascans.org
 í
 Gourmet Scans-eu.kanade.tachiyomi.extension.en.gourmetscansÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.gourmetscans-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gourmetscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B;ù¯ê°²“Ä£3Gourmet Scansen"https://gourmetsupremacy.com
-Ş
-Greed Scans+eu.kanade.tachiyomi.extension.en.greedscansÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.greedscans-v1.4.32.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/greedscans/res/mipmap-xhdpi/ic_launcher.png"1.4(à¬21.4.328B2¨õş¬ë­ì€Greed Scansen"https://gojoscans.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.gourmetscans-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gourmetscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B;ù¯ê°²“Ä£3Gourmet Scansen"https://gourmetsupremacy.com
 ×
 
 Grim Scans*eu.kanade.tachiyomi.extension.en.grimscansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.grimscans-v1.6.22.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/grimscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B1ÿğŞÊôâÈ˜w
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.grimscans-v1.6.23.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/grimscans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B1ÿğŞÊôâÈ˜w
 Grim Scansen"https://grimscans.com
 ê
 Grrl Power Comic*eu.kanade.tachiyomi.extension.en.grrlpowerÕ
@@ -1615,14 +1596,17 @@ dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 ×
 
 Hentai1.io*eu.kanade.tachiyomi.extension.en.hentai1ioÙ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hentai1io-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.§ã÷Ó¨ó’èv
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hentai1io-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.§ã÷Ó¨ó’èv
 Hentai1.ioen"https://hentai1.io
+ğ
+Hentai20 (Unoriginal),eu.kanade.tachiyomi.extension.en.hentai20lolÙ
+ehttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.hentai20lol-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai20lol/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;˜ğ‘ÒÁîø1Hentai20 (Unoriginal)en"https://hentai20.lol
 Ø
 Hentai3z.CC+eu.kanade.tachiyomi.extension.en.hentai3zcc×
 dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.hentai3zcc-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai3zcc/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0æ¨³éâˆæíHentai3z.CCen"https://hentai3z.cc
 á
 Hentai4Free,eu.kanade.tachiyomi.extension.en.hentai4freeÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hentai4free-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai4free/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4úì’¢ôÀšù[Hentai4Freeen"https://hentai4free.net
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hentai4free-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai4free/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4úì’¢ôÀšù[Hentai4Freeen"https://hentai4free.net
 Û
 Hentai Desi+eu.kanade.tachiyomi.extension.en.hentaidesi×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.hentaidesi-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaidesi/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3¥¯‰«ê¯§éHentai Desien"https://hentaidesi.com
@@ -1647,6 +1631,11 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.hentainexus-v1.6.20.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentainexus/res/mipmap-xhdpi/ic_launcher.png"1.6(¤¼21.6.208B4ªŠ£÷÷ş‘kHentaiNexusen"https://hentainexus.com
 Ù
 
+HentaiPill+eu.kanade.tachiyomi.extension.en.hentaipill×
+dhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.hentaipill-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaipill/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2Ñ¶şçùºÒÛO
+HentaiPillen"https://hentaipill.com
+Ù
+
 HentaiRead+eu.kanade.tachiyomi.extension.en.hentairead×
 dhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-en.hentairead-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentairead/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2ëúà¡²‘Ëõ
 HentaiReaden"https://hentairead.com
@@ -1655,16 +1644,16 @@ HentaiReaden"https://hentairead.com
 hhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.hentaireadio-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaireadio/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4„Ãëä«™¾ÓHentaiRead.ioen"https://hentairead.io
 Ô
 	HentaiSco*eu.kanade.tachiyomi.extension.en.hentaiscoÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hentaisco-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaisco/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B/ÖÜ¯åè½Æ]	HentaiScoen"https://hentaisco.cc
+dhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.hentaisco-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaisco/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B/ÖÜ¯åè½Æ]	HentaiScoen"https://hentaisco.cc
 ç
 HentaiXComic-eu.kanade.tachiyomi.extension.en.hentaixcomicÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hentaixcomic-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6â»ÛÃÀÏÆ®jHentaiXComicen"https://hentaixcomic.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hentaixcomic-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6â»ÛÃÀÏÆ®jHentaiXComicen"https://hentaixcomic.com
 ù
 HentaiXDickgirl0eu.kanade.tachiyomi.extension.en.hentaixdickgirlâ
-jhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hentaixdickgirl-v1.6.55.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixdickgirl/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<óÇ•€ˆĞßHentaiXDickgirlen"https://hentaixdickgirl.com
+jhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hentaixdickgirl-v1.6.55.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixdickgirl/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<óÇ•€ˆĞßHentaiXDickgirlen"https://hentaixdickgirl.com
 á
 HentaiXYuri,eu.kanade.tachiyomi.extension.en.hentaixyuriÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hentaixyuri-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixyuri/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4¼ÛÒ…Ğ¥HentaiXYurien"https://hentaixyuri.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hentaixyuri-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixyuri/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4¼ÛÒ…Ğ¥HentaiXYurien"https://hentaixyuri.com
 Ç
 Hentara(eu.kanade.tachiyomi.extension.en.hentaraÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.hentara-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentara/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,å€Œ¡¨ß°£aHentaraen"https://hentara.com
@@ -1676,13 +1665,13 @@ ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.hijalascans-v1.6.27.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hijalascans/res/mipmap-xhdpi/ic_launcher.png"1.6(«¼21.6.278B3°Ô…¨®»’§Hijala Scansen"https://en-hijala.com
 Î
 Hiperdex)eu.kanade.tachiyomi.extension.en.hiperdexÔ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.hiperdex-v1.6.89.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hiperdex/res/mipmap-xhdpi/ic_launcher.png"1.6(é¼21.6.898B-òŠƒ×ÏŒÄ*Hiperdexen"https://hiperdex.tv
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.hiperdex-v1.6.89.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hiperdex/res/mipmap-xhdpi/ic_launcher.png"1.6(é¼21.6.898B-òŠƒ×ÏŒÄ*Hiperdexen"https://hiperdex.tv
 ç
 Hiveworks Comics*eu.kanade.tachiyomi.extension.en.hiveworksÕ
-chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.hiveworks-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hiveworks/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B=ûß÷İ¶û÷ğ[Hiveworks Comicsen"https://hiveworkscomics.com
+chttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.hiveworks-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hiveworks/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B=ûß÷İ¶û÷ğ[Hiveworks Comicsen"https://hiveworkscomics.com
 Á
 HM2D%eu.kanade.tachiyomi.extension.en.hm2dÌ
-_https://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hm2d-v1.6.57.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hm2d/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B0‹ñÀäÕ«ÜeHM2Den"https://doujindistrict.com
+_https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hm2d-v1.6.57.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hm2d/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B0‹ñÀäÕ«ÜeHM2Den"https://doujindistrict.com
 ò
 HonkaiImpact3-eu.kanade.tachiyomi.extension.en.honkaiimpactÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.honkaiimpact-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/honkaiimpact/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BBÕçî†æêŒ¹NHonkai Impact 3rden"https://manga.honkaiimpact3.com
@@ -1691,10 +1680,15 @@ fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 chttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.hotcomics-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hotcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B/¨ñ·ò ÿœõW	HotComicsen"https://hotcomics.io
 õ
 Hunlight Comics/eu.kanade.tachiyomi.extension.en.hunlightcomicsà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.hunlightcomics-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hunlightcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B;¾œÚáæ5Hunlight Comicsen"https://hunlightcomics.com
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.hunlightcomics-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hunlightcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B;¾œÚáæ5Hunlight Comicsen"https://hunlightcomics.com
 ã
 Hyakuro Translations(eu.kanade.tachiyomi.extension.en.hyakuroÓ
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.hyakuro-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hyakuro/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B9Áãœïü½–‘EHyakuro Translationsen"https://hyakuro.net
+Ù
+
+ILikeComix+eu.kanade.tachiyomi.extension.en.ilikecomix×
+dhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.ilikecomix-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ilikecomix/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2éÔìŸ‘çËà
+ILikeComixen"https://ilikecomix.com
 ç
 I'm An Evil God,eu.kanade.tachiyomi.extension.en.imanevilgodÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.imanevilgod-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/imanevilgod/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8ˆûŸã‡İóÅkI'm An Evil Goden"https://imanevilgod.com
@@ -1705,32 +1699,35 @@ nhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 Hive Scansen"https://hivetoons.org
 í
 InfinityScans.eu.kanade.tachiyomi.extension.en.infinityscansŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.infinityscans-v1.6.14.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/infinityscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148B8õÕ»Ôì¡ÍékInfinityScansen"https://infinityscans.org
+hhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.infinityscans-v1.6.14.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/infinityscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148B8õÕ»Ôì¡ÍékInfinityScansen"https://infinityscans.org
 ¼
 INKR%eu.kanade.tachiyomi.extension.en.inkrË
-^https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.inkr-v1.6.1.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/inkr/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-Ô¾ßÙÜ€ó¸`INKRen"https://comics.inkr.com
+^https://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.inkr-v1.6.2.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/inkr/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B-Ô¾ßÙÜ€ó¸`INKRen"https://comics.inkr.com
 Û
 I Roved Out*eu.kanade.tachiyomi.extension.en.irovedoutÕ
 chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.irovedout-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/irovedout/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6œ¿ã—¿áqI Roved Outen"https://www.irovedout.com
 Ö
 	Jinmangas*eu.kanade.tachiyomi.extension.en.jinmangasÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-en.jinmangas-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/jinmangas/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B1ÿ˜˜¿¤óì½O	Jinmangasen"https://mangafree.info
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.jinmangas-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/jinmangas/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B1ÿ˜˜¿¤óì½O	Jinmangasen"https://mangafree.info
 Å
 J-Novel'eu.kanade.tachiyomi.extension.en.jnovelÏ
-`https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-en.jnovel-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/jnovel/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-¢º·ç¹é¹"J-Novelen"https://j-novel.club
+`https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.jnovel-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/jnovel/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-¢º·ç¹é¹"J-Novelen"https://j-novel.club
+ş
+Kaiji Manga Online1eu.kanade.tachiyomi.extension.en.kaijimangaonlineã
+jhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.kaijimangaonline-v1.6.0.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaijimangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B=†‚Å¹§­¾÷>Kaiji Manga Onlineen"https://w9.kaijimanga.com
 İ
 Kaizen Scan+eu.kanade.tachiyomi.extension.en.kaizenscanØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.kaizenscan-v1.6.22.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaizenscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B3ı˜Æ²Å¬ÕòKaizen Scanen"https://kaizenscan.com
-Ö
-KaliScan,eu.kanade.tachiyomi.extension.en.kaliscancomÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.kaliscancom-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaliscancom/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.û»‚ÇÍ±ƒ¨jKaliScanen"https://kaliscan.com
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.kaizenscan-v1.6.23.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaizenscan/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B3ı˜Æ²Å¬ÕòKaizen Scanen"https://kaizenscan.com
+ú
+KaliScan.org (unoriginal),eu.kanade.tachiyomi.extension.en.kaliscanorgÚ
+fhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.kaliscanorg-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaliscanorg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B?úŞËùÄíĞÚPKaliScan.org (unoriginal)en"https://kaliscan.org
 İ
 Kappa Beast+eu.kanade.tachiyomi.extension.en.kappabeastÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.kappabeast-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kappabeast/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3·›µŸë¾€ˆ$Kappa Beasten"https://kappabeast.com
 ×
 
 Kayn Scans*eu.kanade.tachiyomi.extension.en.kaynscansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.kaynscans-v1.6.35.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaynscans/res/mipmap-xhdpi/ic_launcher.png"1.6(³¼21.6.358B1‹•ùÚÂ¹ó[
+dhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.kaynscans-v1.6.36.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaynscans/res/mipmap-xhdpi/ic_launcher.png"1.6(´¼21.6.368B1‹•ùÚÂ¹ó[
 Kayn Scansen"https://kaynscans.com
 ß
 keenspot)eu.kanade.tachiyomi.extension.en.keenspotÓ
@@ -1741,7 +1738,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 ×
 
 Kewn Scans*eu.kanade.tachiyomi.extension.en.kewnscansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.kewnscans-v1.6.23.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kewnscans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B1¸ÒÑºú„Ë‹'
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.kewnscans-v1.6.24.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kewnscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B1¸ÒÑºú„Ë‹'
 Kewn Scansen"https://kewnscans.org
 ˜
 Kill Six Billion Demons5eu.kanade.tachiyomi.extension.en.killsixbilliondemonsë
@@ -1754,22 +1751,25 @@ ehttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-e
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.kingofshojo-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kingofshojo/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6™æúšı±•ƒKing of Shojoen"https://kingofshojo.com
 à
 Kissmanga.in,eu.kanade.tachiyomi.extension.en.kissmangainÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.kissmangain-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kissmangain/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B2¡ïê ²Ú˜+Kissmanga.inen"https://kissmanga.in
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.kissmangain-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kissmangain/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B2¡ïê ²Ú˜+Kissmanga.inen"https://kissmanga.in
 ã
 Kitsune Dawn,eu.kanade.tachiyomi.extension.en.kitsunedawnÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-en.kitsunedawn-v1.6.22.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kitsunedawn/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B5îÿ¹îşëƒ´kKitsune Dawnen"https://kitsunedawn.com
+fhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.kitsunedawn-v1.6.23.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kitsunedawn/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B5îÿ¹îşëƒ´kKitsune Dawnen"https://kitsunedawn.com
 Ì
 K Manga'eu.kanade.tachiyomi.extension.en.kmangaÏ
-`https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.kmanga-v1.6.7.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B4œ»³­†°ÔqK Mangaen"https://kmanga.kodansha.com
+`https://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.kmanga-v1.6.7.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B4œ»³­†°ÔqK Mangaen"https://kmanga.kodansha.com
 Ì
 Kodansha)eu.kanade.tachiyomi.extension.en.kodanshaÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-en.kodansha-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kodansha/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-°ãü³á”{Kodanshaen"https://kodansha.us
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.kodansha-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kodansha/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-°ãü³á”{Kodanshaen"https://kodansha.us
+º
+Komix&eu.kanade.tachiyomi.extension.en.komixÍ
+_https://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.komix-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/komix/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B'Ãï­ºÛí_Komixen"https://komix.to
 ç
 KSGroupScans-eu.kanade.tachiyomi.extension.en.ksgroupscansÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.ksgroupscans-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ksgroupscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6òÖÌ®ñäâ;KSGroupScansen"https://ksgroupscans.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.ksgroupscans-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ksgroupscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6òÖÌ®ñäâ;KSGroupScansen"https://ksgroupscans.com
 ø
 Kun Manga Online/eu.kanade.tachiyomi.extension.en.kunmangaonlineà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.kunmangaonline-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kunmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B=Şâ±äÕÙè¤nKun Manga Onlineen"https://www.kunmanga.online
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.kunmangaonline-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kunmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B=Şâ±äÕÙè¤nKun Manga Onlineen"https://www.kunmanga.online
 Õ
 	KuraManga*eu.kanade.tachiyomi.extension.en.kuramanga×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.kuramanga-v1.6.3.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kuramanga/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B0ãı·‹­”¬šb	KuraMangaen"https://kuramanga.com
@@ -1781,44 +1781,44 @@ ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.leslievictims-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/leslievictims/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B@½©ñÜêÊÌ…Leslie&Victimsen" https://leslie-victims.pages.dev
 í
 LHTranslation.eu.kanade.tachiyomi.extension.en.lhtranslationŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.lhtranslation-v1.6.56.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lhtranslation/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8¢æ¥•…ŸÉ”zLHTranslationen"https://lhtranslation.net
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.lhtranslation-v1.6.56.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lhtranslation/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8¢æ¥•…ŸÉ”zLHTranslationen"https://lhtranslation.net
 Ó
 	LikeManga*eu.kanade.tachiyomi.extension.en.likemangaÕ
 chttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-en.likemanga-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/likemanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0‘¡İªúüŒÇV	LikeMangaen"https://likemanga.ink
 Õ
 MangaYY,eu.kanade.tachiyomi.extension.en.likemangainÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.likemangain-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/likemangain/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B,«“™ä‡ˆÀMangaYYen"https://mangayy.org
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.likemangain-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/likemangain/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B,«“™ä‡ˆÀMangaYYen"https://mangayy.org
 ×
 
 Lily Manga*eu.kanade.tachiyomi.extension.en.lilymangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.lilymanga-v1.6.62.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lilymanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B1Ãğç¾Öì—>
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.lilymanga-v1.6.62.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lilymanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B1Ãğç¾Öì—>
 Lily Mangaen"https://lilymanga.net
 Õ
 	LinkManga*eu.kanade.tachiyomi.extension.en.linkmangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.linkmanga-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/linkmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0»¶ş¨¬ö´Õw	LinkMangaen"https://linkmanga.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.linkmanga-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/linkmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0»¶ş¨¬ö´Õw	LinkMangaen"https://linkmanga.com
 í
 Loading Artist.eu.kanade.tachiyomi.extension.en.loadingartistİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.loadingartist-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/loadingartist/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9şé¾Æñ¾üÊLoading Artisten"https://loadingartist.com
 Ë
 LoLoBun(eu.kanade.tachiyomi.extension.en.lolobunÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.lolobun-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lolobun/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0ÄûÖ‰×Ì­¸ILoLoBunen"https://www.lolobun.com
-Ó
-	Lua Scans)eu.kanade.tachiyomi.extension.en.luascansÖ
-ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.luascans-v1.6.52.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/luascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ä¼21.6.528B/¡¯‘¦Ì÷Œ¿	Lua Scansen"https://luacomic.org
+Ñ
+	Lua Scans)eu.kanade.tachiyomi.extension.en.luascansÔ
+chttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.luascans-v1.6.53.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/luascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Å¼21.6.538B/¡¯‘¦Ì÷Œ¿	Lua Scansen"https://luacomic.org
 —
 Luminare Translations5eu.kanade.tachiyomi.extension.en.luminaretranslationsë
 nhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.luminaretranslations-v1.6.0.apkyhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/luminaretranslations/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BG¡ ‡³¯µÉLuminare Translationsen" https://luminaretranslations.com
 ×
 
 Luna Toons*eu.kanade.tachiyomi.extension.en.lunatoonsÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.lunatoons-v1.6.22.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lunatoons/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B1’¶ì‡¨™èˆ
-Luna Toonsen"https://lunatoons.org
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.lunatoons-v1.6.24.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lunatoons/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B1‡ñÈ„É¾ñÑ>
+Luna Toonsen"https://lunatoons.net
 Î
 LustToon)eu.kanade.tachiyomi.extension.en.lusttoonÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.lusttoon-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lusttoon/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B-éÏí›çèïíKLustToonen"https://lustoon.com
 Õ
 	MadaraDex*eu.kanade.tachiyomi.extension.en.madaradexÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.madaradex-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madaradex/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B0Ç—©™¤ºÒ	MadaraDexen"https://madaradex.org
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.madaradex-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madaradex/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B0Ç—©™¤ºÒ	MadaraDexen"https://madaradex.org
 á
 Madara Scans,eu.kanade.tachiyomi.extension.en.madarascansÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-en.madarascans-v1.6.5.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madarascans/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B5À°õëÍÊÏ }Madara Scansen"https://madarascans.net
@@ -1830,22 +1830,25 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.magusmanga-v1.6.73.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/magusmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B2íÔïÏÂ×ú‡Magus Mangaen"https://magustoon.org
 £
 Mahouirexnohentaikarte7eu.kanade.tachiyomi.extension.en.mahouirexnohentaikarteğ
-qhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mahouirexnohentaikarte-v1.6.55.apk{https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mahouirexnohentaikarte/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558BJşÍ¬­ØÌïÉMahouirexnohentaikarteen""https://mahouirexnohentaikarte.com
+qhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mahouirexnohentaikarte-v1.6.55.apk{https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mahouirexnohentaikarte/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558BJşÍ¬­ØÌïÉMahouirexnohentaikarteen""https://mahouirexnohentaikarte.com
+™
+Read Maid Sama Manga Online4eu.kanade.tachiyomi.extension.en.maidsamamangaonlineé
+mhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.maidsamamangaonline-v1.6.0.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/maidsamamangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BF˜êÛú¹œ„¼cRead Maid Sama Manga Onlineen"https://w14.maid-sama.com
 à
 Manga18.Club,eu.kanade.tachiyomi.extension.en.manga18clubÛ
 ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.manga18club-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2á¸‰ÓïÖÇØ/Manga18.Cluben"https://manga18.club
 á
 Manga18Free,eu.kanade.tachiyomi.extension.en.manga18freeÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manga18free-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manga18free/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4÷´¦–¿¾‘Û=Manga18Freeen"https://manga18free.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manga18free-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manga18free/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4÷´¦–¿¾‘Û=Manga18Freeen"https://manga18free.com
 Ñ
 	Manga 18x)eu.kanade.tachiyomi.extension.en.manga18xÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manga18x-v1.6.56.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manga18x/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B/¥şıÛ•Ãñ³^	Manga 18xen"https://manga18x.net
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manga18x-v1.6.56.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manga18x/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B/¥şıÛ•Ãñ³^	Manga 18xen"https://manga18x.net
 Ö
 Mangabat)eu.kanade.tachiyomi.extension.en.mangabatÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangabat-v1.6.23.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabat/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B3Ú²ò­„ª À:Mangabaten"https://www.mangabats.com
 Ğ
 	Manga-Bay)eu.kanade.tachiyomi.extension.en.mangabayÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.mangabay-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabay/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0Ã¾†ƒá¹ 	Manga-Bayen"https://manga-bay.biz
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.mangabay-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabay/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0Ã¾†ƒá¹ 	Manga-Bayen"https://manga-bay.biz
 Ó
 	MangaBolt*eu.kanade.tachiyomi.extension.en.mangaboltÕ
 chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.mangabolt-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabolt/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0ôë‡å ‚™ü	MangaBolten"https://mangabolt.com
@@ -1858,12 +1861,12 @@ ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 Ù
 
 MangaCloud+eu.kanade.tachiyomi.extension.en.mangacloud×
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.mangacloud-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangacloud/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2‚“Ûğ‘üœùy
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.mangacloud-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangacloud/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2‚“Ûğ‘üœùy
 MangaClouden"https://mangacloud.org
 ×
 
 Manga Dass*eu.kanade.tachiyomi.extension.en.mangadassÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangadass-v1.6.57.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadass/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B1²—ïˆÏ•¡©M
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.mangadass-v1.6.59.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadass/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B1²—ïˆÏ•¡©M
 Manga Dassen"https://mangadass.com
 Æ
 MangaDE(eu.kanade.tachiyomi.extension.en.mangadeÑ
@@ -1873,10 +1876,10 @@ ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.mangademon-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangademon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5Ú¹¹Ü’ú¼Ÿ(Manga Demonen"https://demonicscans.org
 Ï
 MangaDia)eu.kanade.tachiyomi.extension.en.mangadiaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangadia-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadia/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.¹Ò¥Äƒì‚ÕMangaDiaen"https://mangadia.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangadia-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadia/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.¹Ò¥Äƒì‚ÕMangaDiaen"https://mangadia.com
 ï
 Manga District.eu.kanade.tachiyomi.extension.en.mangadistrictŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangadistrict-v1.6.73.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadistrict/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B9Š‘À±“´’)Manga Districten"https://mangadistrict.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangadistrict-v1.6.73.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadistrict/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B9Š‘À±“´’)Manga Districten"https://mangadistrict.com
 ù*
 MangaDot,eu.kanade.tachiyomi.extension.en.mangadotnetÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.mangadotnet-v1.6.25.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadotnet/res/mipmap-xhdpi/ic_launcher.png"1.6(©¼21.6.258B.²˜ÂË‚æ†ŸGMangaDotar"https://mangadot.netB.½½ä“âãîÏAMangaDotbn"https://mangadot.netB.Ûıå±™ìÎ@MangaDotbg"https://mangadot.netB.Ş°¸óÏõÊxMangaDotmy"https://mangadot.netB.òæÑ›µÌß?MangaDotzh"https://mangadot.netB3¾¦‘ç‡øêçMangaDotzh-Hant"https://mangadot.netB.Ç•Ô·ƒ˜™ÄMangaDotcs"https://mangadot.netB.ÌşŞ‘”ò MangaDotda"https://mangadot.netB.ò¤±ü¹·¥ŒJMangaDotnl"https://mangadot.netB.¹÷Ù™âÉ•òQMangaDoten"https://mangadot.netB.Ï‡ÈÎÛìœêLMangaDottl"https://mangadot.netB.ò™ÿü¶„…iMangaDotfi"https://mangadot.netB.°‘¹Âö£„éZMangaDotfr"https://mangadot.netB.ÜÿˆßÄØ”şkMangaDotka"https://mangadot.netB.¯¾£¼´¿©‘MangaDotde"https://mangadot.netB.êÈø©Íú”WMangaDotel"https://mangadot.netB.ªĞ¢²¤”¶hMangaDothe"https://mangadot.netB.àìäÊ¨«ã„AMangaDothi"https://mangadot.netB.óôÛæÊ¦ª‹&MangaDothu"https://mangadot.netB.§ÌÔ¹ÌóïœwMangaDotid"https://mangadot.netB.÷Äšã¯ñúyMangaDotit"https://mangadot.netB.ÚøĞ÷ØìïÿMangaDotja"https://mangadot.netB.Öñ¿ôÂÍšyMangaDotko"https://mangadot.netB.Û—½ñ…àşRMangaDotla"https://mangadot.netB.Ñ„‰Øİ¾˜ü/MangaDotlt"https://mangadot.netB.§·¬º­É’ƒ!MangaDotms"https://mangadot.netB.ƒ«ÚÁİ°ëÈMangaDotmn"https://mangadot.netB.åæ›¬»ÅÎ§MangaDotno"https://mangadot.netB.¯‹ÿÚÓ–Îö^MangaDotfa"https://mangadot.netB.ˆûíÎø«²•MangaDotpl"https://mangadot.netB.¨ÑïÃ”“‰MangaDotpt"https://mangadot.netB1öã§ÓœÄ”Ä_MangaDotpt-BR"https://mangadot.netB.˜â†ªş«’ŸdMangaDotro"https://mangadot.netB.ƒÕ•×ûÜïÖ{MangaDotru"https://mangadot.netB.¦ÜÕş’Î÷èMangaDotes"https://mangadot.netB2ÎÖïµÕãô„FMangaDotes-419"https://mangadot.netB.¥ÿØ‰¤µ·çDMangaDotsv"https://mangadot.netB.®ıÃ¬€ÍäísMangaDotth"https://mangadot.netB.¹ŒæÍèËúâRMangaDottr"https://mangadot.netB.ŠÊ¿‚±¨Õ1MangaDotuk"https://mangadot.netB.Üá—™¯Ğõ3MangaDotvi"https://mangadot.netB.±ÍàğßÉñ!MangaDotzu"https://mangadot.netB1ûÊıƒ‚¶š“mMangaDotzh-tw"https://mangadot.netB.’”¡Şı¬Ü¥DMangaDotyo"https://mangadot.netB.ŠºÅÑÔ³¾ŞMMangaDotuz"https://mangadot.netB.ß‚ÏÙ¢‡ªiMangaDotur"https://mangadot.netB.ƒÙïÊöğ—yMangaDottk"https://mangadot.netB.ˆóªï±ŞÍHMangaDotto"https://mangadot.netB.…¸Ÿ¤Ùâ¥%MangaDotti"https://mangadot.netB.Ûõ¦ú£ÃşÎ|MangaDotte"https://mangadot.netB.È“Ûã£Ø¢MangaDotta"https://mangadot.netB.³Áˆ«ô©Óæ-MangaDottg"https://mangadot.netB.¥ØíšÌ¯õ‰~MangaDotss"https://mangadot.netB.”áŸ™€½•GMangaDotsw"https://mangadot.netB.µ÷éÄ·à¤Â/MangaDotso"https://mangadot.netB.§ïĞ¼Â•å>MangaDotsl"https://mangadot.netB.í™™äÛçïÊMangaDotsk"https://mangadot.netB.¨Ó®Èê¿±¾GMangaDotsi"https://mangadot.netB.ãğ³Ù¶Ã²¿BMangaDotsd"https://mangadot.netB.ò³×Ö ªş¡	MangaDotsn"https://mangadot.netB.ìÏ§ÚÏæÍùMangaDotst"https://mangadot.netB.Åğ¸ú‘éHMangaDotsh"https://mangadot.netB.êÿİãŒæû‡)MangaDotsr"https://mangadot.netB.¨ø×õá­YMangaDotsm"https://mangadot.netB.çŸœ©ì¹ÏjMangaDotrm"https://mangadot.netB.¿á•ø¤ÔéMangaDotps"https://mangadot.netB.ÓèÜû‘Ö“ÒMMangaDotny"https://mangadot.netB.÷¶­ÜŠË¡MangaDotne"https://mangadot.netB.¢«ª÷¬¼šî<MangaDotmo"https://mangadot.netB.®²ñÅ¾ƒö­!MangaDotmr"https://mangadot.netB.¡ş¥‰Ö› MangaDotmi"https://mangadot.netB.ö×ü—¬½¤Ì
@@ -1884,19 +1887,19 @@ fhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.
 MangaDotkn"https://mangadot.netB.ò‹ê"MangaDotjv"https://mangadot.netB.É™‘äœîÜĞMangaDotga"https://mangadot.netB.ÿŠ¯‰ª…êMangaDotig"https://mangadot.netB.àªÔ•†Äß¿gMangaDotis"https://mangadot.netB.€­ÄÃÓã£fMangaDotha"https://mangadot.netB.¢ÙÓù¬­ÈŒDMangaDotht"https://mangadot.netB.³“²®©®¯÷kMangaDotgu"https://mangadot.netB.á…üüÿÈâ$MangaDotgn"https://mangadot.netB.³ã“ùš¬’MangaDotgl"https://mangadot.netB.¶áÿÄş°âÌMangaDotfo"https://mangadot.netB.‰šŠ™ä‘ªbMangaDotet"https://mangadot.netB.œğøğŞº‘6MangaDoteo"https://mangadot.netB.¹ìİÔã›î‚`MangaDothr"https://mangadot.netB.¬ø¡Àã¼MangaDotcv"https://mangadot.netB/Üõ®ÍÒ±ï©MangaDotceb"https://mangadot.netB.÷®ôÁ†¬¢9MangaDotca"https://mangadot.netB.¿­¦Â¯Áú‚[MangaDotkm"https://mangadot.netB.ÜÄóì­¦MangaDotbs"https://mangadot.netB.†ÅÁÏåŞºXMangaDotbe"https://mangadot.netB.¤›€â³Œ¶é MangaDoteu"https://mangadot.netB.ø¬ğú¿˜¦yMangaDotaz"https://mangadot.netB.–îªÚœ«´…/MangaDothy"https://mangadot.netB.›àå¿ÕÑíMangaDotam"https://mangadot.netB.âÎÏ–²àÊºEMangaDotsq"https://mangadot.netB.â¼¶èğ™ÒØMangaDotaf"https://mangadot.netB.ùµøÙËÔÏÜAMangaDotab"https://mangadot.net
 Û
 Manga Drama+eu.kanade.tachiyomi.extension.en.mangadrama×
-dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangadrama-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadrama/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B3ù¨œæ¥à›‡,Manga Dramaen"https://mangadrama.com
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.mangadrama-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadrama/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B3ù¨œæ¥à›‡,Manga Dramaen"https://mangadrama.com
 é
 Manga Eclipse-eu.kanade.tachiyomi.extension.en.mangaeclipseÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.mangaeclipse-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaeclipse/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B7²†şúßÅ–ÉHManga Eclipseen"https://mangaeclipse.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangaeclipse-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaeclipse/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B7²†şúßÅ–ÉHManga Eclipseen"https://mangaeclipse.com
 ø
 Mangaforfree.com0eu.kanade.tachiyomi.extension.en.mangaforfreecomâ
-jhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangaforfreecom-v1.6.57.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaforfreecom/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B:½éÁÍÔ—Î Mangaforfree.comen"https://mangaforfree.com
+jhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangaforfreecom-v1.6.57.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaforfreecom/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B:½éÁÍÔ—Î Mangaforfree.comen"https://mangaforfree.com
 Ë
 MangaFox)eu.kanade.tachiyomi.extension.en.mangafoxÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangafox-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangafox/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B,Ğ¦À‘¿ÈòşYMangaFoxen"https://fanfox.net
 ã
 MangaFox.fun,eu.kanade.tachiyomi.extension.en.mangafoxfunİ
-fhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangafoxfun-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B2¡äëÍãÃß‚qMangaFox.funen"https://mangafox.fun
+fhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangafoxfun-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B2¡äëÍãÃß‚qMangaFox.funen"https://mangafox.fun
 Ü
 
 Mangafreak+eu.kanade.tachiyomi.extension.en.mangafreak×
@@ -1904,16 +1907,16 @@ dhttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-en.
 Mangafreaken"https://ww3.mangafreak.me
 Ö
 	Mangafree*eu.kanade.tachiyomi.extension.en.mangafreeÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangafree-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangafree/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1Ÿ—ÔªÛ§Üÿ.	Mangafreeen"https://mangafree.info
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangafree-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangafree/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1Ÿ—ÔªÛ§Üÿ.	Mangafreeen"https://mangafree.info
 É
 MangaGG(eu.kanade.tachiyomi.extension.en.mangaggÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangagg-v1.6.59.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangagg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B,Î†¸Âë›Õ¶qMangaGGen"https://mangagg.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangagg-v1.6.59.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangagg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B,Î†¸Âë›Õ¶qMangaGGen"https://mangagg.com
 Ì
 Mangago(eu.kanade.tachiyomi.extension.en.mangagoÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangago-v1.6.41.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangago/res/mipmap-xhdpi/ic_launcher.png"1.6(¹¼21.6.418B/Ú˜Şö½Ú£"Mangagoen"https://www.mangago.me
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.mangago-v1.6.42.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangago/res/mipmap-xhdpi/ic_launcher.png"1.6(º¼21.6.428B/Ú˜Şö½Ú£"Mangagoen"https://www.mangago.me
 É
 MangaHe(eu.kanade.tachiyomi.extension.en.mangaheÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangahe-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahe/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,Ÿ¯©ú¤£ŸÂMangaHeen"https://mangahe.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangahe-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahe/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,Ÿ¯©ú¤£ŸÂMangaHeen"https://mangahe.com
 Ê
 Gensura)eu.kanade.tachiyomi.extension.en.mangahenÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.mangahen-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahen/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,ÿã£ï«±ÈĞ[Gensuraen"https://gensura.net
@@ -1922,41 +1925,35 @@ bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 chttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangahere-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahere/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B+	Mangahereen"https://www.mangahere.cc
 è
 MangaHere.onl-eu.kanade.tachiyomi.extension.en.mangahereonlŞ
-ghttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangahereonl-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B4²ı—šà“6MangaHere.onlen"https://mangahere.onl
+ghttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangahereonl-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B4²ı—šà“6MangaHere.onlen"https://mangahere.onl
 Ô
 MangaHub+eu.kanade.tachiyomi.extension.en.mangahubioØ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangahubio-v1.6.47.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahubio/res/mipmap-xhdpi/ic_launcher.png"1.6(¿¼21.6.478B-…Û¢õª˜·…BMangaHuben"https://mangahub.io
-È
-MangaKa(eu.kanade.tachiyomi.extension.en.mangakaÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangaka-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaka/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B+øÆ†õ¦”-MangaKaen"https://mangaka.cc
+ehttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangahubio-v1.6.48.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahubio/res/mipmap-xhdpi/ic_launcher.png"1.6(À¼21.6.488B-…Û¢õª˜·…BMangaHuben"https://mangahub.io
 ì
 Mangakakalot-eu.kanade.tachiyomi.extension.en.mangakakalotŞ
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangakakalot-v1.6.24.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangakakalot/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B9Ìé—¥©ÿ°Œ#Mangakakaloten"https://www.mangakakalot.gg
 ÷
 Mangakakalot.fun0eu.kanade.tachiyomi.extension.en.mangakakalotfuná
-jhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangakakalotfun-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B:°ı½ÿÓìÅŠZMangakakalot.funen"https://mangakakalot.fun
+jhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangakakalotfun-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B:°ı½ÿÓìÅŠZMangakakalot.funen"https://mangakakalot.fun
 á
 MangaKatana,eu.kanade.tachiyomi.extension.en.mangakatanaÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.mangakatana-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangakatana/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4áíª–… †€,MangaKatanaen"https://mangakatana.com
 ×
 
 Manga Kiss*eu.kanade.tachiyomi.extension.en.mangakissÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangakiss-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangakiss/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B1ô›ş§ÛĞ†¬!
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangakiss-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangakiss/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B1ô›ş§ÛĞ†¬!
 Manga Kissen"https://mangakiss.org
 Ï
 MangaLix)eu.kanade.tachiyomi.extension.en.mangalixÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangalix-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangalix/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.›Ğï—Œ‡”ÒMangaLixen"https://mangalix.com
 ç
 MangaManiacs-eu.kanade.tachiyomi.extension.en.mangamaniacsÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangamaniacs-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamaniacs/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6İôº‹³×®LMangaManiacsen"https://mangamaniacs.org
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangamaniacs-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamaniacs/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6İôº‹³×®LMangaManiacsen"https://mangamaniacs.org
 Û
 
 MangaMelon+eu.kanade.tachiyomi.extension.en.mangamelonÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangamelon-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamelon/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2Û‡ëóÿŞ—•h
 MangaMelonen"https://mangamelon.com
-İ
-Manga Mirai+eu.kanade.tachiyomi.extension.en.mangamiraiÙ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangamirai-v1.4.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamirai/res/mipmap-xhdpi/ic_launcher.png"1.4(Á¬21.4.18B3×Æä³‰„Š/Manga Miraien"https://mangamirai.com
 Í
 Mangamo(eu.kanade.tachiyomi.extension.en.mangamoÓ
 chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.mangamo-v1.6.8.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamo/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B0ÔõØÄŸâºĞYMangamoen"https://www.mangamo.com
@@ -1965,7 +1962,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-e
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.mangamob-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamob/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,õÕØÕÁ®µ Comivexen"https://comivex.com
 Ô
 MangaNel)eu.kanade.tachiyomi.extension.en.manganelÚ
-chttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.manganel-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B-Èã½¢ëÃı´	MangaNelen"https://manganel.me
+chttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.manganel-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B-Èã½¢ëÃı´	MangaNelen"https://manganel.me
 Û
 	Manganato*eu.kanade.tachiyomi.extension.en.manganeloØ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.manganelo-v1.6.22.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manganelo/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B4ğí¨¤—£œ	Manganatoen"https://www.natomanga.com
@@ -1974,13 +1971,16 @@ fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.manganow-v1.6.5.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manganow/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B-˜¬‹œéğîMangaNowen"https://manganow.to
 ò
 MangaOnline.fun/eu.kanade.tachiyomi.extension.en.mangaonlinefunà
-ihttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangaonlinefun-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B8ÈëÅìŠûíêIMangaOnline.funen"https://mangaonline.fun
+ihttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangaonlinefun-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B8ÈëÅìŠûíêIMangaOnline.funen"https://mangaonline.fun
 ô
 MangaOwl.io (unoriginal)+eu.kanade.tachiyomi.extension.en.mangaowlioØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangaowlio-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaowlio/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B=å›Ê…å¯Õ˜MangaOwl.io (unoriginal)en"https://mangaowl.io
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangaowlio-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaowlio/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B=å›Ê…å¯Õ˜MangaOwl.io (unoriginal)en"https://mangaowl.io
 ì
 MangaPanda.onl.eu.kanade.tachiyomi.extension.en.mangapandaonlŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangapandaonl-v1.6.37.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangapandaonl/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B6õÀáŸÚ´©jMangaPanda.onlen"https://mangapanda.onl
+hhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangapandaonl-v1.6.38.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangapandaonl/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B6õÀáŸÚ´©jMangaPanda.onlen"https://mangapanda.onl
+ú
+MangaPark.tv (unoriginal),eu.kanade.tachiyomi.extension.en.mangaparktvÚ
+fhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.mangaparktv-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaparktv/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B?ò¢íãœ‡™;MangaPark.tv (unoriginal)en"https://mangapark.tv
 Ï
 MANGAPDF)eu.kanade.tachiyomi.extension.en.mangapdfÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangapdf-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangapdf/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.Ÿ°¯ÄãâóMANGAPDFen"https://mangapdf.org
@@ -1996,19 +1996,16 @@ MangaPlazaen"https://mangaplaza.com
 	MangaGeko-eu.kanade.tachiyomi.extension.en.mangarawclubÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.mangarawclub-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangarawclub/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ô¢ÿÛŠ†±™
 	MangaGekoen"https://www.mgeko.cc
-ì
-MangaReader.in.eu.kanade.tachiyomi.extension.en.mangareaderccß
-ihttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-0/tachiyomi-en.mangareadercc-v1.4.6.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadercc/res/mipmap-xhdpi/ic_launcher.png"1.4(Æ¬21.4.68B6Ùº€ıøÇóÃfMangaReader.inen"https://mangareader.in
 ø
 MangaReader.site0eu.kanade.tachiyomi.extension.en.mangareadersiteâ
-jhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangareadersite-v1.6.37.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadersite/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B:çİêÔ˜Åš‰#MangaReader.siteen"https://mangareader.site
+jhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangareadersite-v1.6.38.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadersite/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B:çİêÔ˜Åš‰#MangaReader.siteen"https://mangareader.site
 ê
 MangaRead.org-eu.kanade.tachiyomi.extension.en.mangareadorgÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangareadorg-v1.6.58.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadorg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B8ÜÛ·™‚öÈ›%MangaRead.orgen"https://www.mangaread.org
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangareadorg-v1.6.58.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadorg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B8ÜÛ·™‚öÈ›%MangaRead.orgen"https://www.mangaread.org
 Û
 
 Mangasushi+eu.kanade.tachiyomi.extension.en.mangasushiØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mangasushi-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangasushi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B2ˆÛ¸½“Ïé†2
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.mangasushi-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangasushi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B2ˆÛ¸½“Ïé†2
 Mangasushien"https://mangasushi.org
 í
 Mangatellers-eu.kanade.tachiyomi.extension.en.mangatellersİ
@@ -2016,7 +2013,7 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 ß
 
 MangaToday+eu.kanade.tachiyomi.extension.en.mangatodayÜ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.mangatoday-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B2õ¢ÈÊÄÆä†
+ehttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.mangatoday-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B2õ¢ÈÊÄÆä†
 MangaTodayen"https://mangatoday.fun
 ×
 	Mangatown*eu.kanade.tachiyomi.extension.en.mangatownÕ
@@ -2024,9 +2021,6 @@ chttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-en.
 Û
 Manga Trend+eu.kanade.tachiyomi.extension.en.mangatrend×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.mangatrend-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangatrend/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3£´‹»ã¢ÑÃManga Trenden"https://mangatrend.org
-Æ
-MangaTX(eu.kanade.tachiyomi.extension.en.mangatxÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.mangatx-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangatx/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B+åõ’€ñ€¹-MangaTXen"https://mangatx.cc
 Î
 	Manga.uno)eu.kanade.tachiyomi.extension.en.mangaunoÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangauno-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangauno/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B,Èå¢×àìæ:	Manga.unoen"https://manga.uno
@@ -2035,57 +2029,65 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mangayi-v1.6.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangayi/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B,¦µ¿¤Ìäğ	MangaYien"https://mangayi.com
 Õ
 	ManhuaHot*eu.kanade.tachiyomi.extension.en.manhuahotÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhuahot-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuahot/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0¼ˆñó„ÕÕ€j	ManhuaHoten"https://manhuahot.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhuahot-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuahot/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0¼ˆñó„ÕÕ€j	ManhuaHoten"https://manhuahot.com
 Û
 
 Manhuanext+eu.kanade.tachiyomi.extension.en.manhuanextØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhuanext-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuanext/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2´±Ê‚Î„™1
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhuanext-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuanext/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2´±Ê‚Î„™1
 Manhuanexten"https://manhuanext.com
 İ
 Manhua Plus+eu.kanade.tachiyomi.extension.en.manhuaplusØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhuaplus-v1.6.62.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaplus/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B3©¡´÷è¨}Manhua Plusen"https://manhuaplus.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhuaplus-v1.6.62.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaplus/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B3©¡´÷è¨}Manhua Plusen"https://manhuaplus.com
 ü
 ManhuaPlus (Unoriginal).eu.kanade.tachiyomi.extension.en.manhuaplusorgİ
 ghttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.manhuaplusorg-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaplusorg/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B?«ö÷¿ŒŞ•·FManhuaPlus (Unoriginal)en"https://manhuaplus.org
-ä
-Manhua Rush+eu.kanade.tachiyomi.extension.en.manhuarushÙ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.manhuarush-v1.4.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuarush/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B:ÒŸÆ”Ãú¢ÙNManhua Rushen"https://manhuarush.vercel.app
 Õ
 	ManhuaTop*eu.kanade.tachiyomi.extension.en.manhuatopÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhuatop-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B0ÜªÀï¥…æµ	ManhuaTopen"https://manhuatop.org
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhuatop-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B0ÜªÀï¥…æµ	ManhuaTopen"https://manhuatop.org
 Ï
 ManhuaUS)eu.kanade.tachiyomi.extension.en.manhuausÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhuaus-v1.6.60.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B.ò»ÕÖî„Ì7ManhuaUSen"https://manhuaus.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhuaus-v1.6.60.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B.ò»ÕÖî„Ì7ManhuaUSen"https://manhuaus.com
 í
 Manhua Zonghe-eu.kanade.tachiyomi.extension.en.manhuazongheÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhuazonghe-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuazonghe/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B;¾¬ ­ï†”«TManhua Zongheen"https://www.manhuazonghe.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhuazonghe-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuazonghe/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B;¾¬ ­ï†”«TManhua Zongheen"https://www.manhuazonghe.com
 Ì
 Manhwa18)eu.kanade.tachiyomi.extension.en.manhwa18Ó
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.manhwa18-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-ÉÚåÌÌ‹2Manhwa18en"https://manhwa18.com
 ğ
 Manhwa18.today.eu.kanade.tachiyomi.extension.en.manhwa18todayŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwa18today-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18today/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B:Ş¾Ê‹€¿—·PManhwa18.todayen"https://www.manhwa18.today
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwa18today-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18today/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B:Ş¾Ê‹€¿—·PManhwa18.todayen"https://www.manhwa18.today
+Ù
+
+Manhwa18TX+eu.kanade.tachiyomi.extension.en.manhwa18tx×
+dhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.manhwa18tx-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18tx/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2µÇöÈûÌ—ù
+Manhwa18TXen"https://manhwa18tx.com
 Ï
 Manhwa68)eu.kanade.tachiyomi.extension.en.manhwa68Ô
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwa68-v1.6.58.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa68/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.£áß‡Ü‹’%Manhwa68en"https://manhwa68.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwa68-v1.6.58.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa68/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.£áß‡Ü‹’%Manhwa68en"https://manhwa68.com
 ß
 ManhwaBuddy,eu.kanade.tachiyomi.extension.en.manhwabuddyÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.manhwabuddy-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwabuddy/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4«­Â’ƒ¢ÁManhwaBuddyen"https://manhwabuddy.com
+ehttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.manhwabuddy-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwabuddy/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4«­Â’ƒ¢ÁManhwaBuddyen"https://manhwabuddy.com
 é
 Manhwa Comics-eu.kanade.tachiyomi.extension.en.manhwacomicsÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwacomics-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwacomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B7ïªÖ¢·óş.Manhwa Comicsen"https://manhwacomics.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwacomics-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwacomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B7ïªÖ¢·óş.Manhwa Comicsen"https://manhwacomics.com
+ß
+Manhwaddict,eu.kanade.tachiyomi.extension.en.manhwaddictÙ
+ehttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.manhwaddict-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaddict/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4ÑÏ”¦šÜçManhwaddicten"https://manhwaddict.com
 Ù
 	ManhwaDen*eu.kanade.tachiyomi.extension.en.manhwadenÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwaden-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaden/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4†Ì¤Åïêş¼j	ManhwaDenen"https://www.manhwaden.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwaden-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaden/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4†Ì¤Åïêş¼j	ManhwaDenen"https://www.manhwaden.com
+å
+ManhwaGalaxy-eu.kanade.tachiyomi.extension.en.manhwagalaxyÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.manhwagalaxy-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwagalaxy/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6æ—¢ç¡ñ™“iManhwaGalaxyen"https://manhwagalaxy.com
 Õ
 	ManhwaGet*eu.kanade.tachiyomi.extension.en.manhwagetÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwaget-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaget/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0Í¨ë²ÊÊ¾¬)	ManhwaGeten"https://manhwaget.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwaget-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaget/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0Í¨ë²ÊÊ¾¬)	ManhwaGeten"https://manhwaget.com
 Õ
 	ManhwaHub*eu.kanade.tachiyomi.extension.en.manhwahub×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.manhwahub-v1.6.5.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwahub/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B0Ù†ÓÚ•²ø½	ManhwaHuben"https://manhwahub.net
 à
 ManhwaHub.to,eu.kanade.tachiyomi.extension.en.manhwahubtoÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwahubto-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwahubto/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2ú´Ù¢Ş‹ÄØ5ManhwaHub.toen"https://manhwahub.to
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwahubto-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwahubto/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2ú´Ù¢Ş‹ÄØ5ManhwaHub.toen"https://manhwahub.to
 Ù
 
 Manhwalike+eu.kanade.tachiyomi.extension.en.manhwalike×
@@ -2093,10 +2095,13 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 Manhwalikeen"https://manhwalike.com
 ç
 ManhwaManhua-eu.kanade.tachiyomi.extension.en.manhwamanhuaÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwamanhua-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwamanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6Ô²™¬¼œå€|ManhwaManhuaen"https://manhwamanhua.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwamanhua-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwamanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6Ô²™¬¼œå€|ManhwaManhuaen"https://manhwamanhua.com
 Õ
 	ManhwaNex*eu.kanade.tachiyomi.extension.en.manhwanexÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwanex-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwanex/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0İÛ†è”ö¤ì2	ManhwaNexen"https://manhwanex.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwanex-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwanex/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0İÛ†è”ö¤ì2	ManhwaNexen"https://manhwanex.com
+å
+ManhwaOnline-eu.kanade.tachiyomi.extension.en.manhwaonlineÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.manhwaonline-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6ÿ¤ûÚçÂêÔYManhwaOnlineen"https://manhwaonline.org
 Ù
 
 ManhwaRead+eu.kanade.tachiyomi.extension.en.manhwaread×
@@ -2104,13 +2109,16 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 ManhwaReaden"https://manhwaread.com
 ã
 Manhwa Reads,eu.kanade.tachiyomi.extension.en.manhwareadsÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwareads-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwareads/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5 §ô¤˜…¥‚.Manhwa Readsen"https://manhwareads.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwareads-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwareads/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5 §ô¤˜…¥‚.Manhwa Readsen"https://manhwareads.com
 à
 Manhwa Toon+eu.kanade.tachiyomi.extension.en.manhwatoonØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwatoon-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B6š£áì¶‚Ïé1Manhwa Toonen"https://www.manhwatoon.me
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwatoon-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B6š£áì¶‚Ïé1Manhwa Toonen"https://www.manhwatoon.me
 Õ
 	Manhwatop*eu.kanade.tachiyomi.extension.en.manhwatopÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.manhwatop-v1.6.57.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatop/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B0¸ÛÇúùä‡íG	Manhwatopen"https://manhwatop.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.manhwatop-v1.6.57.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatop/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B0¸ÛÇúùä‡íG	Manhwatopen"https://manhwatop.com
+Í
+ManhwaUS)eu.kanade.tachiyomi.extension.en.manhwausÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.manhwaus-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaus/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.äÛõã½ÚÍÔ*ManhwaUSen"https://manhwaus.net
 Õ
 	HentaiTnT*eu.kanade.tachiyomi.extension.en.manhwaxxl×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.manhwaxxl-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaitnt/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0—ÅÓ¯«‰ƒ§	HentaiTnTen"https://hentaitnt.net
@@ -2130,17 +2138,17 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.mehgazone-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mehgazone/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0Ëë„ë»Š¹%	Mehgazoneen"https://mehgazone.com
 É
 MeiToon(eu.kanade.tachiyomi.extension.en.meitoonÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.meitoon-v1.6.22.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/meitoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B,ÌÊ…Èè©ış-MeiToonen"https://meitoon.org
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.meitoon-v1.6.23.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/meitoon/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B,ÌÊ…Èè©ış-MeiToonen"https://meitoon.org
 Í
 	Mgread.io)eu.kanade.tachiyomi.extension.en.mgreadioÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.mgreadio-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B+Çï¾ñÔå	Mgread.ioen"https://mgread.io
 Ï
 Milftoon)eu.kanade.tachiyomi.extension.en.milftoonÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.milftoon-v1.6.57.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/milftoon/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B.âÄÏœÈ–•Æ7Milftoonen"https://milftoon.xxx
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.milftoon-v1.6.57.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/milftoon/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B.âÄÏœÈ–•Æ7Milftoonen"https://milftoon.xxx
 ×
 
 Mist Scans*eu.kanade.tachiyomi.extension.en.mistscansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.mistscans-v1.6.23.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B1İ¤ì“¯Ë
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.mistscans-v1.6.24.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B1İ¤ì“¯Ë
 Mist Scansen"https://mistscans.com
 à
 	MLBB Lore)eu.kanade.tachiyomi.extension.en.mlbbloreÓ
@@ -2166,6 +2174,9 @@ hhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 ÷
 MyHentaiGallery0eu.kanade.tachiyomi.extension.en.myhentaigalleryá
 ihttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.myhentaigallery-v1.6.0.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/myhentaigallery/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B<»«î Ø±³ØeMyHentaiGalleryen"https://myhentaigallery.com
+ñ
+MyReadingComic/eu.kanade.tachiyomi.extension.en.myreadingcomicß
+hhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.myreadingcomic-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/myreadingcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:§ëÍÌ…‹äMyReadingComicen"https://myreadingcomic.com
 Ù
 
 New Manhwa*eu.kanade.tachiyomi.extension.en.newmanhwaØ
@@ -2182,48 +2193,45 @@ NineHentaien"https://9hentai.so
 Ë
 Ninekon(eu.kanade.tachiyomi.extension.en.ninekonÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.ninekon-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ninekon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0¬Ø¡¿Ù¬°£=Ninekonen"https://app.ninekon.com
-Ï
-NixManga)eu.kanade.tachiyomi.extension.en.nixmangaÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.nixmanga-v1.4.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nixmanga/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B.Ãğ§Ûı×ô”0NixMangaen"https://nixmanga.com
 Õ
 
 Nuvia Toon*eu.kanade.tachiyomi.extension.en.nuviatoonÕ
-chttps://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-en.nuviatoon-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nuviatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1ÀØ›—Óÿò}
-Nuvia Toonen"https://nuviatoon.com
+chttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.nuviatoon-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nuviatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B1ÀØ›—Óÿò}
+Nuvia Toonen"https://nuviatoon.net
 ß
 	Nux Scans)eu.kanade.tachiyomi.extension.en.nuxscansÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.nuxscans-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nuxscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B?¬è¼ŠÈâÅ Q	Nux Scansen"$https://nuxscans-comics.blogspot.com
 ×
 
 Nyanu Kafe*eu.kanade.tachiyomi.extension.en.nyanukafeÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.nyanukafe-v1.6.23.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyanukafe/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B1‚¢Åç£é¤ş)
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.nyanukafe-v1.6.24.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyanukafe/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B1‚¢Åç£é¤ş)
 Nyanu Kafeen"https://nyanukafe.com
 ×
 
 Nyra Scans*eu.kanade.tachiyomi.extension.en.nyrascansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.nyrascans-v1.6.22.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyrascans/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B1û×¦ ê¦éÎ
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.nyrascans-v1.6.23.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyrascans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B1û×¦ ê¦éÎ
 Nyra Scansen"https://nyrascans.com
 Ó
 	Nyx Scans)eu.kanade.tachiyomi.extension.en.nyxscansÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.nyxscans-v1.6.31.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyxscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¯¼21.6.318B/šÎÅğ Íàé	Nyx Scansen"https://nyxscans.com
 ç
 OctopusManga-eu.kanade.tachiyomi.extension.en.octopusmangaÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.octopusmanga-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/octopusmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6½Ÿ‰š’¿§‰#OctopusMangaen"https://octopusmanga.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.octopusmanga-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/octopusmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6½Ÿ‰š’¿§‰#OctopusMangaen"https://octopusmanga.com
 ¿
 Oglaf&eu.kanade.tachiyomi.extension.en.oglafÍ
 _https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.oglaf-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/oglaf/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,†™Øï±î¥ùOglafen"https://www.oglaf.com
 é
 Oh Joy Sex Toy,eu.kanade.tachiyomi.extension.en.ohjoysextoyÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.ohjoysextoy-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ohjoysextoy/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;Á¸èŸˆğš¾>Oh Joy Sex Toyen"https://www.ohjoysextoy.com
-ß
-Omega Scans+eu.kanade.tachiyomi.extension.en.omegascansÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.omegascans-v1.6.51.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/omegascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ã¼21.6.518B3 Ö¢­ëçİ¥Omega Scansen"https://omegascans.org
+İ
+Omega Scans+eu.kanade.tachiyomi.extension.en.omegascansØ
+ehttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.omegascans-v1.6.52.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/omegascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ä¼21.6.528B3 Ö¢­ëçİ¥Omega Scansen"https://omegascans.org
 Ø
 	1Manga.co+eu.kanade.tachiyomi.extension.en.onemangacoÜ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.onemangaco-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B,ó´é™¾ÆËĞW	1Manga.coen"https://1manga.co
+ehttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.onemangaco-v1.6.38.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¶¼21.6.388B,ó´é™¾ÆËĞW	1Manga.coen"https://1manga.co
 è
 OneManga.info-eu.kanade.tachiyomi.extension.en.onemangainfoŞ
-ghttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.onemangainfo-v1.6.37.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B4ğó“™Î·àOneManga.infoen"https://onemanga.info
+ghttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.onemangainfo-v1.6.39.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(·¼21.6.398B4³ùèÀÍïöÁOneManga.infoen"https://onemanga.info
 
 One Punch Man Online2eu.kanade.tachiyomi.extension.en.onepunchmanonlineå
 khttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.onepunchmanonline-v1.6.0.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/onepunchmanonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;—Î‚İ¨È¹One Punch Man Onlineen"https://1punchman.com
@@ -2239,7 +2247,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 ß
 
 Orchisasia+eu.kanade.tachiyomi.extension.en.orchisasiaØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.orchisasia-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/orchisasia/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6¨Äì€Ùò¹=
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.orchisasia-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/orchisasia/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6¨Äì€Ùò¹=
 Orchisasiaen"https://www.orchisasia.org
 à
 Orion Scans+eu.kanade.tachiyomi.extension.en.orionscansÚ
@@ -2249,25 +2257,25 @@ ghttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-e
 hhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.paradisescans-v1.6.23.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/paradisescans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B9©˜¯•ˆËã¢RParadise Scansen"https://paradisescans.com
 å
 Paritehaber,eu.kanade.tachiyomi.extension.en.paritehaberÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.paritehaber-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/paritehaber/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8éœïÂ¢×ô3Paritehaberen"https://www.paritehaber.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.paritehaber-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/paritehaber/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8éœïÂ¢×ô3Paritehaberen"https://www.paritehaber.com
 á
 Patch Friday,eu.kanade.tachiyomi.extension.en.patchfridayÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.patchfriday-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/patchfriday/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5¨«×ÅÆ‰ PPatch Fridayen"https://patchfriday.com
 ‚
 Petrotechsociety1eu.kanade.tachiyomi.extension.en.petrotechsocietyä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.petrotechsociety-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/petrotechsociety/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558BAÀñ„‚†ôÍ#Petrotechsocietyen" https://www.petrotechsociety.org
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.petrotechsociety-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/petrotechsociety/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558BAÀñ„‚†ôÍ#Petrotechsocietyen" https://www.petrotechsociety.org
 á
 Philia Scans,eu.kanade.tachiyomi.extension.en.philiascansÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-en.philiascans-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/philiascans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B5Ÿ¹±ü—½ï€KPhilia Scansen"https://philiascans.org
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.philiascans-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/philiascans/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B5Ÿ¹±ü—½ï€KPhilia Scansen"https://philiascans.org
 È
 Rackus(eu.kanade.tachiyomi.extension.en.pmscansĞ
 ahttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.pmscans-v1.6.7.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rackus/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B/ş«÷ÔĞ» ÓRackusen"https://rackusreads.com
 ×
 	PornComix*eu.kanade.tachiyomi.extension.en.porncomixÕ
-chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.porncomix-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/porncomix/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4ƒúĞÍØ™¾ü[	PornComixen"https://bestporncomix.com
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.porncomix-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/porncomix/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4ƒúĞÍØ™¾ü[	PornComixen"https://bestporncomix.com
 Ó
 Pornhwaz)eu.kanade.tachiyomi.extension.en.pornhwazÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.pornhwaz-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/pornhwaz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2ò•Ü€–¬š‰ Pornhwazen"https://www.pornhwaz.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.pornhwaz-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/pornhwaz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B2ò•Ü€–¬š‰ Pornhwazen"https://www.pornhwaz.com
 È
 Qi Scans(eu.kanade.tachiyomi.extension.en.qiscansÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-en.qiscans-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/qiscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,¬ñ¿Ò–çÌÉPQiScansen"https://qimanga.com
@@ -2288,9 +2296,6 @@ dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 Á
 Razure'eu.kanade.tachiyomi.extension.en.razureÏ
 `https://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.razure-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/razure/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*×Œ–ñÄüğ)Razureen"https://razure.org
-õ
-ReadAllComics1eu.kanade.tachiyomi.extension.en.readallcomicscomå
-lhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.readallcomicscom-v1.4.8.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readallcomicscom/res/mipmap-xhdpi/ic_launcher.png"1.4(È¬21.4.88B7ã£İŠÊ¨ÎgReadAllComicsen"https://readallcomics.com
 ÷
 -Read Attack on Titan Shingeki no Kyojin MangaGeu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga‘
 €https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readattackontitanshingekinokyojinmanga-v1.6.0.apk‹https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readattackontitanshingekinokyojinmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BWì´€Øê¥ø{-Read Attack on Titan Shingeki no Kyojin Mangaen"https://ww12.readsnk.com
@@ -2303,12 +2308,9 @@ thttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.
 ²
 Read Chainsaw Man Manga Online;eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonlineï
 thttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readchainsawmanmangaonline-v1.6.0.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BOöÓ†ÔÊ¢“VRead Chainsaw Man Manga Onlineen"https://ww6.readchainsawman.com
-ú
-ReadComicOnline0eu.kanade.tachiyomi.extension.en.readcomiconlineä
-lhttps://github.com/keiyoushi/extensions/releases/download/4217666-0/tachiyomi-en.readcomiconline-v1.4.44.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readcomiconline/res/mipmap-xhdpi/ic_launcher.png"1.4(ì¬21.4.448B;£‘¹ÜñóğoReadComicOnlineen"https://readcomiconline.li
 ü
 Read Comics Online1eu.kanade.tachiyomi.extension.en.readcomicsonlineß
-jhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.readcomicsonline-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mmrcms/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B?ªóÈÎôÉ˜ÜcRead Comics Onlineen"https://readcomicsonline.ru
+jhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.readcomicsonline-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mmrcms/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B?ªóÈÎôÉ˜ÜcRead Comics Onlineen"https://readcomicsonline.ru
 Ô
 )Read Fairy Tail & Edens Zero Manga OnlineBeu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonlineö
 {https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readfairytailedenszeromangaonline-v1.6.0.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BXò¹êÌå¶û»)Read Fairy Tail & Edens Zero Manga Onlineen"https://ww9.readfairytail.com
@@ -2321,6 +2323,9 @@ vhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.
 œ
 Read Kingdom Manga Online7eu.kanade.tachiyomi.extension.en.readkingdommangaonlineë
 phttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readkingdommangaonline-v1.6.0.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BF†“™š¿Á®nRead Kingdom Manga Onlineen"https://ww6.readkingdom.com
+ß
+ReadManga18,eu.kanade.tachiyomi.extension.en.readmanga18Ù
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.readmanga18-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readmanga18/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4²ÕÃÀÌ‡ásReadManga18en"https://readmanga18.com
 
 1Read Nanatsu no Taizai 7 Deadly Sins Manga OnlineJeu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline—
 ƒhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-en.readnanatsunotaizai7deadlysinsmangaonline-v1.6.0.apkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readnanatsunotaizai7deadlysinsmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08Bbûº¢‚ƒ¶äß61Read Nanatsu no Taizai 7 Deadly Sins Manga Onlineen"https://ww8.read7deadlysins.com
@@ -2356,7 +2361,7 @@ fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.rinkocomics-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rinkocomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5ø­‡Î‚´â›DRinko Comicsen"https://rinkocomics.com
 á
 RitharScans,eu.kanade.tachiyomi.extension.en.ritharscansÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.ritharscans-v1.6.27.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ritharscans/res/mipmap-xhdpi/ic_launcher.png"1.6(«¼21.6.278B4çØƒúƒ‹rRitharScansen"https://ritharscans.com
+fhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.ritharscans-v1.6.28.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ritharscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¬¼21.6.288B4çØƒúƒ‹rRitharScansen"https://ritharscans.com
 Ø
 
 Rizz Comic*eu.kanade.tachiyomi.extension.en.rizzcomicÖ
@@ -2375,17 +2380,20 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 Rolia Scanen"https://roliascan.com
 
 Rose Squad Scans/eu.kanade.tachiyomi.extension.en.rosesquadscansà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.rosesquadscans-v1.6.56.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rosesquadscans/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568BFŒ½¸ŠŞ›ÿKRose Squad Scansen"$https://rosesquadscans.aishiteru.org
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.rosesquadscans-v1.6.56.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rosesquadscans/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568BFŒ½¸ŠŞ›ÿKRose Squad Scansen"$https://rosesquadscans.aishiteru.org
+—
+RuriDragon Manga Online6eu.kanade.tachiyomi.extension.en.ruridragonmangaonlineí
+ohttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.ruridragonmangaonline-v1.6.0.apkzhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ruridragonmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BBêÉÁ¨†Ã‘è&RuriDragon Manga Onlineen"https://w2.ruridragon.com
 È
 S2Manga(eu.kanade.tachiyomi.extension.en.s2mangaÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.s2manga-v1.6.60.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/s2manga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B+œû¸ñÏ¼¾ÌCS2Mangaen"https://s2read.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.s2manga-v1.6.60.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/s2manga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B+œû¸ñÏ¼¾ÌCS2Mangaen"https://s2read.com
 ò
 Sabrina Online.eu.kanade.tachiyomi.extension.en.sabrinaonlineİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.sabrinaonline-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sabrinaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B>†’åù™ÑÓæSabrina Onlineen"https://www.sabrina-online.com
 Ú
 
 SACACHISPA+eu.kanade.tachiyomi.extension.en.sacachispa×
-dhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.sacachispa-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sacachispa/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3ÜüàÌéûğ²
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.sacachispa-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sacachispa/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B3ÜüàÌéûğ²
 SACACHISPAen"https://sacachispa.site
 Ù
 
@@ -2403,16 +2411,16 @@ chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-e
 jhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.schlockmercenary-v1.6.0.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/schlockmercenary/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BCé™±œÄş¦ASchlock Mercenaryen" https://www.schlockmercenary.com
 İ
 Setsu Scans+eu.kanade.tachiyomi.extension.en.setsuscansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.setsuscans-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/setsuscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3ıšÊŞŸá¹ÍvSetsu Scansen"https://setsuscans.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.setsuscans-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/setsuscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3ıšÊŞŸá¹ÍvSetsu Scansen"https://setsuscans.com
 ß
 Violet Scans+eu.kanade.tachiyomi.extension.en.shojoscansØ
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.shojoscans-v1.6.6.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/violetscans/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B5ìşéÎœÇïÿ}Violet Scansen"https://violetmanga.com
 İ
 Siren Scans+eu.kanade.tachiyomi.extension.en.sirenscansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.sirenscans-v1.6.22.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B3ú¼óñ²¡ÇPSiren Scansen"https://sirenscans.org
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.sirenscans-v1.6.24.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sirenscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B3ú¼óñ²¡ÇPSiren Scansen"https://sirenscans.org
 
 Sleepy Translations3eu.kanade.tachiyomi.extension.en.sleepytranslationsè
-mhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.sleepytranslations-v1.6.56.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sleepytranslations/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568BCƒÖî–µëñOSleepy Translationsen"https://sleepytranslations.com
+mhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.sleepytranslations-v1.6.56.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sleepytranslations/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568BCƒÖî–µëñOSleepy Translationsen"https://sleepytranslations.com
 ã
 Snafu Comics+eu.kanade.tachiyomi.extension.en.snafucomic×
 dhttps://github.com/keiyoushi/extensions/releases/download/ac40914/tachiyomi-en.snafucomic-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/snafucomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:ëı²ÀÖ¯Í¥KSnafu Comicsen"https://www.snafu-comics.com
@@ -2421,10 +2429,10 @@ dhttps://github.com/keiyoushi/extensions/releases/download/ac40914/tachiyomi-en.
 hhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.solarandsundry-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/solarandsundry/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9æ¬®ŸÙ¹ÏdSolar and Sundryen"https://sas-api.fly.dev
 Ò
 Spmanhwa)eu.kanade.tachiyomi.extension.en.spmanhwaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.spmanhwa-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/spmanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1ıá¦¼íá¶ÛASpmanhwaen"https://spmanhwa.online
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.spmanhwa-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/spmanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1ıá¦¼íá¶ÛASpmanhwaen"https://spmanhwa.online
 Ë
 SpyFakku)eu.kanade.tachiyomi.extension.en.spyfakkuÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.spyfakku-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B,¶ŒÜ°ÊÅ‰VSpyFakkuen"https://hentalk.pw
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.spyfakku-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B,¶ŒÜ°ÊÅ‰VSpyFakkuen"https://hentalk.pw
 Ù
 
 StoneScape+eu.kanade.tachiyomi.extension.en.stonescape×
@@ -2441,7 +2449,7 @@ SUPER MEGAen"https://www.supermegacomics.com
 Ú
 
 Genz Toons+eu.kanade.tachiyomi.extension.en.suryascansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.suryascans-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/suryascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B1„ÜÇ¹½áıİ
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.suryascans-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/suryascans/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B1„ÜÇ¹½áıİ
 Genz Toonsen"https://genztoons.org
 ã
 Swords Comic,eu.kanade.tachiyomi.extension.en.swordscomicÛ
@@ -2457,16 +2465,19 @@ bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.teamshadowi-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/teamshadowi/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B:ÿ÷½¼‡…Â´Team Shadowien"https://www.team-shadowi.com
 Ş
 Temple Scan+eu.kanade.tachiyomi.extension.en.templescanØ
-ehttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.templescan-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B4ó›êÍÁİá·:Temple Scanen"https://templetoons.com
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.templescan-v1.6.60.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/templescan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B4ó›êÍÁİá·:Temple Scanen"https://templetoons.com
 ş
 -Read The Beginning After The End Manga OnlineCeu.kanade.tachiyomi.extension.en.thebeginningaftertheendmangaonlineˆ
 |https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.thebeginningaftertheendmangaonline-v1.6.0.apk‡https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/thebeginningaftertheendmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08Bk ½ÄçÅĞ¦-Read The Beginning After The End Manga Onlineen",https://w22.thebeginningaftertheendmanga.com
 Ï
 	The Blank)eu.kanade.tachiyomi.extension.en.theblankÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-en.theblank-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/Ï³®äÎñ×¤h	The Blanken"https://theblank.net
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.theblank-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B/Ï³®äÎñ×¤h	The Blanken"https://theblank.net
 ‡
 The Duck Webcomics1eu.kanade.tachiyomi.extension.en.theduckwebcomicså
 lhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.theduckwebcomics-v1.6.4.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/theduckwebcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48BDÃø‹ò·ó¦³JThe Duck Webcomicsen" https://www.theduckwebcomics.com
+ä
+)Read The Exiled Heavy Knight Manga Online@eu.kanade.tachiyomi.extension.en.theexiledheavyknightmangaonline‚
+yhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.theexiledheavyknightmangaonline-v1.6.0.apk„https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/theexiledheavyknightmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B^Í»‡å«œÎf)Read The Exiled Heavy Knight Manga Onlineen"#https://w2.theexiledheavyknight.com
 ú
 *The Girl from Random Chatting Manga OnlineEeu.kanade.tachiyomi.extension.en.thegirlfromrandomchattingmangaonline
 €https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.thegirlfromrandomchattingmangaonline-v1.6.1.apk‰https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/thegirlfromrandomchattingmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18Ba½ìÇ›‡¥áîi*The Girl from Random Chatting Manga Onlineen"%https://thegirlfromrandomchatting.com
@@ -2478,7 +2489,7 @@ mhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-e
 fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.thunderscans-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/thunderscans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B:Ü†Î–ÃğçÃ'Thunder Scansen"https://en-thunderscans.com
 í
 TimelessToons.eu.kanade.tachiyomi.extension.en.timelesstoonsŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.timelesstoons-v1.6.23.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/timelesstoons/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B8·ŠŠŒ×«ã}TimelessToonsen"https://timelesstoons.org
+hhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.timelesstoons-v1.6.24.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/timelesstoons/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B8·ŠŠŒ×«ã}TimelessToonsen"https://timelesstoons.org
 Û
 
 TodayManga+eu.kanade.tachiyomi.extension.en.todaymangaÙ
@@ -2486,10 +2497,13 @@ fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-e
 TodayMangaen"https://todaymanga.com
 Í
 ToonGod(eu.kanade.tachiyomi.extension.en.toongodÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.toongod-v1.6.60.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toongod/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B0•ËâÊšıÀToonGoden"https://www.toongod.org
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.toongod-v1.6.60.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toongod/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B0•ËâÊšıÀToonGoden"https://www.toongod.org
+æ
+ToonGod (Unoriginal)*eu.kanade.tachiyomi.extension.en.toongodccÕ
+chttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.toongodcc-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toongodcc/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8‰¢äóù¨ûÚToonGod (Unoriginal)en"https://toongod.cc
 É
 Toonily(eu.kanade.tachiyomi.extension.en.toonilyÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.toonily-v1.6.72.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonily/res/mipmap-xhdpi/ic_launcher.png"1.6(Ø¼21.6.728B,ÿÜË¾çó¦„HToonilyen"https://toonily.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.toonily-v1.6.72.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonily/res/mipmap-xhdpi/ic_launcher.png"1.6(Ø¼21.6.728B,ÿÜË¾çó¦„HToonilyen"https://toonily.com
 Ô
 
 Toonily.me*eu.kanade.tachiyomi.extension.en.toonilyme×
@@ -2497,30 +2511,33 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-e
 Toonily.meen"https://toontop.io
 É
 Toonizy(eu.kanade.tachiyomi.extension.en.toonizyÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.toonizy-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonizy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,¸Û«İ‚ğ¨€KToonizyen"https://toonizy.com
-º
-Toonz&eu.kanade.tachiyomi.extension.en.toonzÍ
-_https://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-en.toonz-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonz/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B'¡®È°ÉToonzen"https://toonz.to
+bhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.toonizy-v1.6.56.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonizy/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B,¸Û«İ‚ğ¨€KToonizyen"https://toonizy.com
+Ó
+	Toonkotsu*eu.kanade.tachiyomi.extension.en.toonkotsuÕ
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-en.toonkotsu-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonkotsu/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0üÖÅéó´Ğ0	Toonkotsuen"https://toonkotsu.com
+é
+Toonz/Toonx&eu.kanade.tachiyomi.extension.en.toonzÍ
+_https://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-en.toonz-v1.6.3.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonz/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B'¡®È°ÉToonzen"https://toonz.toB'…¤ œâÙ2Toonxen"https://toonx.to
 Ö
 
 Top Manhua*eu.kanade.tachiyomi.extension.en.topmanhuaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.topmanhua-v1.6.62.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B0›€´Êú²š
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.topmanhua-v1.6.62.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B0›€´Êú²š
 Top Manhuaen"https://mangatop.org
 ê
 TopManhua.fan-eu.kanade.tachiyomi.extension.en.topmanhuafanÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.topmanhuafan-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuafan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8•ÿØåøø˜¬WTopManhua.fanen"https://www.topmanhua.fan
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.topmanhuafan-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuafan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8•ÿØåøø˜¬WTopManhua.fanen"https://www.topmanhua.fan
 æ
 TopManhua.net-eu.kanade.tachiyomi.extension.en.topmanhuanetÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.topmanhuanet-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuanet/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Ñ¦ä¬’×YTopManhua.neten"https://topmanhua.net
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.topmanhuanet-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuanet/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Ñ¦ä¬’×YTopManhua.neten"https://topmanhua.net
 Ÿ
 Tower Of God Manga Online6eu.kanade.tachiyomi.extension.en.towerofgodmangaonlineí
 ohttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-en.towerofgodmangaonline-v1.6.0.apkzhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/towerofgodmangaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BH°Î§…®ô©ÉcTower Of God Manga Onlineen"https://w82.thetowerofgod.com
 è
 TritiniaScans.eu.kanade.tachiyomi.extension.en.tritiniascansŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.tritiniascans-v1.6.59.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tritiniascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B3Áƒç «ÆóÛSTritiniaScansen"https://tritinia.org
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.tritiniascans-v1.6.59.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tritiniascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B3Áƒç «ÆóÛSTritiniaScansen"https://tritinia.org
 İ
 Valir Scans+eu.kanade.tachiyomi.extension.en.valirscansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.valirscans-v1.6.26.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/valirscans/res/mipmap-xhdpi/ic_launcher.png"1.6(ª¼21.6.268B3ëÖõÉâ½~Valir Scansen"https://valirscans.org
+ehttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.valirscans-v1.6.27.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/valirscans/res/mipmap-xhdpi/ic_launcher.png"1.6(«¼21.6.278B3ëÖõÉâ½~Valir Scansen"https://valirscans.org
 ë
 Vanilla Scans-eu.kanade.tachiyomi.extension.en.vanillascansŞ
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.vanillascans-v1.6.27.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vanillascans/res/mipmap-xhdpi/ic_launcher.png"1.6(«¼21.6.278B7™ŸÆŸÃ®“Vanilla Scansen"https://vanillascans.org
@@ -2548,24 +2565,24 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-e
 İ
 
 KokoMangas,eu.kanade.tachiyomi.extension.en.wearehungerÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.wearehunger-v1.6.57.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wearehunger/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B1¡úìç£·åh
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.wearehunger-v1.6.57.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wearehunger/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B1¡úìç£·åh
 KokoMangasen"https://kokomangas.com
 å
 Webdex Scans,eu.kanade.tachiyomi.extension.en.webdexscansÜ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.webdexscans-v1.6.54.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webdexscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Æ¼21.6.548B5Ï•°‰Ş¬†1Webdex Scansen"https://webdexscans.com
 À
 Webnex'eu.kanade.tachiyomi.extension.en.webnexÏ
-`https://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-en.webnex-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B)ÈÅö³×Æî·Webnexen"https://webnex.cc
+`https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.webnex-v1.6.2.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnex/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B)ÈÅö³×Æî·Webnexen"https://webnex.cc
 Õ
 WebNovel)eu.kanade.tachiyomi.extension.en.webnovelÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.webnovel-v1.6.14.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnovel/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148B2ó‡ıº…ÛÆÑ8WebNovelen"https://www.webnovel.com
 á
 WebtoonScan,eu.kanade.tachiyomi.extension.en.webtoonscanÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.webtoonscan-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Ñ°æĞÈÚÀ*WebtoonScanen"https://webtoonscan.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.webtoonscan-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Ñ°æĞÈÚÀ*WebtoonScanen"https://webtoonscan.com
 Ü
 
 WebtoonXYZ+eu.kanade.tachiyomi.extension.en.webtoonxyzØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.webtoonxyz-v1.6.59.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonxyz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B3–’ø˜î…ÇÖ]
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.webtoonxyz-v1.6.59.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonxyz/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B3–’ø˜î…ÇÖ]
 WebtoonXYZen"https://www.webtoon.xyz
 å
 Weeb Central,eu.kanade.tachiyomi.extension.en.weebcentralÜ
@@ -2576,15 +2593,15 @@ bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-en.
 Û
 
 WitchScans+eu.kanade.tachiyomi.extension.en.witchscansØ
-ehttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-en.witchscans-v1.6.36.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/witchscans/res/mipmap-xhdpi/ic_launcher.png"1.6(´¼21.6.368B2»†êØ’Ş¥+
+ehttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-en.witchscans-v1.6.37.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/witchscans/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B2»†êØ’Ş¥+
 WitchScansen"https://witchtoons.net
 ã
 Writer Scans,eu.kanade.tachiyomi.extension.en.writerscansÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.writerscans-v1.6.22.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/writerscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B5÷ÎÒ³®æWriter Scansen"https://writerscans.com
+fhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-en.writerscans-v1.6.23.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/writerscans/res/mipmap-xhdpi/ic_launcher.png"1.6(§¼21.6.238B5÷ÎÒ³®æWriter Scansen"https://writerscans.com
 Ü
 
 WuxiaWorld+eu.kanade.tachiyomi.extension.en.wuxiaworldØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.wuxiaworld-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wuxiaworld/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B3¨¶¹Û ÎïâZ
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.wuxiaworld-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wuxiaworld/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B3¨¶¹Û ÎïâZ
 WuxiaWorlden"https://wuxiaworld.site
 ½
 XlecX&eu.kanade.tachiyomi.extension.en.xlecxÏ
@@ -2602,28 +2619,28 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-en.
 XYZ Comicsen"https://xyzcomics.com
 ç
 YakshaComics-eu.kanade.tachiyomi.extension.en.yakshacomicsÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.yakshacomics-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yakshacomics/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6ü¶ª¥ü±ÜÍCYakshaComicsen"https://yakshacomics.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.yakshacomics-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yakshacomics/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6ü¶ª¥ü±ÜÍCYakshaComicsen"https://yakshacomics.com
 É
 YaoiHot(eu.kanade.tachiyomi.extension.en.yaoihotÓ
 chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-en.yaoihot-v1.6.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoihot/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B,”ÏÑöïø á&YaoiHoten"https://yaoihot.com
 É
 Yaoihub(eu.kanade.tachiyomi.extension.en.yaoihubÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.yaoihub-v1.6.58.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoihub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B,ô„“ÉÊ¸†]Yaoihuben"https://yaoihub.org
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.yaoihub-v1.6.58.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoihub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B,ô„“ÉÊ¸†]Yaoihuben"https://yaoihub.org
 Ï
 YaoiScan)eu.kanade.tachiyomi.extension.en.yaoiscanÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.yaoiscan-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoiscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.¿šÓ¸ü´×Î=YaoiScanen"https://yaoiscan.com
-¼
-Yorai&eu.kanade.tachiyomi.extension.en.yoraiÏ
-ahttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-en.yorai-v1.4.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yorai/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B'äµÁãÖÏ¨Ÿ"Yoraien"https://yorai.io
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.yaoiscan-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoiscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.¿šÓ¸ü´×Î=YaoiScanen"https://yaoiscan.com
+ì
+YaoiScan (Unoriginal)+eu.kanade.tachiyomi.extension.en.yaoiscanme×
+dhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-en.yaoiscanme-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoiscanme/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:äªÛúß±¥)YaoiScan (Unoriginal)en"https://yaoiscan.me
 Ù
 	Zazamanga*eu.kanade.tachiyomi.extension.en.zazamangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.zazamanga-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zazamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4ÅÕæÖ¼×°Å	Zazamangaen"https://www.zazamanga.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.zazamanga-v1.6.56.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zazamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4ÅÕæÖ¼×°Å	Zazamangaen"https://www.zazamanga.com
 Ï
 Zinmanga)eu.kanade.tachiyomi.extension.en.zinmangaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.zinmanga-v1.6.58.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.æûêÚğ²ÊSZinmangaen"https://mangazin.org
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-en.zinmanga-v1.6.58.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.æûêÚğ²ÊSZinmangaen"https://mangazin.org
 ä
 Zinmanga.net,eu.kanade.tachiyomi.extension.en.zinmanganetÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-en.zinmanganet-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanganet/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B6½òßâ¢¸çÉZinmanga.neten"https://www.zinmanga.net
+fhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-en.zinmanganet-v1.6.57.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanganet/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6½òßâ¢¸çÉZinmanga.neten"https://www.zinmanga.net
 ¼
 AKAYA&eu.kanade.tachiyomi.extension.es.akayaÏ
 ahttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.akaya-v1.6.4.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/akaya/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B'ô‘ÅÕ‹Ï§	AKAYAes"https://akaya.io
@@ -2632,7 +2649,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-e
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.anzmanga-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/anzmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4µ†ÓÖòŞ«fAnzMangaes"https://www.anzmanga25.com
 à
 ApollComics,eu.kanade.tachiyomi.extension.es.apollcomicsÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.apollcomics-v1.6.58.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/apollcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3’¢»ôÿ¤·Ÿ*ApollComicses"https://apollcomics.es
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.apollcomics-v1.6.58.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/apollcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3’¢»ôÿ¤·Ÿ*ApollComicses"https://apollcomics.es
 Ö
 
 Asia Lotus*eu.kanade.tachiyomi.extension.es.asialotusÕ
@@ -2640,10 +2657,10 @@ chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.
 Asia Lotuses"https://asialotuss.com
 Ó
 BarManga)eu.kanade.tachiyomi.extension.es.barmangaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.barmanga-v1.6.66.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/barmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B2÷°ßåÀ¨ìÎBarMangaes"https://archiviumbar.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.barmanga-v1.6.66.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/barmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B2÷°ßåÀ¨ìÎBarMangaes"https://archiviumbar.com
 û
 Bega Translation0eu.kanade.tachiyomi.extension.es.begatranslationâ
-jhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.begatranslation-v1.6.58.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/begatranslation/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B=©çÛ°Ñ€·ã]Bega Translationes"https://begatranslation.com
+jhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.begatranslation-v1.6.58.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/begatranslation/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B=©çÛ°Ñ€·ã]Bega Translationes"https://begatranslation.com
 Û
 Bloom Scans+eu.kanade.tachiyomi.extension.es.bloomscans×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.bloomscans-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/bloomscans/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B3÷ù±¯·Õ¡ˆ$Bloom Scanses"https://bloomscans.com
@@ -2658,10 +2675,10 @@ ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.
 khttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.capibaratraductor-v1.6.0.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/capibaratraductor/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B@œ‡ÔÅÏ±Ç¤.CapibaraTraductores"https://capibaratraductor.com
 ù
 Catharsis World/eu.kanade.tachiyomi.extension.es.catharsisworldß
-hhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.catharsisworld-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BAê‡Ñ†ÜşÃ‹Catharsis Worldes" https://newcatharsis.dig-it.info
+hhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-es.catharsisworld-v1.6.1.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18BAê‡Ñ†ÜşÃ‹Catharsis Worldes" https://newcatharsis.dig-it.info
 Ñ
 Catoons+eu.kanade.tachiyomi.extension.es.catmanhwas×
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-es.catmanhwas-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/catmanhwas/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-¶Ğì¤ÄŠ×ÿCatoonses"https://cattoons.org
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.catmanhwas-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/catmanhwas/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-¶Ğì¤ÄŠ×ÿCatoonses"https://cattoons.org
 ğ
 Celestial Moon.eu.kanade.tachiyomi.extension.es.celestialmoonİ
 ghttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-es.celestialmoon-v1.6.3.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/celestialmoon/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B<Á—ş¤¦ÃìkCelestial Moones"https://celestialmoonscan.es
@@ -2673,7 +2690,7 @@ hhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.
 chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.chochox-v1.6.5.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/chochox/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B,¨é§ôÚçóChoChoXes"https://chochox.com
 ê
 Code Arc Mangas(eu.kanade.tachiyomi.extension.es.codearcÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-es.codearc-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18BG¡·€À¼šLCode Arc Mangases"&https://mangas.codearctraducciones.com
+ahttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.codearc-v1.6.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28BG¡·€À¼šLCode Arc Mangases"&https://mangas.codearctraducciones.com
 ©
 Colorcito Scan.eu.kanade.tachiyomi.extension.es.colorcitoscanİ
 ghttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-es.colorcitoscan-v1.6.2.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/colorcitoscan/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B7¶×‚É»•ÁColorcito Scanes"https://coloresito.siteB<àì×çÄ‹ÈÛ?Colorcito Toonses"https://colorcitotoons.site
@@ -2688,45 +2705,37 @@ mhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-e
 hhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.doujinhentai-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/doujinhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6“òßñÉµ›‡6DoujinHentaies"https://doujinhentai.net
 á
 DoujinsHell,eu.kanade.tachiyomi.extension.es.doujinshellÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.doujinshell-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/doujinshell/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4œİÃîÕ„ü¡aDoujinsHelles"https://doujinshell.net
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.doujinshell-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/doujinshell/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4œİÃîÕ„ü¡aDoujinsHelles"https://doujinshell.net
 –
 DragonTranslation.org5eu.kanade.tachiyomi.extension.es.dragontranslationorgì
-ohttps://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.dragontranslationorg-v1.6.59.apkyhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598BDšüĞ‹ûê¼À@DragonTranslation.orges"https://dragontranslation.org
+ohttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.dragontranslationorg-v1.6.59.apkyhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598BDšüĞ‹ûê¼À@DragonTranslation.orges"https://dragontranslation.org
 È
 Dynasty(eu.kanade.tachiyomi.extension.es.dynastyÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.dynasty-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dynasty/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-¨°ä“ÿúèDynastyes"https://manhuako.net
 å
 Emperor Scan,eu.kanade.tachiyomi.extension.es.emperorscanÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.emperorscan-v1.6.69.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Õ¼21.6.698B7ôèÒó…Š©?Emperor Scanes"https://imperiomanhua.com
+fhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.emperorscan-v1.6.70.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ö¼21.6.708B7ôèÒó…Š©?Emperor Scanes"https://imperiomanhwa.com
 ş
 EnchiladaScan.eu.kanade.tachiyomi.extension.es.enchiladascanİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.enchiladascan-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/enchiladascan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BKºõ‚ß¸êÀ¥{EnchiladaScanes",https://enchiladascan.github.io/enchiladaweb
 Ş
 Es.Mi2Manga+eu.kanade.tachiyomi.extension.es.esmi2mangaØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.esmi2manga-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/esmi2manga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4÷—úÖì÷ŠœEs.Mi2Mangaes"https://es.mi2manga.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.esmi2manga-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/esmi2manga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4÷—úÖì÷ŠœEs.Mi2Mangaes"https://es.mi2manga.com
 ï
 EternalMangas.eu.kanade.tachiyomi.extension.es.eternalmangasà
 jhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.eternalmangas-v1.6.29.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/eternalmangas/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B8»ëª¬ÒÛà¤EternalMangases"https://eternalmangas.org
 €
 Gistamis House.eu.kanade.tachiyomi.extension.es.gistamishouseà
 jhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.gistamishouse-v1.6.16.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/gistamishouse/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168BH˜¯ê¦¡è„éGistamis Housees"(https://gistamishousefansub.blogspot.com
-ò
-Gremory Mangas.eu.kanade.tachiyomi.extension.es.gremorymangasŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.gremorymangas-v1.6.56.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/gremorymangas/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B<¾Ş‰Õ¡Ñô_Gremory Mangases"https://gremoryhistorias.org
 ù
 Hades no Fansub.eu.kanade.tachiyomi.extension.es.hadesnofansubŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.hadesnofansub-v1.6.60.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hadesnofansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608BB‹ˆË‡ß¼™¬sHades no Fansubes"!https://lectorhades.latamtoon.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.hadesnofansub-v1.6.60.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hadesnofansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608BB‹ˆË‡ß¼™¬sHades no Fansubes"!https://lectorhades.latamtoon.com
 å
 Harem de Kira,eu.kanade.tachiyomi.extension.es.haremdekiraÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.haremdekira-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/haremdekira/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B6–á»£¢ÃìÅHarem de Kiraes"https://kiraproject.lat
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.haremdekira-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/haremdekira/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B6–á»£¢ÃìÅHarem de Kiraes"https://kiraproject.lat
 ß
 HeavenManga,eu.kanade.tachiyomi.extension.es.heavenmangaÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.heavenmanga-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/heavenmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4Íä¥¸“íÓşHeavenMangaes"https://heavenmanga.com
-Û
-
-HentaiHall+eu.kanade.tachiyomi.extension.es.hentaihallÙ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.hentaihall-v1.4.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hentaihall/res/mipmap-xhdpi/ic_launcher.png"1.4(Á¬21.4.18B2ß„¼—ÊÓæu
-HentaiHalles"https://hentaihall.com
 Ù
 
 HentaiMode+eu.kanade.tachiyomi.extension.es.hentaimode×
@@ -2734,28 +2743,28 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.
 HentaiModees"https://hentaimode.com
 ó
 House Of Otakus.eu.kanade.tachiyomi.extension.es.houseofotakusŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.houseofotakus-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/houseofotakus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<ì›çãÿŸè¨House Of Otakuses"https://houseofotakusv2.xyz
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.houseofotakus-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/houseofotakus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<ì›çãÿŸè¨House Of Otakuses"https://houseofotakusv2.xyz
 ô
 Ikigai Mangas-eu.kanade.tachiyomi.extension.es.ikigaimangasÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-es.ikigaimangas-v1.6.40.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png"1.6(¸¼21.6.408BB»ş›ÿóÛÅkIkigai Mangases"#https://visorikigai.gettocaboca.com
+ghttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.ikigaimangas-v1.6.40.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png"1.6(¸¼21.6.408BB»ş›ÿóÛÅkIkigai Mangases"#https://visorikigai.gettocaboca.com
 Ó
 	Ikuhentai*eu.kanade.tachiyomi.extension.es.ikuhentaiÕ
 chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.ikuhentai-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ikuhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0˜½ş¸äÛi	Ikuhentaies"https://ikuhentai.net
 á
 InfraFandub,eu.kanade.tachiyomi.extension.es.infrafandubÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.infrafandub-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/infrafandub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B4µÿŸ„ıß–ÒMInfraFandubes"https://infrafandub.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.infrafandub-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/infrafandub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B4µÿŸ„ıß–ÒMInfraFandubes"https://infrafandub.com
 Ç
 InManga(eu.kanade.tachiyomi.extension.es.inmangaÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-es.inmanga-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B,˜ÎŒïœûĞ`InMangaes"https://inmanga.com
 ê
 Inmortal Scan-eu.kanade.tachiyomi.extension.es.inmortalscanÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.inmortalscan-v1.6.60.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inmortalscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B8‹ÓÈÑ²óé{Inmortal Scanes"https://scan-inmortal.com
-æ
-InsanosScan,eu.kanade.tachiyomi.extension.es.insanosscanÜ
-hhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.insanosscan-v1.4.31.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/insanosscan/res/mipmap-xhdpi/ic_launcher.png"1.4(ß¬21.4.318B7§ïËÅÿ²ãíIInsanosScanes"https://insanoslibrary.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.inmortalscan-v1.6.60.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inmortalscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B8‹ÓÈÑ²óé{Inmortal Scanes"https://scan-inmortal.com
+â
+InsanosScan,eu.kanade.tachiyomi.extension.es.insanosscanÙ
+ehttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.insanosscan-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/insanosscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7×¼¸Ÿ€î©’EInsanosScanes"https://insanoslibrary.com
 
 Inventario Oculto1eu.kanade.tachiyomi.extension.es.inventarioocultoä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.inventariooculto-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inventariooculto/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B?—˜’Õ©”ÓºInventario Ocultoes"https://inventariooculto.com
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.inventariooculto-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inventariooculto/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B?—˜’Õ©”ÓºInventario Ocultoes"https://inventariooculto.com
 Ù
 
 Jeaz Scans*eu.kanade.tachiyomi.extension.es.jeazscansÕ
@@ -2764,11 +2773,8 @@ Jeaz Scanses"https://lectorhub.j5z.xyz
 Û
 
 Kazoku Den*eu.kanade.tachiyomi.extension.es.kazokudenÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.kazokuden-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/kazokuden/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5·Ê¹Şóğ•Í
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.kazokuden-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/kazokuden/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5·Ê¹Şóğ•Í
 Kazoku Denes"https://www.kazokuden.com
-ì
-Koinobori Scan.eu.kanade.tachiyomi.extension.es.koinoboriscanà
-jhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.koinoboriscan-v1.4.40.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/koinoboriscan/res/mipmap-xhdpi/ic_launcher.png"1.4(è¬21.4.408B4‘”–åà“†ÂQKoinobori Scanes"https://visorkoi.com
 ó
 Lector Asteria.eu.kanade.tachiyomi.extension.es.lectorasteriaİ
 ghttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.lectorasteria-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectorasteria/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B?×±‹å»€æØ	Lector Asteriaes"https://visor.chifa-tong.online
@@ -2781,15 +2787,21 @@ hhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.
 é
 MangoLibreria.eu.kanade.tachiyomi.extension.es.lectormonlineİ
 ghttps://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.lectormonline-v1.6.4.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectormonline/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B6öÑ›ç¢š¿á:MangoLibreriaes"https://lectorfenix.com
+‹
+LectorTMO (unoriginal)4eu.kanade.tachiyomi.extension.es.lectortmounoriginalé
+mhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-es.lectortmounoriginal-v1.6.0.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectortmounoriginal/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B=ø„Æêÿ©·bLectorTMO (unoriginal)es"https://lectortmo.vip
+Í
+LectorXD)eu.kanade.tachiyomi.extension.es.lectorxdÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.lectorxd-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectorxd/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B.Ş´ÁÌÿÌ8LectorXDes"https://lectorxd.com
 è
 LeerCapitulo-eu.kanade.tachiyomi.extension.es.leercapituloÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.leercapitulo-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/leercapitulo/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9ºÇ§·ô¶À‚NLeerCapituloes"https://www.leercapitulo.co
 â
 LeerMangaEsp-eu.kanade.tachiyomi.extension.es.leermangaespÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.leermangaesp-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/leermangaesp/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3†×¿ù©Ù‘ßqLeerMangaEspes"https://mangalect.org
-á
-LeerManhwas,eu.kanade.tachiyomi.extension.es.leermanhwasÛ
-ghttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.leermanhwas-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/leermanhwas/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4ğìñÒ£ÅïàxLeerManhwases"https://leermanhwas.com
+ß
+LeerManhwas,eu.kanade.tachiyomi.extension.es.leermanhwasÙ
+ehttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-es.leermanhwas-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/leermanhwas/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B4ğìñÒ£ÅïàxLeerManhwases"https://leermanhwas.com
 Ê
 Lmtos+eu.kanade.tachiyomi.extension.es.lmtoonline×
 dhttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-es.lmtoonline-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lmtoonline/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B(º–½ÉöåŒ¨kLmtoses"https://lmtos.net
@@ -2809,49 +2821,49 @@ Manga Crabes"https://es.mangacrab.org
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.mangamx-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangamx/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ÆÀÍŠ£…áÈMangaOnies"https://manga-oni.com
 ë
 Manga Romance-eu.kanade.tachiyomi.extension.es.mangaromanceÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.mangaromance-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangaromance/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9ÉöÓÒ£‚”Ä5Manga Romancees"https://mangaromance19.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.mangaromance-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangaromance/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9ÉöÓÒ£‚”Ä5Manga Romancees"https://mangaromance19.com
 Ş
 Manga Mukai,eu.kanade.tachiyomi.extension.es.mangashiinaÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.mangashiina-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangashiina/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3¡ßÂø˜ÇÒï	Manga Mukaies"https://mangamukai.com
 Ê
 	Mangas.in)eu.kanade.tachiyomi.extension.es.mangasinÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.mangasin-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*É°ÊÓ³²é´.	Mangas.ines"https://m440.in
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-es.mangasin-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*É°ÊÓ³²é´.	Mangas.ines"https://m440.in
 ñ
 Mangas No Sekai.eu.kanade.tachiyomi.extension.es.mangasnosekaiŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.mangasnosekai-v1.6.75.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasnosekai/res/mipmap-xhdpi/ic_launcher.png"1.6(Û¼21.6.758B:¬Õı¡öØÀMangas No Sekaies"https://mangasnosekai.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.mangasnosekai-v1.6.75.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasnosekai/res/mipmap-xhdpi/ic_launcher.png"1.6(Û¼21.6.758B:¬Õı¡öØÀMangas No Sekaies"https://mangasnosekai.com
 Ê
 Manga TV(eu.kanade.tachiyomi.extension.es.mangatvÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.mangatv-v1.6.3.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangatv/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B.Ü¥úŸ­ïÚd	Manga  TVes"https://mangatv.net
 ä
 SamuraiScan-eu.kanade.tachiyomi.extension.es.manhuaonlineÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.manhuaonline-v1.6.72.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhuaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(Ø¼21.6.728B4 Ÿ–ƒô¼¤OSamuraiScanes"https://samurai.j5z.xyz
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.manhuaonline-v1.6.72.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhuaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(Ø¼21.6.728B4 Ÿ–ƒô¼¤OSamuraiScanes"https://samurai.j5z.xyz
 ê
 Manhwa-Latino-eu.kanade.tachiyomi.extension.es.manhwalatinoÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.manhwalatino-v1.6.66.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwalatino/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B8Ó¬öÛÕÄÊŸ1Manhwa-Latinoes"https://manhwa-latino.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.manhwalatino-v1.6.66.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwalatino/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B8Ó¬öÛÕÄÊŸ1Manhwa-Latinoes"https://manhwa-latino.com
 è
 ManhwaOnline-eu.kanade.tachiyomi.extension.es.manhwaonlineÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.manhwaonline-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B7ùšç¹Šü’KManhwaOnlinees"https://manhwa-online.com
-×
-	ManhwaWeb*eu.kanade.tachiyomi.extension.es.manhwawebØ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.manhwaweb-v1.6.13.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.138B0ñõ¶œÁŠ¢½R	ManhwaWebes"https://manhwaweb.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.manhwaonline-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaonline/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B7ùšç¹Šü’KManhwaOnlinees"https://manhwa-online.com
+Õ
+	ManhwaWeb*eu.kanade.tachiyomi.extension.es.manhwawebÖ
+dhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.manhwaweb-v1.6.14.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148B0ñõ¶œÁŠ¢½R	ManhwaWebes"https://manhwaweb.com
 å
 Mantraz Scan,eu.kanade.tachiyomi.extension.es.mantrazscanÚ
 fhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-es.mantrazscan-v1.6.58.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mantrazscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B7Å¾Ê‹âåÅcMantraz Scanes"https://mantrazscanss.lat
 È
 Marmota(eu.kanade.tachiyomi.extension.es.marmotaÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.marmota-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/marmota/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B+Ì†ÿÏ×ñˆ³RMarmotaes"https://marmota.me
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.marmota-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/marmota/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B+Ì†ÿÏ×ñˆ³RMarmotaes"https://marmota.me
 î
 Menudo-Fansub-eu.kanade.tachiyomi.extension.es.menudofansubİ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.menudofansub-v1.6.7.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/menudofansub/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B<’‚„ıÆªóÓ0Menudo-Fansubes"https://www.menudo-fansub.com
 É
 MHScans(eu.kanade.tachiyomi.extension.es.mhscansÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.mhscans-v1.6.69.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mhscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Õ¼21.6.698B,ñ¬¬®€ëƒ“-MHScanses"https://mhscans.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.mhscans-v1.6.69.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mhscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Õ¼21.6.698B,ñ¬¬®€ëƒ“-MHScanses"https://mhscans.com
 ë
 Monopoly Scan-eu.kanade.tachiyomi.extension.es.monopolyscanÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.monopolyscan-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/monopolyscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9®ûñ‹ú «­QMonopoly Scanes"https://monopolymanhua.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.monopolyscan-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/monopolyscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9®ûñ‹ú «­QMonopoly Scanes"https://monopolymanhua.com
 ã
 Mundo Manhwa,eu.kanade.tachiyomi.extension.es.mundomanhwaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.mundomanhwa-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mundomanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5½´Ö¯ÑçêbMundo Manhwaes"https://mundomanhwa.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.mundomanhwa-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mundomanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5½´Ö¯ÑçêbMundo Manhwaes"https://mundomanhwa.com
 Ğ
 
 Rncalation'eu.kanade.tachiyomi.extension.es.nartagÏ
@@ -2860,9 +2872,6 @@ Rncalationes"https://rncalation.online
 Õ
 	NekoScans*eu.kanade.tachiyomi.extension.es.nekoscansÕ
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.nekoscans-v1.6.8.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/nekoscans/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B2 ×Æà¢ÚòÂt	NekoScanses"https://nekoproject.org
-Ö
-NeoManga)eu.kanade.tachiyomi.extension.es.neomangaÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.neomanga-v1.4.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/neomanga/res/mipmap-xhdpi/ic_launcher.png"1.4(Á¬21.4.18B5—Šåûµ¿‚ìDNeoMangaes"https://www.neomanga.online
 ÷
 NexusScanlation0eu.kanade.tachiyomi.extension.es.nexusscanlationá
 ihttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-es.nexusscanlation-v1.6.6.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/nexusscanlation/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B<ĞÕ‚«¬ÓÂÚ8NexusScanlationes"https://nexusscanlation.com
@@ -2879,7 +2888,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-e
 ONF MANGASes"https://onfmangas.com
 à
 OrckuMangas,eu.kanade.tachiyomi.extension.es.orckumangasÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-es.orckumangas-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/orckumangas/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B5¦ÌÒª ÔÏ¾Orcku Mangases"https://orckumangas.com
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.orckumangas-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/orckumangas/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B5¦ÌÒª ÔÏ¾Orcku Mangases"https://orckumangas.com
 
 Platinum Lily Scan1eu.kanade.tachiyomi.extension.es.platinumlilyscanã
 jhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.platinumlilyscan-v1.6.0.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/platinumlilyscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B@‘ÌÕãí¡ˆ¶RPlatinum Lily Scanes"https://platinumlilyscan.com
@@ -2887,8 +2896,11 @@ jhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.
 Plot Twist No Fansub2eu.kanade.tachiyomi.extension.es.plottwistnofansubå
 khttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-es.plottwistnofansub-v1.6.0.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/plottwistnofansub/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B>áÈ»ˆ¶º…Ÿ`Plot Twist No Fansubes"https://plotnofansub.com
 
+Pzykosis666HFansub3eu.kanade.tachiyomi.extension.es.pzykosis666hfansubä
+lhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-es.pzykosis666hfansub-v1.6.6.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68BIªªãœÇìÎVPzykosis666HFansubes"%https://lector.pzykosis666hfansub.com
+
 Ragnarok Scanlation3eu.kanade.tachiyomi.extension.es.ragnarokscanlationè
-mhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.ragnarokscanlation-v1.6.58.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BCòÑı¿óÿÛRagnarok Scanlationes"https://ragnarokscanlation.org
+mhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.ragnarokscanlation-v1.6.58.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BCòÑı¿óÿÛRagnarok Scanlationes"https://ragnarokscanlation.org
 ã
 Ragna Scans+eu.kanade.tachiyomi.extension.es.ragnascansÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.ragnascans-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ragnascans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B9‡œªÚ©·‡¨SRagna Scanses"https://lector.ragnascan.xyz
@@ -2897,10 +2909,13 @@ fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-e
 RavenManga+eu.kanade.tachiyomi.extension.es.ravenmangaÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.ravenmanga-v1.6.7.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ravenmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B1ñÜÀÄâ·ÂÙ	
 RavenMangaes"https://raventard.xyz
+á
+Reizu Comics,eu.kanade.tachiyomi.extension.es.reizucomicsÙ
+ehttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.reizucomics-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/reizucomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5äÌü±Áàù“Reizu Comicses"https://reizucomics.com
 Ş
 
 RichtoScan+eu.kanade.tachiyomi.extension.es.richtoscanÚ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.richtoscan-v1.6.60.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B3ÔÅß¨îË×£
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.richtoscan-v1.6.60.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B3ÔÅß¨îË×£
 RichtoScanes"https://r1.richtoon.top
 í
 SapphireScan-eu.kanade.tachiyomi.extension.es.sapphirescanŞ
@@ -2918,13 +2933,13 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.
 Spicy Scanes"https://spicyseries.com
 Ó
 	Submanhwa*eu.kanade.tachiyomi.extension.es.submanhwaÕ
-chttps://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-es.submanhwa-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/submanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B0ºÍ‹ÅÍË›ã	Submanhwaes"https://submanhwa.com
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.submanhwa-v1.6.3.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/submanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B0ºÍ‹ÅÍË›ã	Submanhwaes"https://submanhwa.com
 é
 Taurus Fansub-eu.kanade.tachiyomi.extension.es.taurusfansubÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.taurusfansub-v1.6.65.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/taurusfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ñ¼21.6.658B7øƒÖØ’œ›ÊGTaurus Fansubes"https://lectortaurus.com
-ë
+ghttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.taurusfansub-v1.6.66.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/taurusfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B7øƒÖØ’œ›ÊGTaurus Fansubes"https://lectortaurus.com
+ô
 Temple Scan.eu.kanade.tachiyomi.extension.es.templescanespŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.templescanesp-v1.6.68.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/templescanesp/res/mipmap-xhdpi/ic_launcher.png"1.6(Ô¼21.6.688B8’™Ì»î§Çò/Temple Scanes"https://aedexnox.akan01.com
+hhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-es.templescanesp-v1.6.69.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/templescanesp/res/mipmap-xhdpi/ic_launcher.png"1.6(Õ¼21.6.698BA’™Ì»î§Çò/Temple Scanes"$https://aedexnox.syakaihoken-web.com
 Ø
 
 Falco Scan+eu.kanade.tachiyomi.extension.es.tenkaiscan×
@@ -2933,21 +2948,21 @@ Falco Scanes"https://falcoscan.net
 
 TMOHentai (unoriginal)4eu.kanade.tachiyomi.extension.es.tmohentaiunoriginalë
 ohttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.tmohentaiunoriginal-v1.6.1.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/tmohentaiunoriginal/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B=¿í¿«‚¨ÜYTMOHentai (unoriginal)es"https://tmohentai.app
+Ó
+	TmoManhwa*eu.kanade.tachiyomi.extension.es.tmomanhwaÕ
+chttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-es.tmomanhwa-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/tmomanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0”íËçÏìîò_	TmoManhwaes"https://tmomanhwa.com
 Æ
 Toon-es'eu.kanade.tachiyomi.extension.es.toonesĞ
-ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.toones-v1.6.55.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/toones/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,î‘¬“ø¡»ğEToon-eses"https://toon-es.com
+ahttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.toones-v1.6.55.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/toones/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,î‘¬“ø¡»ğEToon-eses"https://toon-es.com
 í
 TopComicPorno.eu.kanade.tachiyomi.extension.es.topcomicpornoŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.topcomicporno-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicporno/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8”Ø„êäÈš]TopComicPornoes"https://topcomicporno.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.topcomicporno-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicporno/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8”Ø„êäÈš]TopComicPornoes"https://topcomicporno.com
 ş
 TopComicPorno.net1eu.kanade.tachiyomi.extension.es.topcomicpornonetä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.topcomicpornonet-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicpornonet/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<Òîüû¤èâæ^TopComicPorno.netes"https://topcomicporno.net
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.topcomicpornonet-v1.6.55.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicpornonet/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<Òîüû¤èâæ^TopComicPorno.netes"https://topcomicporno.net
 
 Traducciones Moonlight6eu.kanade.tachiyomi.extension.es.traduccionesmoonlightí
 ohttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-es.traduccionesmoonlight-v1.6.0.apkzhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/traduccionesmoonlight/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BI®ÏÚ¡İ†ı­<Traducciones Moonlightes"!https://traduccionesmoonlight.com
-Ş
-	ManhwasMe.eu.kanade.tachiyomi.extension.es.tumanhwasclubß
-ihttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.tumanhwasclub-v1.4.3.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/tumanhwasclub/res/mipmap-xhdpi/ic_launcher.png"1.4(Ã¬21.4.38B-åö¸ú¢»ßŠo	ManhwasMees"https://manhwas.me
 ı
 Uchuujin Projects1eu.kanade.tachiyomi.extension.es.uchuujinprojectsã
 jhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.uchuujinprojects-v1.6.2.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/uchuujinprojects/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B=‡üÓÌëÑî6Uchuujin Projectses"https://uchuujinmangas.com
@@ -2959,19 +2974,19 @@ khttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-es.
 bhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-es.vcpvmp-v1.6.5.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/vcpvmp/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B/ÿ„ÊÕªİÖÉuVCPes"https://vercomicsporno.comB/èø«Â©İDVMPes"https://vermangasporno.com
 Ü
 Ver Manhwas+eu.kanade.tachiyomi.extension.es.vermanhwasØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.vermanhwas-v1.6.57.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/vermanhwas/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B2üÃŒı”»šÍ9Ver Manhwases"https://vermanhwa.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.vermanhwas-v1.6.57.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/vermanhwas/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B2üÃŒı”»šÍ9Ver Manhwases"https://vermanhwa.com
 Ñ
 Yupmanga)eu.kanade.tachiyomi.extension.es.yupmangaÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-es.yupmanga-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yupmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2Ä³ß‡ÙİÊ=Yupmangaes"https://www.yupmanga.com
 Ş
 Yuri-Online+eu.kanade.tachiyomi.extension.es.yurionlineØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-es.yurionline-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yurionline/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Á´¬­šÀ„ª/Yuri-Onlinees"https://yuri-online.com
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-es.yurionline-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yurionline/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Á´¬­šÀ„ª/Yuri-Onlinees"https://yuri-online.com
 ’
 ZonaTMO.org (unoriginal)5eu.kanade.tachiyomi.extension.es.zonatmoorgunoriginalí
 phttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.zonatmoorgunoriginal-v1.6.2.apkyhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/zonatmoorgunoriginal/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B=ãÇÛãÿ£²ÊfZonaTMO.org (unoriginal)es"https://zonatmo.org
-î
-Zonatmo.to (unoriginal)*eu.kanade.tachiyomi.extension.es.zonatmoto×
-ehttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-es.zonatmoto-v1.4.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/zonatmoto/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B;æÜÆ‰òüã¯Zonatmo.to (unoriginal)es"https://zonatmo.to
+ì
+Zonatmo.to (unoriginal)*eu.kanade.tachiyomi.extension.es.zonatmotoÕ
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-es.zonatmoto-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/zonatmoto/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;æÜÆ‰òüã¯Zonatmo.to (unoriginal)es"https://zonatmo.to
 Ó
 	AnimeSama*eu.kanade.tachiyomi.extension.fr.animesamaÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.animesama-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/animesama/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0¯ÖùÍšëF	AnimeSamafr"https://anime-sama.to
@@ -2986,7 +3001,7 @@ bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.
 ehttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-fr.astralmanga-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/astralmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4±‘–´ÉšßªzAstralMangafr"https://astral-manga.fr
 à
 Harmony-Scan+eu.kanade.tachiyomi.extension.fr.bananascanØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.bananascan-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/bananascan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B5ÀÆ»Ó“‘©+Harmony-Scanfr"https://harmony-scan.fr
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.bananascan-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/bananascan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B5ÀÆ»Ó“‘©+Harmony-Scanfr"https://harmony-scan.fr
 à
 Banchan Scan,eu.kanade.tachiyomi.extension.fr.banchanscanÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-fr.banchanscan-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/banchanscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4ª‡¨ƒæé wBanchan Scanfr"https://banchanscan.fr
@@ -3007,7 +3022,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.
 fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-fr.dassouscan-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/dassouscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3“úŸÁº„İÓaDassou Scanfr"https://dassouscan.com
 à
 Epsilon Scan,eu.kanade.tachiyomi.extension.fr.epsilonscanÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-fr.epsilonscan-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4ú‘¹‡Š®â#Epsilon Scanfr"https://epsilonscan.to
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-fr.epsilonscan-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B4ú‘¹‡Š®â#Epsilon Scanfr"https://epsilonscan.to
 Â
 FMTEAM'eu.kanade.tachiyomi.extension.fr.fmteamÑ
 bhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.fmteam-v1.6.8.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/fmteam/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B)ëÓÖ«±ß¥íjFMTEAMfr"https://fmteam.fr
@@ -3027,18 +3042,18 @@ khttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-f
 lhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.hentaiscanreader-v1.6.2.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiscanreader/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28BAÂ™Î°ÌŞŸtHentai Scan Readerfr"https://hentai.scanreader.net
 ö
 Hentai-Scantrad/eu.kanade.tachiyomi.extension.fr.hentaiscantradà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.hentaiscantrad-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiscantrad/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B<€íÉúËÌ¹Ñ]Hentai-Scantradfr"https://hentai-scantrad.org
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.hentaiscantrad-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiscantrad/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B<€íÉúËÌ¹Ñ]Hentai-Scantradfr"https://hentai-scantrad.org
 Û
 
 HentaiZone+eu.kanade.tachiyomi.extension.fr.hentaizoneØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.hentaizone-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaizone/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2“ò›°µµûC
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.hentaizone-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaizone/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2“ò›°µµûC
 HentaiZonefr"https://hentaizone.xyz
 ğ
 HistoireDHentai0eu.kanade.tachiyomi.extension.fr.histoiredhentaiâ
-jhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.histoiredhentai-v1.6.55.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/histoiredhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3‰”§èˆ¶ß_HistoireDHentaifr"https://hhentai.fr
+jhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.histoiredhentai-v1.6.55.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/histoiredhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B3‰”§èˆ¶ß_HistoireDHentaifr"https://hhentai.fr
 Ã
 Japscan(eu.kanade.tachiyomi.extension.fr.japscanÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-fr.japscan-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/japscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B(Japscanfr"https://www.japscan.foo
+ahttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-fr.japscan-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/japscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B(Japscanfr"https://www.japscan.foo
 á
 Kiwiya Scans,eu.kanade.tachiyomi.extension.fr.kiwiyascansÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-fr.kiwiyascans-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/kiwiyascans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5°ƒó×ÙˆxKiwiya Scansfr"https://kiwiyascans.com
@@ -3061,13 +3076,13 @@ Lelscan-VFfr"https://www.lelscanfr.com
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.lesporoiniens-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/lesporoiniens/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B9Šìôä‹÷ñlLes Poroiniensfr"https://lesporoiniens.org
 Ë
 Ma Brute(eu.kanade.tachiyomi.extension.fr.mabruteÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.mabrute-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mabrute/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B-Óõ‹˜Ö¦÷¤Ma Brutefr"https://mabrute.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.mabrute-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mabrute/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B-Óõ‹˜Ö¦÷¤Ma Brutefr"https://mabrute.com
 ‚
 Manga-Corporation1eu.kanade.tachiyomi.extension.fr.mangacorporationå
 lhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.mangacorporation-v1.6.6.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangacorporation/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B@†º¶˜æŸËšManga-Corporationfr"https://manga-corporation.com
 Ú
 MangaHub.fr+eu.kanade.tachiyomi.extension.fr.mangahubfrØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.mangahubfr-v1.6.57.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangahubfr/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B0²ç­“êıñÜ-MangaHub.frfr"https://mangahub.fr
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.mangahubfr-v1.6.57.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangahubfr/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B0²ç­“êıñÜ-MangaHub.frfr"https://mangahub.fr
 ä
 Mangakawaii,eu.kanade.tachiyomi.extension.fr.mangakawaiiÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.mangakawaii-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangakawaii/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B7Ã¹îÒ²«Ë›Mangakawaiifr"https://www.mangakawaii.fr
@@ -3081,22 +3096,19 @@ MangaMoinsfr"https://mangamoins.com
 chttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-fr.manganova-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/manganova/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5ßğòº²ş¢‘	MangaNovafr"https://www.manga-nova.com
 ï
 Manga-Scantrad.eu.kanade.tachiyomi.extension.fr.mangascantradŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.mangascantrad-v1.6.59.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangascantrad/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B9¥şá‚¾×¿Manga-Scantradfr"https://manga-scantrad.io
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.mangascantrad-v1.6.59.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangascantrad/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B9¥şá‚¾×¿Manga-Scantradfr"https://manga-scantrad.io
 ƒ
 Mangas-Origines.fr1eu.kanade.tachiyomi.extension.fr.mangasoriginesfræ
 mhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.mangasoriginesfr-v1.6.61.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangasoriginesfr/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B>Â£‚ü©¢ÔBMangas-Origines.frfr"https://mangas-origines.fr
 ´
 Ono$eu.kanade.tachiyomi.extension.fr.onoÉ
-]https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-fr.ono-v1.6.0.apkhhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/ono/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B)Üüƒ²èùĞÏDOnofr"https://www.ono.live
+]https://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-fr.ono-v1.6.0.apkhhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/ono/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B)Üüƒ²èùĞÏDOnofr"https://www.ono.live
 â
 Ortega Scans,eu.kanade.tachiyomi.extension.fr.ortegascansÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.ortegascans-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/ortegascans/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B4ÆÉ™Ø¥ã©wOrtega Scansfr"https://ortegascans.fr
 ê
 Pantheon Scan-eu.kanade.tachiyomi.extension.fr.pantheonscanÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.pantheonscan-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/pantheonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8¶üëæğµPantheon Scanfr"https://pantheon-scan.com
-‚
-PhenixScans (unoriginal).eu.kanade.tachiyomi.extension.fr.phenixscanscoß
-ihttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.phenixscansco-v1.4.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/phenixscansco/res/mipmap-xhdpi/ic_launcher.png"1.4(Á¬21.4.18BB©çñƒÄ²TPhenix Scans (unoriginal)fr"https://phenix-scans.co
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.pantheonscan-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/pantheonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8¶üëæğµPantheon Scanfr"https://pantheon-scan.com
 Ò
 
 Pornhwa.fr*eu.kanade.tachiyomi.extension.fr.pornhwafrÕ
@@ -3104,10 +3116,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-fr.
 Pornwha.frfr"https://pornhwa.fr
 î
 Poseidon Scans.eu.kanade.tachiyomi.extension.fr.poseidonscansİ
-ghttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.poseidonscans-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/poseidonscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:éÆß±ìıˆ‚|Poseidon Scansfr"https://poseidon-scans.net
-å
-Raijin Scans,eu.kanade.tachiyomi.extension.fr.raijinscansÜ
-hhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.raijinscans-v1.4.68.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/raijinscans/res/mipmap-xhdpi/ic_launcher.png"1.4(„­21.4.688B5¿‚†×Òô™tRaijin Scansfr"https://raijin-scans.fr
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.poseidonscans-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/poseidonscans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B:éÆß±ìıˆ‚|Poseidon Scansfr"https://poseidon-scans.net
 Ó
 
 Rimu Scans*eu.kanade.tachiyomi.extension.fr.rimuscansÕ
@@ -3115,33 +3124,27 @@ chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.
 Rimu Scansfr"https://rimuscan.fr
 Ş
 X-Manga/eu.kanade.tachiyomi.extension.fr.scanhentaimenuà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.scanhentaimenu-v1.6.59.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanhentaimenu/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B,Èºÿ›ßÃÒ9X-Mangafr"https://x-manga.org
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.scanhentaimenu-v1.6.59.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanhentaimenu/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B,Èºÿ›ßÃÒ9X-Mangafr"https://x-manga.org
 Ø
 
 Scan-Manga*eu.kanade.tachiyomi.extension.fr.scanmangaÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-fr.scanmanga-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4óÖÈğŸ˜…Ï
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-fr.scanmanga-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4óÖÈğŸ˜…Ï
 Scan-Mangafr"https://m.scan-manga.com
 ¾
 ScanR&eu.kanade.tachiyomi.extension.fr.scanrÍ
-_https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.scanr-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanr/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B+Ş±Š³¶½ŠŸOScanRfr"https://teamscanr.fr
+_https://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-fr.scanr-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanr/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B+Ş±Š³¶½ŠŸOScanRfr"https://teamscanr.fr
 İ
 Scan Reader+eu.kanade.tachiyomi.extension.fr.scanreaderÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.scanreader-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanreader/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B3Ï™ò¡åíâÂYScan Readerfr"https://scanreader.net
-É
-ScansFR(eu.kanade.tachiyomi.extension.fr.scansfrÓ
-chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-fr.scansfr-v1.4.3.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scansfr/res/mipmap-xhdpi/ic_launcher.png"1.4(Ã¬21.4.38B,ê…ÚÙáÆ¾Ğ$ScansFRfr"https://scansfr.com
 î
 Scantrad Union.eu.kanade.tachiyomi.extension.fr.scantradunionİ
 ghttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-fr.scantradunion-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scantradunion/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:äÇ÷ÂÛ§¢”Scantrad Unionfr"https://scantrad-union.com
 È
 Scan VF'eu.kanade.tachiyomi.extension.fr.scanvfÏ
 `https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-fr.scanvf-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanvf/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0í¬¬îã˜‰"Scan VFfr"https://www.scan-vf.net
-è
-Siren Scans FR-eu.kanade.tachiyomi.extension.fr.sirenscansfrÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.sirenscansfr-v1.6.22.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/sirenscansfr/res/mipmap-xhdpi/ic_launcher.png"1.6(¦¼21.6.228B5ìÎûÆÜá¢Û~Siren Scans FRfr"https://sirenscans.fr
 ö
 Soft Epsilon Scan0eu.kanade.tachiyomi.extension.fr.softepsilonscaná
-ihttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-fr.softepsilonscan-v1.6.1.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B9„±Ïì©¯üDSoft Epsilon Scanfr"https://epsilonsoft.to
+ihttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-fr.softepsilonscan-v1.6.3.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B9„±Ïì©¯üDSoft Epsilon Scanfr"https://epsilonsoft.to
 ç
 Solaris Scans-eu.kanade.tachiyomi.extension.fr.solarisscansÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-fr.solarisscans-v1.6.2.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/solarisscans/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B7á¥£çÿÿ¢Solaris Scansfr"https://solaris-scans.fr
@@ -3155,7 +3158,7 @@ Sushi-Scanfr"https://sushiscan.net
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-fr.sushiscanfr-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/sushiscanfr/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B2»ùığŞ¦ç®,Sushiscan.frfr"https://sushiscan.fr
 Å
 Toon FR'eu.kanade.tachiyomi.extension.fr.toonfrĞ
-ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-fr.toonfr-v1.6.55.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/toonfr/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B+£¸«ÎÀıûó,Toon FRfr"https://toonfr.com
+ahttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-fr.toonfr-v1.6.55.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/toonfr/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B+£¸«ÎÀıûó,Toon FRfr"https://toonfr.com
 º
 Twatt&eu.kanade.tachiyomi.extension.fr.twattÍ
 _https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-fr.twatt-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/twatt/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B'¼ƒ¨Ä£ÉGTwattfr"https://twatt.fr
@@ -3189,11 +3192,6 @@ ihttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-i
 Ó
 	CrotPedia*eu.kanade.tachiyomi.extension.id.crotpediaÕ
 chttps://github.com/keiyoushi/extensions/releases/download/60bc15e/tachiyomi-id.crotpedia-v1.6.5.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/crotpedia/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B0òíÀÇªåîë7	CrotPediaid"https://crotpedia.net
-Ô
-	DailySuka*eu.kanade.tachiyomi.extension.id.dailysukaÕ
-chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.dailysuka-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/dailysuka/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1¥ÌÒÏ¢¡’Æ
-
-DailySuka id"https://dailysuka.com
 Ò
 
 Dojing.net*eu.kanade.tachiyomi.extension.id.dojingnetÕ
@@ -3233,7 +3231,7 @@ bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-id.kiryuu-v1.6.58.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B,š¦‡±¨†®Á2Kiryuuid"https://v7.kiryuu.to
 Õ
 	KlikManga*eu.kanade.tachiyomi.extension.id.klikmangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-id.klikmanga-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/klikmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B0¤­“Ì¦Şê­H	KlikMangaid"https://klikmanga.org
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-id.klikmanga-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/klikmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B0¤­“Ì¦Şê­H	KlikMangaid"https://klikmanga.org
 Ì
 Kombatch)eu.kanade.tachiyomi.extension.id.kombatchÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.kombatch-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kombatch/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Õ›˜²Œ™¯ÓKombatchid"https://kombatch.cc
@@ -3255,10 +3253,13 @@ chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.
 Ş
 KomikIndoID,eu.kanade.tachiyomi.extension.id.komikindoidÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-id.komikindoid-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikindoid/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1‘’ÓÚŠ²İJKomikIndoIDid"https://komikindo.ch
-à
+Ç
+Komikmu(eu.kanade.tachiyomi.extension.id.komikmuÑ
+ahttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-id.komikmu-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikmu/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,Çòî´®Š…×)Komikmuid"https://komikmu.top
+Ş
 
-KomikNesia+eu.kanade.tachiyomi.extension.id.komiknesiaÙ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-id.komiknesia-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiknesia/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B7ÿÕÛÉ„¿Ş{
+KomikNesia+eu.kanade.tachiyomi.extension.id.komiknesia×
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-id.komiknesia-v1.6.4.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiknesia/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B7ÿÕÛÉ„¿Ş{
 KomikNesiaid"https://v1.komiknesiaku.com
 ƒ
 Komik Next G Online1eu.kanade.tachiyomi.extension.id.komiknextgonlineã
@@ -3310,7 +3311,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/60bc15e/tachiyomi-id.
 bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.mangacan-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangacan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3¬œÍÏ²†Ä‚=	Manga Canid"https://mangacanblog.com
 Ü
 	Mangakuri*eu.kanade.tachiyomi.extension.id.mangakuriÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-id.mangakuri-v1.6.37.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangakuri/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B7Â£ôÜÇ¸šéw	Mangakuriid"https://lc2.mangakuri.online
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-id.mangakuri-v1.6.37.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangakuri/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B7Â£ôÜÇ¸šéw	Mangakuriid"https://lc2.mangakuri.online
 Õ
 Mangalay)eu.kanade.tachiyomi.extension.id.mangalayÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-id.mangalay-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangalay/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6»İ·Ø¿‚¦‰mMangalayid"http://mangalay.blogspot.com
@@ -3319,7 +3320,7 @@ bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-id.
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.mangasusu-v1.6.5.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangasusu/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B2œ±¿ÒŸ‰›q	Mangasusuid"https://mangasusuku.com
 È
 Ikiru*eu.kanade.tachiyomi.extension.id.mangataleÒ
-dhttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-id.mangatale-v1.6.57.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B+ÙÀõÔı¤˜¢Ikiruid"https://09.ikiru.wtf
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-id.mangatale-v1.6.61.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B+¦òæçÓ ‡¦"Ikiruid"https://09.ikiru.wtf
 Ü
 
 ManhwaDesu+eu.kanade.tachiyomi.extension.id.manhwadesuØ
@@ -3331,15 +3332,15 @@ ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.
 ğ
 ManhwaLand.mom.eu.kanade.tachiyomi.extension.id.manhwalandmomŞ
 hhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.manhwalandmom-v1.6.10.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalandmom/res/mipmap-xhdpi/ic_launcher.png"1.6(š¼21.6.108B:çû“ÚÕµ;ManhwaLand.momid"https://02.manhwaland.land
-â
+æ
 Manhwa List-eu.kanade.tachiyomi.extension.id.manhwalistidÛ
-fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.manhwalistid-v1.6.7.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalistid/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B4ŸÙÿß¾êª–+Manhwa Listid"https://manhwalist.asia
+fhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-id.manhwalistid-v1.6.8.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalistid/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B8ŸÙÿß¾êª–+Manhwa Listid"https://m1.manhwalist.my.id
 ê
 IsekaiKomik.eu.kanade.tachiyomi.extension.id.manhwalistorgİ
 ghttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.manhwalistorg-v1.6.2.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalistorg/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B9›²½ŒÿŞæ§IsekaiKomikid"https://ch1.isekaikomik.site
 Í
 MG Komik(eu.kanade.tachiyomi.extension.id.mgkomikÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-id.mgkomik-v1.6.79.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mgkomik/res/mipmap-xhdpi/ic_launcher.png"1.6(ß¼21.6.798B/ÚÍ‰Ã§¢èQMG Komikid"https://id.mgkomik.cc
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-id.mgkomik-v1.6.79.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mgkomik/res/mipmap-xhdpi/ic_launcher.png"1.6(ß¼21.6.798B/ÚÍ‰Ã§¢èQMG Komikid"https://id.mgkomik.cc
 Í
 Mihentai)eu.kanade.tachiyomi.extension.id.mihentaiÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.mihentai-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mihentai/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B.ğçœ¾å‡Ì+Mihentaiid"https://mihentai.net
@@ -3370,7 +3371,7 @@ fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-i
 ahttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.omicaso-v1.6.3.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/omicaso/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B,Ê¸ÿéâˆ”üeOmicasoid"https://omicaso.org
 Ğ
 	Ota Scans)eu.kanade.tachiyomi.extension.id.otascansÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-id.otascans-v1.6.59.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/otascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B.¾å‹ÆÇ´§	Ota Scansid"https://yurilab.top
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-id.otascans-v1.6.59.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/otascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B.¾å‹ÆÇ´§	Ota Scansid"https://yurilab.top
 Õ
 
 Pix Hentai*eu.kanade.tachiyomi.extension.id.pixhentaiÕ
@@ -3388,6 +3389,9 @@ hhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-id.
 Í
 Roseveil)eu.kanade.tachiyomi.extension.id.roseveilÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/ac40914/tachiyomi-id.roseveil-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/roseveil/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B.Á¨¼–¸¨½øIRoseveilid"https://roseveil.org
+Ó
+	Rosyscans*eu.kanade.tachiyomi.extension.id.rosyscansÕ
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-id.rosyscans-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/rosyscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0Ä—Á¼ş€ôù~	Rosyscansid"https://rosyscans.com
 Ñ
 Ryukomik)eu.kanade.tachiyomi.extension.id.ryukomikÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-id.ryukomik-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ryukomik/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0ÒöäÕª‰Å•vRyukomikid"https://ryukomik.my.id
@@ -3402,9 +3406,9 @@ ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-id.
 İ
 Sekte Komik+eu.kanade.tachiyomi.extension.id.sektekomik×
 dhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-id.sektekomik-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/sektekomik/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5‹›Í›å…£bSekte Komikid"https://01.sektekomik.id
-Û
-	Shinigami*eu.kanade.tachiyomi.extension.id.shinigamiØ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-id.shinigami-v1.6.82.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png"1.6(â¼21.6.828B4±¹ñâÜË¬/	Shinigamiid"https://11.shinigami.asia
+Ù
+	Shinigami*eu.kanade.tachiyomi.extension.id.shinigamiÖ
+dhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-id.shinigami-v1.6.83.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png"1.6(ã¼21.6.838B4±¹ñâÜË¬/	Shinigamiid"https://11.shinigami.asia
 á
 Shiro Doujin,eu.kanade.tachiyomi.extension.id.shirodoujinÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/60bc15e/tachiyomi-id.shirodoujin-v1.6.6.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/shirodoujin/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B5¡†•·àÊÃuShiro Doujinid"https://shirodoujin.com
@@ -3415,10 +3419,10 @@ ghttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-i
 ShiyuraSubid"https://shiyurasub.blogspot.com
 Î
 Siikomik)eu.kanade.tachiyomi.extension.id.siimangaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-id.siimanga-v1.6.56.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/siimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B-€½ÖìÇó‹BSiikomikid"https://siikomik.id
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-id.siimanga-v1.6.57.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/siimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B-€½ÖìÇó‹BSiikomikid"https://siikomik.id
 Ò
 	Softkomik*eu.kanade.tachiyomi.extension.id.softkomikÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-id.softkomik-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/softkomik/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ÄÆ«á­ˆ¬…=	Softkomikid"https://softkomik.co
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-id.softkomik-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/softkomik/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ÄÆ«á­ˆ¬…=	Softkomikid"https://softkomik.co
 Ø
 
 Soul Scans*eu.kanade.tachiyomi.extension.id.soulscansÕ
@@ -3438,14 +3442,14 @@ Ulas Comicid"https://www.ulascomic01.xyz
 ×
 
 West Manga*eu.kanade.tachiyomi.extension.id.westmangaÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-id.westmanga-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/westmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3 êöæµã€¥{
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-id.westmanga-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/westmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3 êöæµã€¥{
 West Mangaid"https://v1.westmanga.my
 »
 Wurmz&eu.kanade.tachiyomi.extension.id.wurmzÍ
 _https://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-id.wurmz-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/wurmz/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B(ÒŠÓ‹ß“ÖìWurmzid"https://wurmz.net
 Ê
 Kaguya)eu.kanade.tachiyomi.extension.id.yubikiriÒ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-id.yubikiri-v1.6.60.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kaguya/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B-ğºÌóí…ªÎKaguyaid"https://02.kaguya.pro
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-id.yubikiri-v1.6.60.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kaguya/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B-ğºÌóí…ªÎKaguyaid"https://02.kaguya.pro
 ì
 Anime GDR Club-eu.kanade.tachiyomi.extension.it.animegdrclubÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-it.animegdrclub-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/animegdrclub/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;±º—’Ã¼”‹
@@ -3453,9 +3457,6 @@ fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-it.
 Ñ
 DDT Team(eu.kanade.tachiyomi.extension.it.ddtteamÓ
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-it.ddtteam-v1.6.6.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/ddtteam/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B3’£–¢ê¦ƒ‡EDDT Teamit"https://ddt.hastateam.com
-İ
-DigitalTeam,eu.kanade.tachiyomi.extension.it.digitalteamÛ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-it.digitalteam-v1.4.4.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/digitalteam/res/mipmap-xhdpi/ic_launcher.png"1.4(Ä¬21.4.48B0‹ÉêššÍá=DigitalTeamit"https://dgtread.com
 â
 GTO The Great Site$eu.kanade.tachiyomi.extension.it.gtoË
 _https://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-it.gto-v1.6.8.apkhhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/gto/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88BFöÖõ’ØÚù½&GTO The Great Siteit""https://reader.gtothegreatsite.net
@@ -3492,7 +3493,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-i
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-it.phoenixscans-v1.6.9.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/phoenixscans/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B;Ÿ¼¥ıœ£ğ†WPhoenix Scansit"https://www.phoenixscans.com
 é
 Shinobi Scans-eu.kanade.tachiyomi.extension.it.shinobiscansÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-it.shinobiscans-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/shinobiscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B7÷›¼ãÕÆ©kShinobi Scansit"https://shinobiscans.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-it.shinobiscans-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/shinobiscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B7÷›¼ãÕÆ©kShinobi Scansit"https://shinobiscans.com
 û
 TuttoAnimeManga0eu.kanade.tachiyomi.extension.it.tuttoanimemangaä
 lhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-it.tuttoanimemanga-v1.6.10.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/tuttoanimemanga/res/mipmap-xhdpi/ic_launcher.png"1.6(š¼21.6.108B<ÊĞÁˆĞøæ–TuttoAnimeMangait"https://tuttoanimemanga.net
@@ -3531,7 +3532,7 @@ khttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-j
 bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.booklive-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/booklive/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-¡ÅÚ½—»‚ğlBookLiveja"https://booklive.jp
 ê
 BookWalker Japan-eu.kanade.tachiyomi.extension.ja.bookwalkerjpÛ
-fhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ja.bookwalkerjp-v1.6.5.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/bookwalkerjp/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B7æƒå±Î©ÒÌkBookWalker Japanja"https://bookwalker.jp
+fhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ja.bookwalkerjp-v1.6.5.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/bookwalkerjp/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B7æƒå±Î©ÒÌkBookWalker Japanja"https://bookwalker.jp
 Ø
 	Ciao Plus)eu.kanade.tachiyomi.extension.ja.ciaoplusÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ja.ciaoplus-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ciaoplus/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8¹ÏÀæ¬É€	Ciao Plusja"https://ciao.shogakukan.co.jp
@@ -3543,7 +3544,7 @@ bhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ja.
 ehttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ja.comicaction-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicaction/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6º¦Ô˜‰ºë•/Comic Actionja"https://comic-action.com
 Ü
 Comic Boost+eu.kanade.tachiyomi.extension.ja.comicboost×
-dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicboost-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicboost/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4ú¶˜£–¢€ÀComic Boostja"https://comic-boost.com
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.comicboost-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicboost/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4ú¶˜£–¢€ÀComic Boostja"https://comic-boost.com
 á
 Comic Border,eu.kanade.tachiyomi.extension.ja.comicborderÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.comicborder-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicborder/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B5±»¡âí úComic Borderja"https://comicborder.com
@@ -3560,7 +3561,7 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.
 dhttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-ja.comicfesta-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicfesta/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B2èÒ²ôºûà¶oComic Festaja"https://comic.iowl.jp
 Ğ
 	COMIC FUZ)eu.kanade.tachiyomi.extension.ja.comicfuzÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.comicfuz-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicfuz/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0ËàíÚÎµñe	COMIC FUZja"https://comic-fuz.com
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.comicfuz-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicfuz/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0ËàíÚÎµñe	COMIC FUZja"https://comic-fuz.com
 Ü
 Comic Gardo+eu.kanade.tachiyomi.extension.ja.comicgardo×
 dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.comicgardo-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicgardo/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4³ıĞ¤‡²¤+Comic Gardoja"https://comic-gardo.com
@@ -3575,10 +3576,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-j
 ehttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ja.comicmeteor-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicmeteor/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,÷¶…ÁçŞŠÚk	Kiraboshija"https://kirapo.jp
 å
 Comic Nettai,eu.kanade.tachiyomi.extension.ja.comicnettaiÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.comicnettai-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicnettai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9å“½­´¹³Comic Nettaija"https://www.comicnettai.com
-É
-Comico'eu.kanade.tachiyomi.extension.ja.comicoÑ
-bhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comico-v1.4.2.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comico/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B0È³˜§Š©‰£E	ã‚³ãƒŸã‚³ja"https://www.comico.jp
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.comicnettai-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicnettai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9å“½­´¹³Comic Nettaija"https://www.comicnettai.com
 â
 Comic Ogyaaa,eu.kanade.tachiyomi.extension.ja.comicogyaaaÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ja.comicogyaaa-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicogyaaa/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6…ê·ÊßÙôŒ4Comic Ogyaaaja"https://comic-ogyaaa.com
@@ -3612,29 +3610,29 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.comirela-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comirela/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-¨Ëâ×İÂ•hComirelaja"https://comirela.com
 ğ
 Corocoro Online/eu.kanade.tachiyomi.extension.ja.corocoroonlineß
-hhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.corocoroonline-v1.6.1.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/corocoroonline/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8ÙÄò¾™Ö÷¢cCorocoro Onlineja"https://www.corocoro.jp
+hhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.corocoroonline-v1.6.2.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/corocoroonline/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B8ÙÄò¾™Ö÷¢cCorocoro Onlineja"https://www.corocoro.jp
 Ó
 	Corona EX)eu.kanade.tachiyomi.extension.ja.coronaexÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ja.coronaex-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/coronaex/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3¼´¦“ÔŒÅˆB	Corona EXja"https://to-corona-ex.com
 Á
 CyComi'eu.kanade.tachiyomi.extension.ja.cycomiÏ
-`https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.cycomi-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/cycomi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B*¯šøÛÖøsCyComija"https://cycomi.com
+`https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.cycomi-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/cycomi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B*¯šøÛÖøsCyComija"https://cycomi.com
 é
 	DMM/FANZA$eu.kanade.tachiyomi.extension.ja.dmmÉ
-]https://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.dmm-v1.6.1.apkhhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/dmm/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B)Ë‹ñºÁóı£cDMMja"https://book.dmm.comB-Éóü›ÆÂ¼–YFANZAja"https://book.dmm.co.jp
+]https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.dmm-v1.6.1.apkhhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/dmm/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B)Ë‹ñºÁóı£cDMMja"https://book.dmm.comB-Éóü›ÆÂ¼–YFANZAja"https://book.dmm.co.jp
 É
 Docomo'eu.kanade.tachiyomi.extension.ja.docomoÏ
-`https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.docomo-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/docomo/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2ş»ëı¨Ò—ª'Docomoja"https://dbook.docomo.ne.jp
+`https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.docomo-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/docomo/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2ş»ëı¨Ò—ª'Docomoja"https://dbook.docomo.ne.jp
 Í
 Dokiraw(eu.kanade.tachiyomi.extension.ja.dokirawÔ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.dokiraw-v1.6.15.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/dokiraw/res/mipmap-xhdpi/ic_launcher.png"1.6(Ÿ¼21.6.158B.àåüÅ ÂÍ‡7Dokirawja"https://dokiraw.click
 Ó
 DreComi+*eu.kanade.tachiyomi.extension.ja.drecomicsÕ
-chttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ja.drecomics-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/drecomics/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1èáò¥•ò‚ÕyDreComi+ja"https://drecomi-plus.jp
+chttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.drecomics-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/drecomics/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B1èáò¥•ò‚ÕyDreComi+ja"https://drecomi-plus.jp
 á
 
 eBookJapan+eu.kanade.tachiyomi.extension.ja.ebookjapan×
-dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.ebookjapan-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ebookjapan/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B:ÈÀ’ì‡§şİ
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.ebookjapan-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ebookjapan/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B:ÈÀ’ì‡§şİ
 eBookJapanja"https://ebookjapan.yahoo.co.jp
 È
 Feel Web(eu.kanade.tachiyomi.extension.ja.feelwebÑ
@@ -3644,7 +3642,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ja.
 chttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-ja.firecross-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/firecross/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/Îßı½¡ÓÂW	FireCrossja"https://firecross.jp
 æ
 Flower Comics-eu.kanade.tachiyomi.extension.ja.flowercomicsÛ
-fhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.flowercomics-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/flowercomics/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6ó†¬¦¨À«ÈZFlower Comicsja"https://flowercomics.jp
+fhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.flowercomics-v1.6.2.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/flowercomics/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B6ó†¬¦¨À«ÈZFlower Comicsja"https://flowercomics.jp
 Ê
 FOD(eu.kanade.tachiyomi.extension.ja.fodfujiÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ja.fodfuji-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/fodfuji/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3‚Ò¬§ë„ª¤FODja"https://manga.fod.fujitv.co.jp
@@ -3660,14 +3658,14 @@ khttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ja.
 Õ
 
 Goraku Web*eu.kanade.tachiyomi.extension.ja.gorakuwebÕ
-chttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.gorakuweb-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/gorakuweb/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1ı¾†³îİÓr
+chttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.gorakuweb-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/gorakuweb/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B1ı¾†³îİÓr
 Goraku Webja"https://gorakuweb.com
 Í
 Hachiraw)eu.kanade.tachiyomi.extension.ja.hachirawÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.hachiraw-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hachiraw/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.ØíÖ‹ÎğÇşvHachirawja"https://hachiraw.net
 ë
 Hakusensha e-net+eu.kanade.tachiyomi.extension.ja.hakusensha×
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ja.hakusensha-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hakusensha/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B>”˜ŞØß¢Öô4Hakusensha e-netja"https://www.hakusensha-e.net
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ja.hakusensha-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hakusensha/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B>”˜ŞØß¢Öô4Hakusensha e-netja"https://www.hakusensha-e.net
 Ù
 Hana To Yume+)eu.kanade.tachiyomi.extension.ja.hanayumeÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.hanayume-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hanayume/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3©ãŸ¼œêÓ^Hana To Yume+ja"https://hanayume.com
@@ -3704,7 +3702,7 @@ fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-1/tachiyomi-j
 bhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ja.jumptoon-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jumptoon/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B/Ì‹®¿ÛâŒ«$	Jump Toonja"https://jumptoon.com
 Õ
 KadoComi)eu.kanade.tachiyomi.extension.ja.kadocomiÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.kadocomi-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kadocomi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6ú½‰á’ß¹Âtã‚«ãƒ‰ã‚³ãƒŸja"https://comic-walker.com
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.kadocomi-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kadocomi/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B6ú½‰á’ß¹Âtã‚«ãƒ‰ã‚³ãƒŸja"https://comic-walker.com
 Ï
 KimiComi)eu.kanade.tachiyomi.extension.ja.kimicomiÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.kimicomi-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kimicomi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.ùş×Îìî¤úKimiComija"https://kimicomi.com
@@ -3719,7 +3717,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-j
 _https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.klto9-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/klto9/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B(Á‘Ã¸Ôñ–Ä+Klto9ja"https://klto9.com
 Õ
 	Kmansin09*eu.kanade.tachiyomi.extension.ja.kmansin09Ö
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ja.kmansin09-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kmansin09/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0Õ¥»ì§‰·“8	Kmansin09ja"https://kmansin09.top
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ja.kmansin09-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kmansin09/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0Õ¥»ì§‰·“8	Kmansin09ja"https://kmansin09.top
 Ç
 Kumaraw(eu.kanade.tachiyomi.extension.ja.kumarawÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.kumaraw-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kumaraw/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,İ¦‰û­©[Kumarawja"https://kumaraw.com
@@ -3748,7 +3746,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangabang-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangabang/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B?ÓÎÛíß¥ÊàWMangaBang Comicsja"https://comics.manga-bang.com
 Ö
 MangaBox+eu.kanade.tachiyomi.extension.ja.mangaboxme×
-dhttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-ja.mangaboxme-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaboxme/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B1Ö»ø“™×ÅMangaBoxja"https://www.mangabox.me
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mangaboxme-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaboxme/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1Ö»ø“™×ÅMangaBoxja"https://www.mangabox.me
 È
 MangaBu(eu.kanade.tachiyomi.extension.ja.mangabuÓ
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangabu-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangabu/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B+‡¯çË«ÇŞãMangaBuja"https://mangabu.jp
@@ -3757,7 +3755,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-j
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangacross-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/championcross/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8ùé®·ù÷ğ±AChampion Crossja"https://championcross.jp
 Í
 Manga-5*eu.kanade.tachiyomi.extension.ja.mangafiveÕ
-chttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.mangafive-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangafive/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B,¸ş²êõœõxManga-5ja"https://manga-5.com
+chttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mangafive-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangafive/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B,¸ş²êõœõxManga-5ja"https://manga-5.com
 Ğ
 	NihonKuni)eu.kanade.tachiyomi.extension.ja.mangagunÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.mangagun-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangagun/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0­«Õ‚°†ó4	NihonKunija"https://nihonkuni.com
@@ -3772,7 +3770,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/60bc15e/tachiyomi-ja.
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangalt-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangalt/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B+¯íÈ©è€¨€Mangaltja"https://mangalt.jp
 Í
 MangaMee)eu.kanade.tachiyomi.extension.ja.mangameeÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.mangamee-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangamee/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.„ÄüÊÜúè¿GMangaMeeja"https://manga-mee.jp
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mangamee-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangamee/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B.„ÄüÊÜúè¿GMangaMeeja"https://manga-mee.jp
 Û
 
 MangaMeets+eu.kanade.tachiyomi.extension.ja.mangameetsÙ
@@ -3788,15 +3786,18 @@ Manga Muraja"https://mangamura.me
 ahttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ja.mangano-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangano/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-¸†Åœ´ÑkMangaNoja"https://manga-no.com
 Ğ
 	Manga One)eu.kanade.tachiyomi.extension.ja.mangaoneÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.mangaone-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaone/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0„©•à°Œù§n	Manga Oneja"https://manga-one.com
-ó
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mangaone-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaone/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B0„©•à°Œù§n	Manga Oneja"https://manga-one.com
+ñ
 
-Manga-Park3eu.kanade.tachiyomi.extension.ja.mangaparkpublisheré
-nhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangaparkpublisher-v1.6.1.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaparkpublisher/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2¬î¾©(
+Manga-Park3eu.kanade.tachiyomi.extension.ja.mangaparkpublisherç
+lhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mangaparkpublisher-v1.6.2.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaparkpublisher/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B2¬î¾©(
 Manga-Parkja"https://manga-park.com
+Ï
+MangaRaw)eu.kanade.tachiyomi.extension.ja.mangarawÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-ja.mangaraw-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaraw/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0ô¿¨ó„ŠfMangaRawja"https://mangaraw.co.uk
 Ş
 Manga Saison,eu.kanade.tachiyomi.extension.ja.mangasaisonÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.mangasaison-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangasaison/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2ÓÿËŞÛùêÑgManga Saisonja"https://mechacomi.jp
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mangasaison-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangasaison/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B2ÓÿËŞÛùêÑgManga Saisonja"https://mechacomi.jp
 Û
 	Manga SPA)eu.kanade.tachiyomi.extension.ja.mangaspaÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangaspa-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaspa/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B9ô†ù˜İí¬Ï#	Manga SPAja"https://mangaspa.nikkan-spa.jp
@@ -3814,7 +3815,7 @@ fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-1/tachiyomi-ja.mangazegra-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangazegra/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4–ãÄâšÇ¡çManga Zegraja"https://manga-zegra.com
 Ú
 Mecha Comic+eu.kanade.tachiyomi.extension.ja.mechacomic×
-dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.mechacomic-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mechacomic/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B2·²ã¯ÔÈ„9Mecha Comicja"https://mechacomic.jp
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.mechacomic-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mechacomic/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B2·²ã¯ÔÈ„9Mecha Comicja"https://mechacomic.jp
 Á
 Mokuro'eu.kanade.tachiyomi.extension.ja.mokuroÏ
 `https://github.com/keiyoushi/extensions/releases/download/60bc15e/tachiyomi-ja.mokuro-v1.6.6.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mokuro/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B*æõè”æÿè¹3Mokuroja"https://mokuro.moe
@@ -3823,7 +3824,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.momonga-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/momonga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.µÁ¼…ä¹Ó€Jmomon:GAja"https://momon-ga.com
 ç
 Music Book Japan,eu.kanade.tachiyomi.extension.ja.musicbookjpÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.musicbookjp-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/musicbookjp/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B7¡óùåÊÃ÷ÅCMusic Book Japanja"https://music-book.jp
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.musicbookjp-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/musicbookjp/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B7¡óùåÊÃ÷ÅCMusic Book Japanja"https://music-book.jp
 Ö
 
 Nami Comic*eu.kanade.tachiyomi.extension.ja.namicomic×
@@ -3847,7 +3848,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-ja.
 Our Feelja"https://ourfeel.jp
 Å
 Pash Up!'eu.kanade.tachiyomi.extension.ja.pashupÏ
-`https://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.pashup-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pashup/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,ÈÊ¼—×ƒõ¹>Pash Up!ja"https://pash-up.jp
+`https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.pashup-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pashup/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,ÈÊ¼—×ƒõ¹>Pash Up!ja"https://pash-up.jp
 Î
 PiaComic)eu.kanade.tachiyomi.extension.ja.piacomicÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.piacomic-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/piacomic/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-ˆİ´‘‡°ÈÙ(PiaComicja"https://piacomic.jp
@@ -3856,7 +3857,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-j
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.piccoma-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/piccoma/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B,§ÖÉñ‰–•®cPiccomaja"https://piccoma.com
 â
 Pixiv Comic+eu.kanade.tachiyomi.extension.ja.pixivcomic×
-dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.pixivcomic-v1.6.5.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pixivcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B:Û¡¢ãô¨¿â(Pixivã‚³ãƒŸãƒƒã‚¯ja"https://comic.pixiv.net
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.pixivcomic-v1.6.5.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pixivcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B:Û¡¢ãô¨¿â(Pixivã‚³ãƒŸãƒƒã‚¯ja"https://comic.pixiv.net
 Ç
 Raw1001(eu.kanade.tachiyomi.extension.ja.raw1001Ñ
 ahttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.raw1001-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/raw1001/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,»ÉŞ÷‚®…¾.Raw1001ja"https://raw1001.net
@@ -3865,7 +3866,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-ja.
 `https://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-ja.raw18-v1.6.20.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/raw18/res/mipmap-xhdpi/ic_launcher.png"1.6(¤¼21.6.208B(¬ˆì©ÅÏˆRaw18ja"https://raw18.icu
 É
 RawBaka(eu.kanade.tachiyomi.extension.ja.rawbakaÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-ja.rawbaka-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawbaka/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,ŠÕçâ¦È¬ÊSRawBakaja"https://rawbaka.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-ja.rawbaka-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawbaka/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,ŠÕçâ¦È¬ÊSRawBakaja"https://rawbaka.com
 æ
 Rawdevart.art-eu.kanade.tachiyomi.extension.ja.rawdevartartİ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.rawdevartart-v1.6.5.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawdevartart/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B4¹ÿ¢Ğƒ²Ôš/Rawdevart.artja"https://rawdevart.art
@@ -3889,7 +3890,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-j
 ahttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-ja.rawxz-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawxz/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B*ÒÉ—ßâ…‚«nRawMiuja"https://rawmiu.com
 ä
 Reader Store,eu.kanade.tachiyomi.extension.ja.readerstoreÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.readerstore-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/readerstore/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B8Ìïôé³ òReader Storeja"https://ebookstore.sony.jp
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.readerstore-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/readerstore/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B8Ìïôé³ òReader Storeja"https://ebookstore.sony.jp
 æ
 RimacomiPlus-eu.kanade.tachiyomi.extension.ja.rimacomiplusİ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.rimacomiplus-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rimacomiplus/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B5—±€±åÔÎóyRimacomiPlusja"https://rimacomiplus.jp
@@ -3902,6 +3903,9 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.
 Ì
 Sokuyomi)eu.kanade.tachiyomi.extension.ja.sokuyomiÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/39e8efc/tachiyomi-ja.sokuyomi-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/sokuyomi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-äùŠÆîØï+Sokuyomija"https://sokuyomi.jp
+Ç
+SoraRaw(eu.kanade.tachiyomi.extension.ja.sorarawÑ
+ahttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-ja.soraraw-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/soraraw/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,®˜ìÇñ†¸úuSoraRawja"https://soraraw.com
 à
 Sugo Comics+eu.kanade.tachiyomi.extension.ja.sugocomics×
 dhttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-ja.sugocomics-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/sugocomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8¾êòÒ”‰§‚8Sugo Comicsja"https://nadeshiko-shoten.jp
@@ -3919,7 +3923,7 @@ khttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.
 ^https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ja.twi4-v1.6.0.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/twi4/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8Ø¿•ÔÖáŸíTwi4ja""https://sai-zen-sen.jp/comics/twi4
 Â
 U-NEXT&eu.kanade.tachiyomi.extension.ja.unextÍ
-_https://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-ja.unext-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/unext/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.¨ØÏ³ÔµÒ©U-NEXTja"https://video.unext.jp
+_https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-ja.unext-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/unext/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B.¨ØÏ³ÔµÒ©U-NEXTja"https://video.unext.jp
 Ù
 Love4u/eu.kanade.tachiyomi.extension.ja.welovemangaoneß
 hhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ja.welovemangaone-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/welovemangaone/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*ªÉô«÷ªıíLove4uja"https://love4u.net
@@ -3940,7 +3944,7 @@ ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-j
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ja.youngchampion-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/youngchampion/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8ê Ğ¦™‡Œ Young Championja"https://youngchampion.jp
 Ø
 Zebrack(eu.kanade.tachiyomi.extension.ja.zebrackÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ja.zebrack-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zebrack/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B=‰®íªÊ°…æZebrackja"$https://zebrack-comic.shueisha.co.jp
+ahttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ja.zebrack-v1.6.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zebrack/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B=‰®íªÊ°…æZebrackja"$https://zebrack-comic.shueisha.co.jp
 Á
 Zenon&eu.kanade.tachiyomi.extension.ja.zenonÍ
 _https://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ja.zenon-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zenon/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.¦İÿˆ«Ç‹¦JZenonja"https://comic-zenon.com
@@ -3952,10 +3956,7 @@ ihttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-j
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ko.blacktoon-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/blacktoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ê“Ïª–Ûƒ¢b	ë¸”ë™íˆ°ko"https://blacktoon.me
 Ö
 GoodToon)eu.kanade.tachiyomi.extension.ko.goodtoonÔ
-chttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ko.goodtoon-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/goodtoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5¸—íÌ˜šÜÿ%GoodToonko"https://www.goodtoon005.com
-Ò
-Manatoki)eu.kanade.tachiyomi.extension.ko.manatokiÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-ko.manatoki-v1.4.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/manatoki/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B1´ˆÚÓ‡Õ¹Ú1Manatokiko"https://manatoki552.net
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-ko.goodtoon-v1.6.56.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/goodtoon/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B5¸—íÌ˜šÜÿ%GoodToonko"https://www.goodtoon007.com
 ç
 Naver Comic+eu.kanade.tachiyomi.extension.ko.navercomic×
 dhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ko.navercomic-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/navercomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6Â‘ïÜÙÉ¢™Naver Webtoonko"https://comic.naver.comBEıƒ…‡½»·£7Naver Webtoon Best Challengeko"https://comic.naver.comB@»×éê½Û£>Naver Webtoon Challengeko"https://comic.naver.com
@@ -3967,7 +3968,7 @@ bhttps://github.com/keiyoushi/extensions/releases/download/ac40914/tachiyomi-ko.
 chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-ko.rawdex-v1.6.56.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/rawdex/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B*«ËÖñ¾¿ánRawDEXko"https://rawdex.net
 Ê
 Newtoki (SBXH)%eu.kanade.tachiyomi.extension.ko.sbxhË
-^https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ko.sbxh-v1.6.1.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/sbxh/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1Îâ¯Á‚±°€QNewtoki (SBXH)ko"https://sbxh9.com
+^https://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ko.sbxh-v1.6.1.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/sbxh/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B1Îâ¯Á‚±°€QNewtoki (SBXH)ko"https://sbxh9.com
 Å
 11toon'eu.kanade.tachiyomi.extension.ko.toon11Ï
 `https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-ko.toon11-v1.6.1.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/toon11/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.ºŒ÷÷¬®‰z11toonko"https://www.11toon.com
@@ -3977,18 +3978,15 @@ bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ko.
 İ
 Wolf.com+eu.kanade.tachiyomi.extension.ko.wolfdotcom×
 dhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-ko.wolfdotcom-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/wolfdotcom/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:“±ù’ŸáÁ¾MëŠ‘ëŒ€ë‹·ì»´ - ì›¹íˆ°ko"https://wfwf507.comB=æÑĞ¬›‡–bëŠ‘ëŒ€ë‹·ì»´ - ë§Œí™”ì±…ko"https://wfwf507.comB=õ©§¢îÏ€Ò:ëŠ‘ëŒ€ë‹·ì»´ - í¬í† íˆ°ko"https://wfwf507.com
-Ò
-	MangaHoNa*eu.kanade.tachiyomi.extension.pl.mangahonaÕ
-chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pl.mangahona-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pl/mangahona/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ÄƒÕ«£¢Ìé{	MangaHoNapl"https://mangahona.pl
 ğ
 AcervoEremita.eu.kanade.tachiyomi.extension.pt.acervoeremitaß
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.acervoeremita-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/acervoeremita/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B;ÌôããÙÃékAcervoEremitapt-BR"https://acervoeremita.com
 ì
 Acervo Hentai-eu.kanade.tachiyomi.extension.pt.acervohentaiÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.acervohentai-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/acervohentai/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:­Éîëµ÷ı¥Acervo Hentaipt-BR"https://acervohentai.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.acervohentai-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/acervohentai/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:­Éîëµ÷ı¥Acervo Hentaipt-BR"https://acervohentai.com
 Æ
 Amuy%eu.kanade.tachiyomi.extension.pt.amuyÌ
-_https://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.amuy-v1.6.58.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/amuy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B5Ï³ªê§¨ˆûHAmuypt-BR"https://apenasmaisumyaoi.com
+_https://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.amuy-v1.6.58.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/amuy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B5Ï³ªê§¨ˆûHAmuypt-BR"https://apenasmaisumyaoi.com
 ê
 AnimeXNovel,eu.kanade.tachiyomi.extension.pt.animexnovelÜ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.animexnovel-v1.6.19.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/animexnovel/res/mipmap-xhdpi/ic_launcher.png"1.6(£¼21.6.198B;çµãª¶¢Á2AnimeXNovelpt-BR"https://www.animexnovel.com
@@ -3998,9 +3996,9 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-pt.
 ñ
 Apenas Uma FÃ£,eu.kanade.tachiyomi.extension.pt.apenasumafa×
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.apenasumafa-v1.6.15.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png"1.6(Ÿ¼21.6.158BDìÍı—êÛ_Apenas Uma FÃ£pt-BR"!https://apenasuma-fa.blogspot.com
-å
-Argos Comics,eu.kanade.tachiyomi.extension.pt.argoscomicsÜ
-hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.argoscomics-v1.6.61.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/argoscomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B5„«óí·¸ô%Argos Comicspt-BR"https://aniargos.com
+ã
+Argos Comics,eu.kanade.tachiyomi.extension.pt.argoscomicsÚ
+fhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-pt.argoscomics-v1.6.62.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/argoscomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B5„«óí·¸ô%Argos Comicspt-BR"https://aniargos.com
 ß
 
 Argos Scan*eu.kanade.tachiyomi.extension.pt.argosscanÖ
@@ -4008,7 +4006,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-pt.
 Argos Scanpt-BR"https://argoscomics.online
 à
 Arthur Scan+eu.kanade.tachiyomi.extension.pt.arthurscanØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.arthurscan-v1.6.63.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/arthurscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ï¼21.6.638B6¬ü›²Ş¤ãArthur Scanpt-BR"https://arthurscan.xyz
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.arthurscan-v1.6.63.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/arthurscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ï¼21.6.638B6¬ü›²Ş¤ãArthur Scanpt-BR"https://arthurscan.xyz
 â
 
 Astratoons+eu.kanade.tachiyomi.extension.pt.astratoonsÙ
@@ -4022,6 +4020,9 @@ Azuretoonspt-BR"https://azuretoons.com
 ¾
 Bakai&eu.kanade.tachiyomi.extension.pt.bakaiÍ
 _https://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-pt.bakai-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/bakai/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B+¥’İß™¬«÷Bakaipt-BR"https://bakai.org
+ú
+BenDezOmniHero/eu.kanade.tachiyomi.extension.pt.bendezomniheroß
+hhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-pt.bendezomnihero-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/bendezomnihero/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BC€˜Â³Ô´ÏÉCBenDezOmniHeropt"#https://bendezomnihero.blogspot.com
 ö
 Blackout Comics/eu.kanade.tachiyomi.extension.pt.blackoutcomicsß
 hhttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-pt.blackoutcomics-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/blackoutcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B>Å÷çßñùÈ‰DBlackout Comicspt-BR"https://blackoutcomics.com
@@ -4032,33 +4033,33 @@ dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.
 Bladetoonspt-BR"https://bladetoons.com
 ‚
 Boruto Explorer/eu.kanade.tachiyomi.extension.pt.borutoexplorerà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.borutoexplorer-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/borutoexplorer/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578BH”üÙØÃüã)Boruto Explorerpt-BR"$https://leitor.borutoexplorer.com.br
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.borutoexplorer-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/borutoexplorer/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578BH”üÙØÃüã)Boruto Explorerpt-BR"$https://leitor.borutoexplorer.com.br
 ê
 Brasil Hentai-eu.kanade.tachiyomi.extension.pt.brasilhentaiÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-pt.brasilhentai-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/brasilhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B:­ïŸ¨ï’§oBrasil Hentaipt-BR"https://brasilhentai.com
+Ñ
+BRScans(eu.kanade.tachiyomi.extension.pt.brscansÑ
+ahttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-pt.brscans-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/brscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6œ²ôİÊ¶·ÚBRScanspt-BR"https://brscans.vercel.app
 Æ
 BR Yaoi'eu.kanade.tachiyomi.extension.pt.bryaoiÏ
 `https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.bryaoi-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/bryaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.Á¤ï‘°½ ¦0BR Yaoipt-BR"https://bryaoi.com
 í
 CafÃ© com Yaoi,eu.kanade.tachiyomi.extension.pt.cafecomyaoiÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.cafecomyaoi-v1.6.58.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cafecomyaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B=ªËğÖ‡ÜCafÃ© com Yaoipt-BR"https://cafecomyaoi.com.br
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.cafecomyaoi-v1.6.58.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cafecomyaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B=ªËğÖ‡ÜCafÃ© com Yaoipt-BR"https://cafecomyaoi.com.br
 á
 Cerise Scan,eu.kanade.tachiyomi.extension.pt.cerisescansÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-pt.cerisescans-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cerisescans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6·ÀÏÃåì¡ú`Cerise Scanpt-BR"https://loverstoon.net
 á
 
 Coven Scan*eu.kanade.tachiyomi.extension.pt.covenscanÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.covenscan-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/covenscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B;¨à÷Ô½Ğ¤’M
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.covenscan-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/covenscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B;¨à÷Ô½Ğ¤’M
 Coven Scanpt-BR"https://covendasbruxonas.com
 Ô
 	Ego Toons)eu.kanade.tachiyomi.extension.pt.egotoonsÔ
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-pt.egotoons-v1.6.10.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/egotoons/res/mipmap-xhdpi/ic_launcher.png"1.6(š¼21.6.108B2§—ìïşÙ©õA	Ego Toonspt-BR"https://egotoons.com
-Í
-Ero Sect(eu.kanade.tachiyomi.extension.pt.erosectÓ
-chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.erosect-v1.4.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/erosect/res/mipmap-xhdpi/ic_launcher.png"1.4(Á¬21.4.18B/ºà¨¬„¸ƒ°?EroSectpt-BR"https://erosect.xyz
 ì
 Euphoria Scan-eu.kanade.tachiyomi.extension.pt.euphoriascanÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.euphoriascan-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/euphoriascan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B:“‘¢†ÂÓ›òSEuphoria Scanpt-BR"https://euphoriascan.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.euphoriascan-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/euphoriascan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B:“‘¢†ÂÓ›òSEuphoria Scanpt-BR"https://euphoriascan.com
 ğ
 ExHentai.net.br.eu.kanade.tachiyomi.extension.pt.exhentainetbrİ
 ghttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.exhentainetbr-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/exhentainetbr/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;Ó©Óë§‡®ÅExHentai.net.brpt-BR"https://exhentai.net.br
@@ -4067,27 +4068,28 @@ ghttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.
 ghttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-pt.fenixproject-v1.6.59.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fenixproject/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B>™ •Æ±ˆízFenix Projectpt-BR"https://fenixproject.website
 è
 Fleur Blanche-eu.kanade.tachiyomi.extension.pt.fleurblancheÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.fleurblanche-v1.6.60.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fleurblanche/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B6Ò©Âíî¶‘&Fleur Blanchept-BR"https://fbsquadx.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.fleurblanche-v1.6.60.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fleurblanche/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B6Ò©Âíî¶‘&Fleur Blanchept-BR"https://fbsquadx.com
+Í
+Fliptru(eu.kanade.tachiyomi.extension.pt.fliptruÑ
+ahttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-pt.fliptru-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fliptru/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2Ş·ú÷Ûğ8Fliptrupt-BR"https://fliptru.com.br
 í
 FlowerManga.net,eu.kanade.tachiyomi.extension.pt.flowermangaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.flowermanga-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/flowermanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B<õ®Ø¾éıÉÌ!FlowerManga.netpt-BR"https://flowermangas.net
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.flowermanga-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/flowermanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B<õ®Ø¾éıÉÌ!FlowerManga.netpt-BR"https://flowermangas.net
 û
 GALAX Scans/eu.kanade.tachiyomi.extension.pt.galaxscanlatorâ
 khttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.galaxscanlator-v1.6.16.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/galaxscanlator/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168BC¢ü†¥Â„‰MGALAX Scanspt-BR"#https://galaxscanlator.blogspot.com
 ä
 Geass Comics,eu.kanade.tachiyomi.extension.pt.geasscomicsÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.geasscomics-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/geasscomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8İğåš§äålGeass Comicspt-BR"https://geasscomics.xyz
-Ú
-
-Ghost Scan*eu.kanade.tachiyomi.extension.pt.ghostscanÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.ghostscan-v1.6.57.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ghostscan/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B4¡ü¹°Ø¾¿ì
-Ghost Scanpt-BR"https://ghostscan.xyz
 ÷
 Hanmokku Scan-eu.kanade.tachiyomi.extension.pt.hanmokkuscanŞ
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.hanmokkuscan-v1.6.14.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hanmokkuscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148BCşÚİ‘×²Éù Hanmokku Scanpt-BR"!https://hanmokkuscan.blogspot.com
 ç
 Hentai Comics-eu.kanade.tachiyomi.extension.pt.hentaicomicsÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-pt.hentaicomics-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaicomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7±ŒŠ«£šÿßNHentai Comicspt"https://hentaicomics.biz
+æ
+Hentai Fusion-eu.kanade.tachiyomi.extension.pt.hentaifusionÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-pt.hentaifusion-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaifusion/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6ú½ÈÑŒúÆ¼LHentai Fusionpt"https://hentaifusion.me
 Õ
 
 Hentai Kai*eu.kanade.tachiyomi.extension.pt.hentaikaiÕ
@@ -4096,43 +4098,46 @@ Hentai Kaipt"https://hentaikai.com
 è
 Hentai Season-eu.kanade.tachiyomi.extension.pt.hentaiseasonÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.hentaiseason-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaiseason/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8´¬ÑîÁHentai Seasonpt-BR"https://hentaiseason.com
+ã
+Hentai Teca+eu.kanade.tachiyomi.extension.pt.hentaitecaØ
+ehttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-pt.hentaiteca-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaiteca/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9åÿó­Ô³ÊÛOHentai Tecapt-BR"https://hentaiteca.online
 å
 Hentai Tokyo,eu.kanade.tachiyomi.extension.pt.hentaitokyoÚ
 ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.hentaitokyo-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/gattsu/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8óª†ŒÜÖ†ıaHentai Tokyopt-BR"https://hentaitokyo.net
 Ù
 	HipercooL*eu.kanade.tachiyomi.extension.pt.hipercoolÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-pt.hipercool-v1.6.63.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hipercool/res/mipmap-xhdpi/ic_launcher.png"1.6(Ï¼21.6.638B4åéÌ®±…ï‚!	Hipercoolpt-BR"https://lerhentais.com
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-pt.hipercool-v1.6.63.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hipercool/res/mipmap-xhdpi/ic_launcher.png"1.6(Ï¼21.6.638B4åéÌ®±…ï‚!	Hipercoolpt-BR"https://lerhentais.com
 Ö
 	Hipertoon*eu.kanade.tachiyomi.extension.pt.hipertoonÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-pt.hipertoon-v1.6.9.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hipertoon/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B3ï‹Ê¤å½ÎÈ	Hipertoonpt-BR"https://hipertoon.com
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-pt.hipertoon-v1.6.9.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hipertoon/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B3ï‹Ê¤å½ÎÈ	Hipertoonpt-BR"https://hipertoon.com
 à
 Hora Hentai+eu.kanade.tachiyomi.extension.pt.horahentaiÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.horahentai-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/horahentai/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B6—ÏŸ‚©Î®ÃHora Hentaipt-BR"https://horahentai.com
 ú
 Hot Cabaret Scan/eu.kanade.tachiyomi.extension.pt.hotcabaretscanà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.hotcabaretscan-v1.6.56.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hotcabaretscan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B?â¿ˆªİªîèyHot Cabaret Scanpt-BR"https://hotcabaretscan.com
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.hotcabaretscan-v1.6.56.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hotcabaretscan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B?â¿ˆªİªîèyHot Cabaret Scanpt-BR"https://hotcabaretscan.com
 Ç
 HQ Now!&eu.kanade.tachiyomi.extension.pt.hqnowÍ
 _https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.hqnow-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hqnow/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2²¬‹êóƒöàHQ Now!pt-BR"https://www.hq-now.com
 ê
 Hunters Scans-eu.kanade.tachiyomi.extension.pt.huntersscansÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.huntersscans-v1.6.66.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/huntersscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ò¼21.6.668B8æôºÙèË˜ºeHunters Scanpt-BR"https://readhunters.xyz
+ghttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-pt.huntersscans-v1.6.67.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/huntersscans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ó¼21.6.678B8æôºÙèË˜ºeHunters Scanpt-BR"https://readhunters.xyz
 ¢
 Sagrado ImpÃ©rio da Britannia3eu.kanade.tachiyomi.extension.pt.imperiodabritanniaç
 lhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.imperiodabritannia-v1.6.0.apkwhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/imperiodabritannia/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BP§Ä€›¦‰fSagrado ImpÃ©rio da Britanniapt-BR"https://imperiodabritannia.net
 Æ
 Inkapk'eu.kanade.tachiyomi.extension.pt.inkapkĞ
-ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.inkapk-v1.6.58.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/inkapk/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B-è›ùß£È¡ÄvInkapkpt-BR"https://inkapk.net
+ahttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.inkapk-v1.6.58.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/inkapk/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B-è›ùß£È¡ÄvInkapkpt-BR"https://inkapk.net
 ˆ
 Kami Sama Explorer1eu.kanade.tachiyomi.extension.pt.kamisamaexplorerä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.kamisamaexplorer-v1.6.58.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kamisamaexplorer/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BEì£¥ïÜœœ»HKami Sama Explorerpt-BR"https://leitor.kamisama.com.br
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.kamisamaexplorer-v1.6.58.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kamisamaexplorer/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BEì£¥ïÜœœ»HKami Sama Explorerpt-BR"https://leitor.kamisama.com.br
 ä
 KivaraToons,eu.kanade.tachiyomi.extension.pt.kivaratoonsÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.kivaratoons-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kivaratoons/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B7œ«âİÛ¢›ˆ"KivaraToonspt-BR"https://kivaratoons.com
-à
+Ü
 
-KuroMangas+eu.kanade.tachiyomi.extension.pt.kuromangasÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.kuromangas-v1.4.12.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png"1.4(Ì¬21.4.128B5•ğõı‹Ú‚
+KuroMangas+eu.kanade.tachiyomi.extension.pt.kuromangas×
+dhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-pt.kuromangas-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5•ğõı‹Ú‚
 KuroMangaspt-BR"https://kuromangas.com
 ú
 Leitor de Mangas/eu.kanade.tachiyomi.extension.pt.leitordemangasà
@@ -4145,10 +4150,10 @@ fhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.ler999-v1.6.15.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ler999/res/mipmap-xhdpi/ic_launcher.png"1.6(Ÿ¼21.6.158B6³å½öÆÉ‰Ler 999pt-BR"https://ler999.blogspot.com
 ë
 Little Tyrant-eu.kanade.tachiyomi.extension.pt.littletyrantÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.littletyrant-v1.6.67.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png"1.6(Ó¼21.6.678B9Ï–¹¡¹àïçCLittle Tyrantpt-BR"https://tiraninha.world
+ghttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-pt.littletyrant-v1.6.68.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png"1.6(Ô¼21.6.688B9Ï–¹¡¹àïçCLittle Tyrantpt-BR"https://tiraninha.world
 Ş
 Lycan Toons+eu.kanade.tachiyomi.extension.pt.lycantoons×
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-pt.lycantoons-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6óƒìÕ¼®Ã~Lycan Toonspt-BR"https://lycantoons.com
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-pt.lycantoons-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/lycantoons/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6óƒìÕ¼®Ã~Lycan Toonspt-BR"https://lycantoons.com
 Õ
 	Maid Scan)eu.kanade.tachiyomi.extension.pt.maidscanÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.maidscan-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/maidscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B5«Æ™„â…¥èi	Maid Scanpt-BR"https://empreguetes.wtf
@@ -4170,7 +4175,7 @@ hhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.mangalivreorg-v1.6.7.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B9ş”Ééöä€Ş9MangaLivre.orgpt-BR"https://mangalivre.org
 ë
 Manga Livre.to-eu.kanade.tachiyomi.extension.pt.mangalivretoÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.mangalivreto-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreto/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8Ò€¤³íäåManga Livre.topt-BR"https://mangalivre.to
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.mangalivreto-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreto/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8Ò€¤³íäåManga Livre.topt-BR"https://mangalivre.to
 Ò
 	Manga NXY)eu.kanade.tachiyomi.extension.pt.manganyxÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-pt.manganyx-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/manganyx/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B2Ç¾¤ƒíîÿùL	Manga NXYpt-BR"https://manganyx.com
@@ -4190,7 +4195,7 @@ Manga Stoppt-BR"https://mangastop.net
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.mangeek-v1.6.1.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangeek/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/²©Ì»ä®¥†NManGeekpt-BR"https://mangeek.app
 Ş
 Mango Toons+eu.kanade.tachiyomi.extension.pt.mangotoons×
-dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.mangotoons-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangotoons/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6ÁÑÅääñµá|Mango Toonspt-BR"https://mangotoons.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.mangotoons-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangotoons/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6ÁÑÅääñµá|Mango Toonspt-BR"https://mangotoons.com
 Ö
 	Manhastro*eu.kanade.tachiyomi.extension.pt.manhastroÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.manhastro-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/manhastro/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3ê°ıÕ»’ÊG	Manhastropt-BR"https://manhastro.net
@@ -4199,13 +4204,13 @@ chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.
 ghttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-pt.mediocretoons-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mediocretoons/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B;‡ĞäóÈ›‚^Mediocre Toonspt-BR"https://mediocrescan.com
 ç
 MiniTwo Scan,eu.kanade.tachiyomi.extension.pt.minitwoscanÛ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.minitwoscan-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8 •«ì™õµ«|MiniTwo Scanpt-BR"https://minitwoscan.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.minitwoscan-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8 •«ì™õµ«|MiniTwo Scanpt-BR"https://minitwoscan.com
 İ
 	Monte Tai)eu.kanade.tachiyomi.extension.pt.montetaiÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.montetai-v1.6.59.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/montetai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B;ãâ×ƒéĞŒ‰g	Monte Taipt-BR"https://montetaiscanlator.xyz
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.montetai-v1.6.59.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/montetai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B;ãâ×ƒéĞŒ‰g	Monte Taipt-BR"https://montetaiscanlator.xyz
 Ô
 	MR Tenzus)eu.kanade.tachiyomi.extension.pt.mrtenzusÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.mrtenzus-v1.6.56.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mrtenzus/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2ğ²Ñšâ‡´¥;	MR Tenzuspt-BR"https://mrtenzus.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.mrtenzus-v1.6.56.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mrtenzus/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2ğ²Ñšâ‡´¥;	MR Tenzuspt-BR"https://mrtenzus.com
 „
 Mugiwaras Oficial1eu.kanade.tachiyomi.extension.pt.mugiwarasoficialä
 khttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-pt.mugiwarasoficial-v1.6.59.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mugiwarasoficial/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598BBÜ—Éñƒ¤İ”MMugiwaras Oficialpt-BR"https://mugiwarasoficial.org
@@ -4217,21 +4222,21 @@ ehttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.
 ehttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.mundohentai-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mundohentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B?Œº’ÎğŞâúMundo Hentaipt-BR"https://mundohentaioficial.com
 ì
 Nebulosa Scan-eu.kanade.tachiyomi.extension.pt.nebulosascanÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.nebulosascan-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nebulosascan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:óìµ¯ÆÅÿÉNebulosa Scanpt-BR"https://nebulosascan.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.nebulosascan-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nebulosascan/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:óìµ¯ÆÅÿÉNebulosa Scanpt-BR"https://nebulosascan.com
 ê
 Nexus MangÃ¡s,eu.kanade.tachiyomi.extension.pt.nexusmangasÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/ac40914/tachiyomi-pt.nexusmangas-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nexusmangas/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B=Ø§Ôïò£ŠĞ2Nexus MangÃ¡spt-BR"https://www.nexusmangas.com
 Ü
 
 Ninja Scan*eu.kanade.tachiyomi.extension.pt.ninjascanÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.ninjascan-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ninjascan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B6ı¥‰ÚıÃğù<
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.ninjascan-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ninjascan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B6ı¥‰ÚıÃğù<
 Ninja Scanpt-BR"https://ninjacomics.xyz
 ğ
 Nocturne Summer/eu.kanade.tachiyomi.extension.pt.nocturnesummerà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.nocturnesummer-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nocturnesummer/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6ëéã‚¬¥¬LNocturne Summerpt-BR"https://nocfsb.com
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.nocturnesummer-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nocturnesummer/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B6ëéã‚¬¥¬LNocturne Summerpt-BR"https://nocfsb.com
 é
 Hanami Heaven,eu.kanade.tachiyomi.extension.pt.noindexscanÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.noindexscan-v1.6.60.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/noindexscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B:‰Â‡•¬ØÔÚHanami Heavenpt-BR"https://hanamiheaven.org
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.noindexscan-v1.6.60.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/noindexscan/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B:‰Â‡•¬ØÔÚHanami Heavenpt-BR"https://hanamiheaven.org
 Ø
 	OneReader*eu.kanade.tachiyomi.extension.pt.onereader×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.onereader-v1.6.2.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/onereader/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B3¢ÇŞÅØûËàE	OneReaderpt-BR"https://onereader.net
@@ -4245,7 +4250,7 @@ Osaka Scanpt-BR"https://www.osakascan.com
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.pinkrosa-v1.6.16.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pinkrosa/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168B?“Š ŸğË­u	Pink Rosapt-BR"!https://scanpinkrosa.blogspot.com
 õ
 Pink Sea Unicorn/eu.kanade.tachiyomi.extension.pt.pinkseaunicornà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.pinkseaunicorn-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pinkseaunicorn/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B:¤´—ñÆ³ì¡#Pink Sea Unicornpt-BR"https://psunicorn.com
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.pinkseaunicorn-v1.6.57.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pinkseaunicorn/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B:¤´—ñÆ³ì¡#Pink Sea Unicornpt-BR"https://psunicorn.com
 ê
 PizzariaScan-eu.kanade.tachiyomi.extension.pt.pizzariascanÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-pt.pizzariascan-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pizzariascan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;­…¯×±¤ŸĞ.PizzariaScanpt-BR"https://pizzariacomics.com
@@ -4257,19 +4262,19 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-p
 hhttps://github.com/keiyoushi/extensions/releases/download/ac40914/tachiyomi-pt.pointzerotoons-v1.6.3.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B<éş‰ûÚäÕPoint Zero Toonspt-BR"https://kitsuneyako.com
 à
 Portal Yaoi+eu.kanade.tachiyomi.extension.pt.portalyaoiØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.portalyaoi-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/portalyaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B6öÍèÈŒíŸ»-Portal Yaoipt-BR"https://portalyaoi.com
-İ
-	Lura Toon+eu.kanade.tachiyomi.extension.pt.randomscanÚ
-ghttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-pt.randomscan-v1.4.59.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/randomscan/res/mipmap-xhdpi/ic_launcher.png"1.4(û¬21.4.598B3€ï‰‰ã£¿°	Lura Toonpt-BR"https://luratoons.net
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.portalyaoi-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/portalyaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B6öÍèÈŒíŸ»-Portal Yaoipt-BR"https://portalyaoi.com
+Ù
+	Lura Toon+eu.kanade.tachiyomi.extension.pt.randomscan×
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-pt.randomscan-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/randomscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B3€ï‰‰ã£¿°	Lura Toonpt-BR"https://luratoons.net
 Õ
 NoxManga)eu.kanade.tachiyomi.extension.pt.remangasÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.remangas-v1.6.54.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/remangas/res/mipmap-xhdpi/ic_launcher.png"1.6(Æ¼21.6.548B2ğÆŸ“äà«ÈgNoxMangapt-BR"https://noxmangas.org
 “
 Revistas e Quadrinhos4eu.kanade.tachiyomi.extension.pt.revistasequadrinhosé
 mhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.revistasequadrinhos-v1.6.0.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/revistasequadrinhos/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BFæ–„§ÅÈá˜Revistas e Quadrinhospt"https://revistasequadrinhos.com
-ğ
-RF Dragon Scan-eu.kanade.tachiyomi.extension.pt.rfdragonscanŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.rfdragonscan-v1.4.13.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/rfdragonscan/res/mipmap-xhdpi/ic_launcher.png"1.4(Í¬21.4.138B;Á‹Œ¨èà»0RF Dragon Scanpt-BR"https://rfdragonscan.net
+ì
+RF Dragon Scan-eu.kanade.tachiyomi.extension.pt.rfdragonscanÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-pt.rfdragonscan-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/rfdragonscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B;Á‹Œ¨èà»0RF Dragon Scanpt-BR"https://rfdragonscan.net
 Ü
 
 Risentoons+eu.kanade.tachiyomi.extension.pt.risentoons×
@@ -4284,9 +4289,6 @@ dhttps://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-pt.
 ä
 Shirai Scans,eu.kanade.tachiyomi.extension.pt.shiraiscansÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-pt.shiraiscans-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/shiraiscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8Ä¶±´Æ¿ÃtShirai Scanspt-BR"https://shiraixis.space
-
-SlimeRead (unoriginal)4eu.kanade.tachiyomi.extension.pt.slimereadunoriginalë
-ohttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-pt.slimereadunoriginal-v1.6.1.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/slimereadunoriginal/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B@û û®à¦ŒASlimeRead (unoriginal)pt-BR"https://slimeread.app
 ä
 Nexus Toons-eu.kanade.tachiyomi.extension.pt.spectralscanÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-pt.spectralscan-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/spectralscan/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6“‚úø¡Š¹ÏINexus Toonspt-BR"https://nexustoons.com
@@ -4307,7 +4309,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.
 _https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.taiyo-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/taiyo/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,·¢êã—„ÃfTaiyÅpt-BR"https://taiyo.moe
 ì
 Tankou Hentai-eu.kanade.tachiyomi.extension.pt.tankouhentaiÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.tankouhentai-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:çÀƒĞ¢×Tankou Hentaipt-BR"https://tankouhentai.com
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.tankouhentai-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:çÀƒĞ¢×Tankou Hentaipt-BR"https://tankouhentai.com
 Ì
 Tao Sect(eu.kanade.tachiyomi.extension.pt.taosectÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.taosect-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/taosect/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0Ë¿¿œûã“ñ
@@ -4318,7 +4320,7 @@ ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-p
 Ú
 
 Tia Manhwa*eu.kanade.tachiyomi.extension.pt.tiamanhwaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.tiamanhwa-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/tiamanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B4¯çÑª‚µú¹z
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.tiamanhwa-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/tiamanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B4¯çÑª‚µú¹z
 Tia Manhwapt-BR"https://tiamanhwa.com
 É
 ToonBr'eu.kanade.tachiyomi.extension.pt.toonbrÏ
@@ -4340,19 +4342,16 @@ chttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.
 bhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-pt.verdinha-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/verdinha/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B1ö—ÅÒİ²ÿª/Verdinhapt-BR"https://verdinha.wtf
 Í
 XXX Yaoi(eu.kanade.tachiyomi.extension.pt.xxxyaoiÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.xxxyaoi-v1.6.59.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B/‘şåŞ¦ëÈ"XXX Yaoipt-BR"https://3xyaoi.com
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-pt.xxxyaoi-v1.6.60.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B/‘şåŞ¦ëÈ"XXX Yaoipt-BR"https://3xyaoi.com
 î
 Yaoi Fan Club,eu.kanade.tachiyomi.extension.pt.yaoifanclubÜ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.yaoifanclub-v1.6.15.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yaoifanclub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ÿ¼21.6.158B=‚ÚõõÔÆ‹2Yaoi Fan Clubpt-BR"https://www.yaoifanclub.com
 à
 Yomu MangÃ¡s+eu.kanade.tachiyomi.extension.pt.yomumangas×
 dhttps://github.com/keiyoushi/extensions/releases/download/a0e93c0/tachiyomi-pt.yomumangas-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yomumangas/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7Ö†Ûš£èÛYomu MangÃ¡spt-BR"https://yomumangas.com
-ô
-Yugen MangÃ¡s,eu.kanade.tachiyomi.extension.pt.yugenmangasÜ
-hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-pt.yugenmangas-v1.4.52.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yugenmangas/res/mipmap-xhdpi/ic_launcher.png"1.4(ô¬21.4.528BC›¨ƒı¶˜¸Â{Yugen MangÃ¡spt-BR"!https://yugenmangasbr.dxtg.online
 Ü
 Yuri on Air*eu.kanade.tachiyomi.extension.pt.yuriversoÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-pt.yuriverso-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yuriverso/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B5¢êÈº…åï>Yuri on Airpt-BR"https://yurionair.top
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-pt.yuriverso-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yuriverso/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B5¢êÈº…åï>Yuri on Airpt-BR"https://yurionair.top
 Ê
 ZettaHQ(eu.kanade.tachiyomi.extension.pt.zettahqÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-pt.zettahq-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/zettahq/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ñ½ÃÖÂÎ»Î@ZettaHQpt-BR"https://zettahq.com
@@ -4369,7 +4368,7 @@ fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-r
 AstraMangaru"https://astramanga.org
 ¾
 Com-X%eu.kanade.tachiyomi.extension.ru.comxÌ
-_https://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ru.comx-v1.6.42.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/comx/res/mipmap-xhdpi/ic_launcher.png"1.6(º¼21.6.428B,»İ˜ûâĞ•»Com-Xru"https://ru.com-x.life
+_https://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ru.comx-v1.6.42.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/comx/res/mipmap-xhdpi/ic_launcher.png"1.6(º¼21.6.428B,»İ˜ûâĞ•»Com-Xru"https://ru.com-x.life
 ¹
 Desu%eu.kanade.tachiyomi.extension.ru.desuÎ
 ahttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ru.desu-v1.6.34.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/desu/res/mipmap-xhdpi/ic_launcher.png"1.6(²¼21.6.348B&áµ’Ñì¢ôá\Desuru"https://desu.uno
@@ -4378,7 +4377,7 @@ ahttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-r
 ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ru.henchan-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/henchan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4Œéõ‚±Å²LHenChanru"https://xxl.hentaichan.live
 Ò
 	HentaiLib*eu.kanade.tachiyomi.extension.ru.hentailibÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ru.hentailib-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/hentailib/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ËÇü±üØŸ–Y	HentaiLibru"https://hentailib.me
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ru.hentailib-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/hentailib/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B/ËÇü±üØŸ–Y	HentaiLibru"https://hentailib.me
 Í
 InkStory)eu.kanade.tachiyomi.extension.ru.inkstoryÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/60bc15e/tachiyomi-ru.inkstory-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/inkstory/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B.†ú¹ÂêËInkStoryru"https://inkstory.net
@@ -4393,7 +4392,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ru.
 chttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-ru.mangahub-v1.6.24.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangahub/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B-Ğ˜£ÁêÉ…¯wMangahubru"https://mangahub.ru
 Ì
 MangaLib)eu.kanade.tachiyomi.extension.ru.mangalibÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ru.mangalib-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangalib/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Õ¡ï¯³çTMangaLibru"https://mangalib.me
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ru.mangalib-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangalib/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Õ¡ï¯³çTMangaLibru"https://mangalib.me
 Ï
 MangaMen)eu.kanade.tachiyomi.extension.ru.mangamenÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-ru.mangamen-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangamen/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B.ÙÚ«•ñí•­MangaMenru"https://mangamen.com
@@ -4457,31 +4456,31 @@ ghttps://github.com/keiyoushi/extensions/releases/download/6512a2e/tachiyomi-ru.
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-ru.yaoichan-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/yaoichan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.³‚‹­¹‰´"YaoiChanru"https://yaoi-chan.me
 Ê
 SlashLib(eu.kanade.tachiyomi.extension.ru.yaoilibÒ
-ahttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-ru.yaoilib-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/slashlib/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Ç«êïµò%SlashLibru"https://slashlib.me
+ahttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-ru.yaoilib-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/slashlib/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B-Ç«êïµò%SlashLibru"https://slashlib.me
 Ü
 Bully Manga+eu.kanade.tachiyomi.extension.th.bullymanga×
 dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-th.bullymanga-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/bullymanga/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4ìîøÏ¬‚ÜBully Mangath"https://bully-manga.com
 Ä
 Cat300'eu.kanade.tachiyomi.extension.th.cat300Ğ
-ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.cat300-v1.6.58.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/cat300/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B+ıÆçã¦‹¨…TCat300th"https://cat-300.com
+ahttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.cat300-v1.6.58.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/cat300/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B+ıÆçã¦‹¨…TCat300th"https://cat-300.com
 Ù
 	Doodmanga*eu.kanade.tachiyomi.extension.th.doodmangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.doodmanga-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doodmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Êšñ¨€ßšı<	Doodmangath"https://www.doodmanga.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.doodmanga-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doodmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4Êšñ¨€ßšı<	Doodmangath"https://www.doodmanga.com
 Í
 Doujin69)eu.kanade.tachiyomi.extension.th.doujin69Ó
 bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.doujin69-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujin69/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.ÁÀŠà÷Úä€Doujin69th"https://doujin69.com
 Ò
 	Doujin-Lc)eu.kanade.tachiyomi.extension.th.doujinlcÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.doujinlc-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinlc/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0ßó±üÕ†ÕÂ<	Doujin-Lcth"https://doujin-lc.net
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.doujinlc-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinlc/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0ßó±üÕ†ÕÂ<	Doujin-Lcth"https://doujin-lc.net
 Û
 Doujin Moon+eu.kanade.tachiyomi.extension.th.doujinmoon×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.doujinmoon-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinmoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3òêºÒ¥ÄêDoujin Moonth"https://doujinmoon.com
 Ò
 	Doujinx-H)eu.kanade.tachiyomi.extension.th.doujinxhÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.doujinxh-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinxh/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0½Ï·ÊÓÒ„4	Doujinx-Hth"https://doujinx-h.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.doujinxh-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinxh/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0½Ï·ÊÓÒ„4	Doujinx-Hth"https://doujinx-h.com
 Ï
 DoujinZa)eu.kanade.tachiyomi.extension.th.doujinzaÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.doujinza-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinza/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.‹‰ß–œ¸ÇÇ3DoujinZath"https://doujinza.com
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.doujinza-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinza/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.‹‰ß–œ¸ÇÇ3DoujinZath"https://doujinza.com
 â
 Ecchi-Doujin,eu.kanade.tachiyomi.extension.th.ecchidoujinÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.ecchidoujin-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/ecchidoujin/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6‚ê›½®½¾ÛdEcchi-Doujinth"https://ecchi-doujin.com
@@ -4511,6 +4510,9 @@ HentaiThaith"https://hentaithai.com
 ê
 HentaiThai.net.eu.kanade.tachiyomi.extension.th.hentaithainetİ
 ghttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-th.hentaithainet-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/hentaithainet/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6€óºé‹Üü˜:HentaiThai.netth"https://hentaithai.net
+Ô
+	Inu Manga)eu.kanade.tachiyomi.extension.th.inumangaÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-th.inumanga-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/inumanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4…ÃÑ°ÓéÖ«s	Inu Mangath"https://www.inu-manga.net
 Ù
 
 Makimaaaaa+eu.kanade.tachiyomi.extension.th.makimaaaaa×
@@ -4521,13 +4523,13 @@ Makimaaaaath"https://makimaaaaa.com
 bhttps://github.com/keiyoushi/extensions/releases/download/e40e1b7/tachiyomi-th.manga168-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manga168/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B/ôúûàªµsManga168th"https://manga168x.com
 ı
 MangaIsekaiThai0eu.kanade.tachiyomi.extension.th.mangaisekaithaiâ
-jhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.mangaisekaithai-v1.6.56.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangaisekaithai/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B@‚Î…Ë±¶†€MangaIsekaiThaith"https://www.mangaisekaithai.net
+jhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.mangaisekaithai-v1.6.56.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangaisekaithai/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B@‚Î…Ë±¶†€MangaIsekaiThaith"https://www.mangaisekaithai.net
 á
 	MangaKimi*eu.kanade.tachiyomi.extension.th.mangakimiß
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.mangakimi-v1.6.3.apkxhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B4ğ‘¨‹•ÚÆü	MangaKimith"https://www.mangakimi.com
 Ì
 Manga-Lc(eu.kanade.tachiyomi.extension.th.mangalcÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.mangalc-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangalc/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.Û¶®Ò×¢ÂéMManga-Lcth"https://manga-lc.net
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.mangalc-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangalc/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.Û¶®Ò×¢ÂéMManga-Lcth"https://manga-lc.net
 Ö
 
 Manga-Neko*eu.kanade.tachiyomi.extension.th.manganekoÕ
@@ -4538,15 +4540,15 @@ Manga-Nekoth"https://manga-neko.com
 chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.mangastep-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangastep/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0š½´˜ú±ã@	Mangastepth"https://mangastep.com
 Ù
 	ManhuaBug*eu.kanade.tachiyomi.extension.th.manhuabugÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.manhuabug-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuabug/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4¡¹ÿ ‰’Îµ	ManhuaBugth"https://www.manhuabug.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.manhuabug-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuabug/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B4¡¹ÿ ‰’Îµ	ManhuaBugth"https://www.manhuabug.com
 ß
 
 ManhuaThai+eu.kanade.tachiyomi.extension.th.manhuathaiØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.manhuathai-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuathai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6ĞºÙ¤¤±ûîm
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.manhuathai-v1.6.55.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuathai/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B6ĞºÙ¤¤±ûîm
 ManhuaThaith"https://www.manhuathai.com
 ñ
 ManhwaBreakup.eu.kanade.tachiyomi.extension.th.manhwabreakupŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-th.manhwabreakup-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhwabreakup/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<˜á†œÄÅ’ËBManhwaBreakupth"https://www.manhwabreakup.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-th.manhwabreakup-v1.6.55.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhwabreakup/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B<˜á†œÄÅ’ËBManhwaBreakupth"https://www.manhwabreakup.com
 Ú
 
 MikuDoujin+eu.kanade.tachiyomi.extension.th.mikudoujin×
@@ -4593,39 +4595,41 @@ dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.
 æ
 Tanuki-Manga,eu.kanade.tachiyomi.extension.th.tanukimangaÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.tanukimanga-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/tanukimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B:Ö·È‹üíTanuki-Mangath"https://www.tanuki-manga.net
+×
+	ThaiManga*eu.kanade.tachiyomi.extension.th.thaimangaÕ
+chttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-th.thaimanga-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/thaimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4½ñµå¡»æ£U	ThaiMangath"https://www.thaimanga.net
 è
 ToomTam-Manga-eu.kanade.tachiyomi.extension.th.toomtammangaÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-th.toomtammanga-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/toomtammanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8¥şóÚ˜á…¤NToomTam-Mangath"https://toomtam-manga.com
+Ù
+
+ToonHunter+eu.kanade.tachiyomi.extension.th.toonhunter×
+dhttps://github.com/keiyoushi/extensions/releases/download/2b9ffe5/tachiyomi-th.toonhunter-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/toonhunter/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2„ğ”Î…²¬L
+ToonHunterth"https://toonhunter.com
 é
 Afrodit Scans-eu.kanade.tachiyomi.extension.tr.afroditscansÜ
 ghttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.afroditscans-v1.6.37.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/afroditscans/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B7âïä¢¼¶å“CAfrodit Scanstr"https://afroditscans.com
-ë
-Alucard Scans-eu.kanade.tachiyomi.extension.tr.alucardscansŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.alucardscans-v1.4.31.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/alucardscans/res/mipmap-xhdpi/ic_launcher.png"1.4(ß¬21.4.318B7Ó«®„˜ƒ“å7Alucard Scanstr"https://alucardscans.com
 î
 Amanga Planet-eu.kanade.tachiyomi.extension.tr.amangaplanetÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.amangaplanet-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/amangaplanet/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B>ŸùÆ¿ˆ§ìÖGAmanga Planettr"https://www.amangaplanet.com.tr
 É
 Anikiga(eu.kanade.tachiyomi.extension.tr.anikigaÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.anikiga-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/anikiga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,ºÏÓ×âÔÑ—oAnikigatr"https://anikiga.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.anikiga-v1.6.55.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/anikiga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B,ºÏÓ×âÔÑ—oAnikigatr"https://anikiga.com
 Ù
 	ArazNovel*eu.kanade.tachiyomi.extension.tr.araznovelÕ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-tr.araznovel-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/araznovel/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6ÜÇ¬”‰¼“¿X	ArazNoveltr"https://manga.araznovel.com
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-tr.araznovel-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/araznovel/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6ÜÇ¬”‰¼“¿X	ArazNoveltr"https://manga.araznovel.com
 ç
 Arcura Fansub-eu.kanade.tachiyomi.extension.tr.arcurafansubÛ
 fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.arcurafansub-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/arcurafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7şİÏ´Ä‚–¸BArcura Fansubtr"https://arcurafansub.com
-ì
-Asura Scans TR-eu.kanade.tachiyomi.extension.tr.asurascanstrÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.asurascanstr-v1.6.55.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/asurascanstr/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B9éş«Î±¥ãµAsura Scans TRtr"https://asurascans.com.tr
 ã
 Ã‡aprazManga,eu.kanade.tachiyomi.extension.tr.caprazmangaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.caprazmanga-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/caprazmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5Ëæ¹°©˜Ä¤eÃ‡aprazMangatr"https://caprazmanga.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.caprazmanga-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/caprazmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5Ëæ¹°©˜Ä¤eÃ‡aprazMangatr"https://caprazmanga.com
 í
 DiamondFansub.eu.kanade.tachiyomi.extension.tr.diamondfansubŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.diamondfansub-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/diamondfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8šáŸÓÛ©¼<DiamondFansubtr"https://diamondfansub.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.diamondfansub-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/diamondfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8šáŸÓÛ©¼<DiamondFansubtr"https://diamondfansub.com
 æ
 Domal Fansub,eu.kanade.tachiyomi.extension.tr.domalfansubÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.domalfansub-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/domalfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B8¢–§±í³İŠDomal Fansubtr"https://dom4lfansub.online
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.domalfansub-v1.6.59.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/domalfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B8¢–§±í³İŠDomal Fansubtr"https://dom4lfansub.online
 Û
 Elder Manga+eu.kanade.tachiyomi.extension.tr.eldermanga×
 dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.eldermanga-v1.6.9.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/eldermanga/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B3İÙèÏşÜ¥KElder Mangatr"https://eldermanga.com
@@ -4638,25 +4642,22 @@ bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.
 Í
 Gaiatoon)eu.kanade.tachiyomi.extension.tr.gaiatoonÓ
 bhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.gaiatoon-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/gaiatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B.§Ìè´û‘Õ™fGaiatoontr"https://gaiatoon.com
-ã
-Garcia Manga,eu.kanade.tachiyomi.extension.tr.garciamangaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.garciamanga-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/garciamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5ó¤ç‹ºÓ—ïDGarcia Mangatr"https://garciamanga.com
 Ø
 GhosToon,eu.kanade.tachiyomi.extension.tr.ghosthentaiÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.ghosthentai-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ghosthentai/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B.ŒäßæşãİpGhosToontr"https://ghostoon.com
-ï
-GÃ¶lge BahÃ§esi-eu.kanade.tachiyomi.extension.tr.golgebahcesiŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.golgebahcesi-v1.4.33.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/golgebahcesi/res/mipmap-xhdpi/ic_launcher.png"1.4(á¬21.4.338B9ÑÕ×œÓ÷¶¤gGÃ¶lge BahÃ§esitr"https://golgebahcesi.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.ghosthentai-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ghosthentai/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B.ŒäßæşãİpGhosToontr"https://ghostoon.com
 ë
-Hattori Manga-eu.kanade.tachiyomi.extension.tr.hattorimangaŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-tr.hattorimanga-v1.4.44.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hattorimanga/res/mipmap-xhdpi/ic_launcher.png"1.4(ì¬21.4.448B7îÖÅ¥¤˜ñìHattori Mangatr"https://hattorimanga.net
+GÃ¶lge BahÃ§esi-eu.kanade.tachiyomi.extension.tr.golgebahcesiÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-tr.golgebahcesi-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/golgebahcesi/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B9ÑÕ×œÓ÷¶¤gGÃ¶lge BahÃ§esitr"https://golgebahcesi.com
+ç
+Hattori Manga-eu.kanade.tachiyomi.extension.tr.hattorimangaÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.hattorimanga-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hattorimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7îÖÅ¥¤˜ñìHattori Mangatr"https://hattorimanga.net
 é
 Hattori Scans-eu.kanade.tachiyomi.extension.tr.hattoriscansİ
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.hattoriscans-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hattoriscans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B7­”äÂÈ×Îú[Hattori Scanstr"https://hattoriscans.com
 Ş
 
 Hayalistic+eu.kanade.tachiyomi.extension.tr.hayalisticØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.hayalistic-v1.6.61.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hayalistic/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B5Øı€á°ÃË
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.hayalistic-v1.6.61.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hayalistic/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B5Øı€á°ÃË
 Hayalistictr"https://hayalistic.online
 Ø
 
@@ -4668,33 +4669,36 @@ Holy Scanstr"https://holyscans.com.tr
 ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.juratempest-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/juratempest/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B1Š¶ˆØÿ«ÉÿrJuraTempesttr"https://juratempe.st
 á
 Koreli Manga,eu.kanade.tachiyomi.extension.tr.korelimangaÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-tr.korelimanga-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/korelimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B5äØßË®Ğ—–Koreli Mangatr"https://korelimanga.com
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-tr.korelimanga-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/korelimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B5äØßË®Ğ—–Koreli Mangatr"https://korelimanga.com
 ã
 Koreli Scans,eu.kanade.tachiyomi.extension.tr.koreliscansÚ
 fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.koreliscans-v1.6.19.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/koreliscans/res/mipmap-xhdpi/ic_launcher.png"1.6(£¼21.6.198B5üÌ†ÙÍÀæ½Koreli Scanstr"https://www.nabicix.com
 Ş
 Kuroi Manga+eu.kanade.tachiyomi.extension.tr.kuroimangaØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.kuroimanga-v1.6.61.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/kuroimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B4õã¾ƒ´è”ÀyKuroi Mangatr"https://kuroimanga.site
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.kuroimanga-v1.6.61.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/kuroimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B4õã¾ƒ´è”ÀyKuroi Mangatr"https://kuroimanga.site
 ğ
 Lavinia Fansub.eu.kanade.tachiyomi.extension.tr.laviniafansubŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.laviniafansub-v1.6.61.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/laviniafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B:õÍÜô§óÓ°-Lavinia Fansubtr"https://laviniafansub.shop
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.laviniafansub-v1.6.61.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/laviniafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B:õÍÜô§óÓ°-Lavinia Fansubtr"https://laviniafansub.shop
 Û
 Limon Manga+eu.kanade.tachiyomi.extension.tr.limonmanga×
 dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.limonmanga-v1.6.6.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/limonmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B3ÄÅ™âÓµ«mLimon Mangatr"https://limonmanga.com
 Ø
 
 Luna Scans*eu.kanade.tachiyomi.extension.tr.lunascansÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.lunascans-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/lunascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B2Ì¦ˆ÷…Ø€a
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.lunascans-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/lunascans/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B2Ì¦ˆ÷…Ø€a
 Luna Scanstr"https://tuhafscans.com
+Í
+MangaciX)eu.kanade.tachiyomi.extension.tr.mangacixÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-tr.mangacix-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangacix/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.ë‚Ú‡ßÖ¶·+MangaciXtr"https://mangacix.net
 á
 MangaDenizi,eu.kanade.tachiyomi.extension.tr.mangadeniziÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mangadenizi-v1.6.8.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangadenizi/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B4Á¹¼Ì‚ì¦ıGMangaDenizitr"https://mangadenizi.net
 å
 Manga DiyarÄ±,eu.kanade.tachiyomi.extension.tr.mangadiyariÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mangadiyari-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangadiyari/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6‡Ü›ë¾õManga DiyarÄ±tr"https://mangadiyari.com
-é
-Mangadusleri-eu.kanade.tachiyomi.extension.tr.mangadusleriŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-tr.mangadusleri-v1.4.33.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangadusleri/res/mipmap-xhdpi/ic_launcher.png"1.4(á¬21.4.338B6øèİï‹öŞMangadusleritr"https://mangadusleri.mom
+å
+Mangadusleri-eu.kanade.tachiyomi.extension.tr.mangadusleriÛ
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.mangadusleri-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangadusleri/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6øèİï‹öŞMangadusleritr"https://mangadusleri.mom
 Õ
 
 Manga Kusu*eu.kanade.tachiyomi.extension.tr.mangakusuÕ
@@ -4705,40 +4709,40 @@ Manga Kusutr"https://mangakusu.com
 hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mangaportali-v1.6.1.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangaportali/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B<²ÉÒıˆí‡Manga PortalÄ±tr"https://www.mangaportali.com
 ñ
 Manga Åehri.net.eu.kanade.tachiyomi.extension.tr.mangasehrinetŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.mangasehrinet-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangasehrinet/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B9Ó×Ã“¢¢¼­!Manga Åehri.nettr"https://manga-sehri.net
-â
-Manga BahÃ§esi*eu.kanade.tachiyomi.extension.tr.mangaship×
-ehttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-tr.mangaship-v1.4.4.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangaship/res/mipmap-xhdpi/ic_launcher.png"1.4(Ä¬21.4.48B8Ô‘ù­×øÕbManga BahÃ§esitr"https://mangabahcesi.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.mangasehrinet-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangasehrinet/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B9Ó×Ã“¢¢¼­!Manga Åehri.nettr"https://manga-sehri.net
+à
+Manga BahÃ§esi*eu.kanade.tachiyomi.extension.tr.mangashipÕ
+chttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-tr.mangaship-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangaship/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B8Ô‘ù­×øÕbManga BahÃ§esitr"https://mangabahcesi.com
 é
 MangaTilkisi-eu.kanade.tachiyomi.extension.tr.mangatilkisiÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.mangatilkisi-v1.6.57.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangatilkisi/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B8§÷Ï¬ôñÈ¢MangaTilkisitr"https://www.tilkiscans.com
+ghttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-tr.mangatilkisi-v1.6.58.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangatilkisi/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B8§÷Ï¬ôñÈ¢MangaTilkisitr"https://www.tilkiscans.com
 Î
 Manga-TR(eu.kanade.tachiyomi.extension.tr.mangatrÔ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mangatr-v1.6.24.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangatr/res/mipmap-xhdpi/ic_launcher.png"1.6(¨¼21.6.248B.‚ ªºïœ¡EManga-TRtr"https://manga-tr.com
 Ï
 MangaWOW)eu.kanade.tachiyomi.extension.tr.mangawowÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.mangawow-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangawow/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.Œ’’­¡§öà#MangaWOWtr"https://mangawow.org
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.mangawow-v1.6.55.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangawow/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B.Œ’’­¡§öà#MangaWOWtr"https://mangawow.org
 Ë
 MangaWT(eu.kanade.tachiyomi.extension.tr.mangawtÔ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mangawt-v1.6.56.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangawt/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B,ñÛô…‹‘¼ì}MangaWTtr"https://mangawt.com
 Õ
 	MangaZure*eu.kanade.tachiyomi.extension.tr.mangazureÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.mangazure-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangazure/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0à¡Óà¸F	MangaZuretr"https://mangazure.net
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.mangazure-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangazure/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0à¡Óà¸F	MangaZuretr"https://mangazure.net
 Î
 Mangitto)eu.kanade.tachiyomi.extension.tr.mangittoÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mangitto-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangitto/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B-ÊÅá–·Šòø>Mangittotr"https://mangtto.com
 à
 Merlin Scans,eu.kanade.tachiyomi.extension.tr.merlinscansÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-tr.merlinscans-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/merlinscans/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B4‚Æà–ÓĞ†ãCMerlin Scanstr"https://merlintoon.com
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-tr.merlinscans-v1.6.4.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/merlinscans/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B4‚Æà–ÓĞ†ãCMerlin Scanstr"https://merlintoon.com
 
 Mikrokosmos Fansub2eu.kanade.tachiyomi.extension.tr.mikrokosmosfansubè
 nhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.mikrokosmosfansub-v1.6.16.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mikrokosmosfansub/res/mipmap-xhdpi/ic_launcher.png"1.6( ¼21.6.168BFˆÓœŠòú™Mikrokosmos Fansubtr""https://mikrokosmosfb.blogspot.com
 Ë
 MilaSub(eu.kanade.tachiyomi.extension.tr.milasubÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.milasub-v1.6.58.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/milasub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.¶¿ñÑ›˜ôÜNMilaSubtr"https://millascan.com
+bhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.milasub-v1.6.58.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/milasub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.¶¿ñÑ›˜ôÜNMilaSubtr"https://millascan.com
 ã
 Minda Fansub,eu.kanade.tachiyomi.extension.tr.mindafansubÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.mindafansub-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mindafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5á°Ã‚‡íÒuMinda Fansubtr"https://mindafansub.dev
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.mindafansub-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mindafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5á°Ã‚‡íÒuMinda Fansubtr"https://mindafansub.dev
 Ø
 
 Mono Manga*eu.kanade.tachiyomi.extension.tr.monomangaÕ
@@ -4755,19 +4759,19 @@ fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.
 fhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.nirvanamanga-v1.6.0.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/nirvanamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7–ù‘·¿ò×Ğ&Nirvana Mangatr"https://nirvanamanga.com
 é
 Nivera Fansub-eu.kanade.tachiyomi.extension.tr.niverafansubÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.niverafansub-v1.6.59.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/niverafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B7Ş¼ÌæÀîÊä5Nivera Fansubtr"https://niverafansub.one
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.niverafansub-v1.6.59.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/niverafansub/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B7Ş¼ÌæÀîÊä5Nivera Fansubtr"https://niverafansub.one
 Ç
 OkuToon(eu.kanade.tachiyomi.extension.tr.okutoonÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-tr.okutoon-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/okutoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,”®¢§¯ÕËSOkuToontr"https://okutoon.com
 Ğ
 Opiatoon)eu.kanade.tachiyomi.extension.tr.opiatoonÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.opiatoon-v1.6.60.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/opiatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B/¢Å‘êçºOpiatoontr"https://opiatoon.shop
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.opiatoon-v1.6.60.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/opiatoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B/¢Å‘êçºOpiatoontr"https://opiatoon.shop
 Ï
 	Ori Manga)eu.kanade.tachiyomi.extension.tr.orimangaÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-tr.orimanga-v1.6.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/orimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B/ãÁ¿½é÷@	Ori Mangatr"https://orimanga.net
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-tr.orimanga-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/orimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B/ãÁ¿½é÷@	Ori Mangatr"https://orimanga.net
 ç
 Paradox Scans-eu.kanade.tachiyomi.extension.tr.paradoxscansÛ
-fhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-tr.paradoxscans-v1.6.2.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/paradoxscans/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B7ó¯¢İ­ØÆã3Paradox Scanstr"https://paradoxscans.com
+fhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-tr.paradoxscans-v1.6.3.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/paradoxscans/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B7ó¯¢İ­ØÆã3Paradox Scanstr"https://paradoxscans.com
 Ù
 
 Pati Manga*eu.kanade.tachiyomi.extension.tr.patimangaÕ
@@ -4775,13 +4779,13 @@ chttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.
 Pati Mangatr"https://www.patimanga.com
 á
 Ragnar Scans,eu.kanade.tachiyomi.extension.tr.ragnarscansÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-tr.ragnarscans-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ragnarscans/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B5öŞÖÔ´Ä“èRagnar Scanstr"https://ragnarscans.net
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-tr.ragnarscans-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ragnarscans/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B5öŞÖÔ´Ä“èRagnar Scanstr"https://ragnarscans.net
 ø
 Raindrop Fansub/eu.kanade.tachiyomi.extension.tr.raindropfansubß
 hhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.raindropfansub-v1.6.0.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/raindropfansub/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B@ßšÂ’´öæÕERaindrop Fansubtr"https://www.raindropteamfan.com
 Ş
 RÃ¼ya Manga*eu.kanade.tachiyomi.extension.tr.ruyamangaÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.ruyamanga-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ruyamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B7ç»Åºªı¦PRÃ¼ya Mangatr"https://www.ruyamanga2.com
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.ruyamanga-v1.6.60.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ruyamanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B7ç»Åºªı¦PRÃ¼ya Mangatr"https://www.ruyamanga2.com
 Û
 Serein Scan+eu.kanade.tachiyomi.extension.tr.sereinscan×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.sereinscan-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sereinscan/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3ã¸¨ƒÜûõÕSerein Scantr"https://sereinscan.com
@@ -4791,20 +4795,20 @@ ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-t
 á
 Shijie Scans,eu.kanade.tachiyomi.extension.tr.shijiescansÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.shijiescans-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/shijiescans/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B5‚ŠîµÕ¥·•Shijie Scanstr"https://shijiescans.com
-Ü
+Ú
 Siyah Melek+eu.kanade.tachiyomi.extension.tr.siyahmelek×
-dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-tr.siyahmelek-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/siyahmelek/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B4şÜ°Ãğ‰Öî3Siyah Melektr"https://siyahmelek.live
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-tr.siyahmelek-v1.6.4.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/siyahmelek/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B2şÜ°Ãğ‰Öî3Siyah Melektr"https://siyahmelek.my
 à
 Slept Manga+eu.kanade.tachiyomi.extension.tr.sleptmangaÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.sleptmanga-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sleptmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B6ñÖßˆç­”¢(Slept Mangatr"https://sleptmanga.com.tr
 Ü
 
 SummerToon+eu.kanade.tachiyomi.extension.tr.summertoonØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.summertoon-v1.6.57.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/summertoon/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B3ñÚÌû¬ùÜØ
+ehttps://github.com/keiyoushi/extensions/releases/download/780153a/tachiyomi-tr.summertoon-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/summertoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3ñÚÌû¬ùÜØ
 SummerToontr"https://summertoons.net
 ã
 Sunset Manga,eu.kanade.tachiyomi.extension.tr.sunsetmangaÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.sunsetmanga-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sunsetmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5›–ÊøÎØÈôXSunset Mangatr"https://sunsetmanga.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.sunsetmanga-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sunsetmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B5›–ÊøÎØÈôXSunset Mangatr"https://sunsetmanga.com
 ß
 Tarot Scans+eu.kanade.tachiyomi.extension.tr.tarotscans×
 dhttps://github.com/keiyoushi/extensions/releases/download/d0c0864/tachiyomi-tr.tarotscans-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tarotscans/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7¨èšé§šŞãoTarot Scanstr"https://www.tarotscans.com
@@ -4814,20 +4818,20 @@ ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.
 ×
 
 TonizuToon+eu.kanade.tachiyomi.extension.tr.tonizutoonØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.tonizutoon-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tonizutoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.Êç˜Õ˜¾¨¼H
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.tonizutoon-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tonizutoon/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B.Êç˜Õ˜¾¨¼H
 TonizuToontr"https://tonizu.top
 Ï
 Toontaku)eu.kanade.tachiyomi.extension.tr.toontakuÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-tr.toontaku-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/toontaku/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B.ÃÚœûß‘ã{Toontakutr"https://toontaku.com
 ï
 Tortuga Ceviri.eu.kanade.tachiyomi.extension.tr.tortugaceviriŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.tortugaceviri-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tortugaceviri/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B9¥í÷±ÍÚÄTortuga Ceviritr"https://tortugaceviri.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.tortugaceviri-v1.6.57.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tortugaceviri/res/mipmap-xhdpi/ic_launcher.png"1.6(É¼21.6.578B9¥í÷±ÍÚÄTortuga Ceviritr"https://tortugaceviri.com
 Ê
 Tr Manga(eu.kanade.tachiyomi.extension.tr.trmangaÓ
 chttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-tr.trmanga-v1.6.3.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/trmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B,ÂŒè­’÷ã¸dTrMangatr"https://trmanga.com
 ÷
 TÃ¼rkÃ§e Manga Oku/eu.kanade.tachiyomi.extension.tr.turkcemangaokuà
-ihttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.turkcemangaoku-v1.6.56.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/turkcemangaoku/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:ßæœ‰ŠëTÃ¼rkÃ§e Manga Okutr"https://trmangaoku.com
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.turkcemangaoku-v1.6.56.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/turkcemangaoku/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B:ßæœ‰ŠëTÃ¼rkÃ§e Manga Okutr"https://trmangaoku.com
 ×
 
 Uzay Manga*eu.kanade.tachiyomi.extension.tr.uzaymangaÖ
@@ -4835,7 +4839,10 @@ dhttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-tr.
 Uzay Mangatr"https://uzaymanga.com
 ê
 Webtoon Hatti-eu.kanade.tachiyomi.extension.tr.webtoonhattiÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.webtoonhatti-v1.6.62.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/webtoonhatti/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B8í Åì€ÿ¶Æ{Webtoon Hattitr"https://webtoonhatti.club
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.webtoonhatti-v1.6.62.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/webtoonhatti/res/mipmap-xhdpi/ic_launcher.png"1.6(Î¼21.6.628B8í Åì€ÿ¶Æ{Webtoon Hattitr"https://webtoonhatti.club
+Õ
+	Webtoonia*eu.kanade.tachiyomi.extension.tr.webtooniaÖ
+dhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-tr.webtoonia-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/webtoonia/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0ÛÂı‰Ñùú"	Webtooniatr"https://webtoonia.fun
 Û
 
 WebtoonOku+eu.kanade.tachiyomi.extension.tr.webtoonokuÙ
@@ -4843,10 +4850,10 @@ fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-t
 WebtoonOkutr"https://webtoonoku.org
 Ñ
 	Yaoi Flix)eu.kanade.tachiyomi.extension.tr.yaoiflixÔ
-chttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.yaoiflix-v1.6.61.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoiflix/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B/Ëè¥šÄÛ‡~	Yaoi Flixtr"https://yaoiflix.fit
+chttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.yaoiflix-v1.6.61.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoiflix/res/mipmap-xhdpi/ic_launcher.png"1.6(Í¼21.6.618B/Ëè¥šÄÛ‡~	Yaoi Flixtr"https://yaoiflix.fit
 ë
 Yaoi Manga Oku-eu.kanade.tachiyomi.extension.tr.yaoimangaokuÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-tr.yaoimangaoku-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoimangaoku/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8®şñã¸Úüà9Yaoi Manga Okutr"https://yaoimangaoku.net
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-tr.yaoimangaoku-v1.6.56.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoimangaoku/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B8®şñã¸Úüà9Yaoi Manga Okutr"https://yaoimangaoku.net
 İ
 
 ComixTopia+eu.kanade.tachiyomi.extension.uk.comixtopiaÙ
@@ -4868,16 +4875,10 @@ HoneyMangauk"https://honey-manga.com.ua
 fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-uk.mangainua-v1.6.12.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangainua/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B0¼¤ÛçÌæÆ¨gMANGA/in/UAuk"https://manga.in.ua
 Ø
 	Mangarama*eu.kanade.tachiyomi.extension.uk.pureskillÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-uk.pureskill-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangarama/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3Œ÷·åæœï»)	Mangaramauk"https://mangarama.com.ua
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-uk.pureskill-v1.6.58.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangarama/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B3Œ÷·åæœï»)	Mangaramauk"https://mangarama.com.ua
 À
 Zenko&eu.kanade.tachiyomi.extension.uk.zenkoÏ
 ahttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-uk.zenko-v1.6.8.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/zenko/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B+Â¯ÿÓ©×üuZenkouk"https://zenko.online
-Ì
-Ariverse)eu.kanade.tachiyomi.extension.vi.ariverseÔ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.ariverse-v1.6.54.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/ariverse/res/mipmap-xhdpi/ic_launcher.png"1.6(Æ¼21.6.548B+’ÊÊˆüÏì–>Ariversevi"https://arigl.xyz
-Æ
-CManga'eu.kanade.tachiyomi.extension.vi.cmangaÑ
-bhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.cmanga-v1.6.5.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/cmanga/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B-Ù»’Ñ™À‘÷RCMangavi"https://cmangax18.com
 Õ
 	CuuTruyen*eu.kanade.tachiyomi.extension.vi.cuutruyen×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.cuutruyen-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/cuutruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0Ò¶Àé“—®r	CuuTruyenvi"https://cuutruyen.net
@@ -4887,7 +4888,7 @@ hhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 Û
 
 DamCoNuong+eu.kanade.tachiyomi.extension.vi.damconuongØ
-ehttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.damconuong-v1.6.15.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png"1.6(Ÿ¼21.6.158B2üùèº“ ™%
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.damconuong-v1.6.15.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png"1.6(Ÿ¼21.6.158B2üùèº“ ™%
 DamCoNuongvi"https://damconuong.pet
 Õ
 	DaoMeoDen*eu.kanade.tachiyomi.extension.vi.daomeoden×
@@ -4897,49 +4898,49 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 ahttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-vi.dilib-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/dilib/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B'Ÿñ•…§¤‰È=Dilibvi"https://dilib.vn
 ä
 DocTruyen3Q,eu.kanade.tachiyomi.extension.vi.doctruyen3qÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.doctruyen3q-v1.6.39.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png"1.6(·¼21.6.398B7ûê‰ÎçºéÌUDocTruyen3Qvi"https://doctruyen3qhub.vip
+fhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-vi.doctruyen3q-v1.6.40.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png"1.6(¸¼21.6.408B7ûê‰ÎçºéÌUDocTruyen3Qvi"https://doctruyen3qhub.fit
 Û
 DocTruyen5s,eu.kanade.tachiyomi.extension.vi.doctruyen5sÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/06f6d69/tachiyomi-vi.doctruyen5s-v1.6.0.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen5s/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0¸—ÂÿÅï´iDocTruyen5svi"https://manga.io.vn
-ò
-Dua Leo Truyen-eu.kanade.tachiyomi.extension.vi.dualeotruyenŞ
-ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.dualeotruyen-v1.6.29.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B=êÑšüÅ‚·DÆ°a Leo Truyá»‡nvi"https://dualeotruyenwk.com
+ñ
+Dua Leo Truyen-eu.kanade.tachiyomi.extension.vi.dualeotruyenÜ
+ghttps://github.com/keiyoushi/extensions/releases/download/53a6f21/tachiyomi-vi.dualeotruyen-v1.6.30.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(®¼21.6.308B>êÑšüÅ‚·DÆ°a Leo Truyá»‡nvi"https://dualeotruyenvie.com
 Ï
 FastScan)eu.kanade.tachiyomi.extension.vi.fastscanÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.fastscan-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/fastscan/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B.¹®¿ ºµ<FastScanvi"https://fastscan.org
-É
-GantzVN(eu.kanade.tachiyomi.extension.vi.gantzvnÒ
-bhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.gantzvn-v1.6.56.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/gantzvn/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B,Œ°Ş¡¥ÎüGantzVNvi"https://gantzvn.com
 ÷
 Goc Truyen Tranh/eu.kanade.tachiyomi.extension.vi.goctruyentranhâ
 khttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.goctruyentranh-v1.6.12.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/goctruyentranh/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B:íÕˆ²À„î£qGocTruyenTranhvi"https://goctruyentranh.com
 
 Goc Truyen Tranh Vui2eu.kanade.tachiyomi.extension.vi.goctruyentranhvuiæ
-lhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.goctruyentranhvui-v1.6.18.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/goctruyentranhvui/res/mipmap-xhdpi/ic_launcher.png"1.6(¢¼21.6.188BEÆ²Ÿ‰Ö£²¦'Goc Truyen Tranh Vuivi"https://goctruyentranhvui41.com
+lhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.goctruyentranhvui-v1.6.18.apkvhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/goctruyentranhvui/res/mipmap-xhdpi/ic_launcher.png"1.6(¢¼21.6.188BEÆ²Ÿ‰Ö£²¦'Goc Truyen Tranh Vuivi"https://goctruyentranhvui41.com
 Ó
 CBHentai+eu.kanade.tachiyomi.extension.vi.hentaicubeØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.hentaicube-v1.6.94.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png"1.6(î¼21.6.948B,Æ¶·œ¨Ò‰·CBHentaivi"https://2tencb.pro
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.hentaicube-v1.6.96.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png"1.6(ğ¼21.6.968B,Æ¶·œ¨Ò‰·CBHentaivi"https://2tencb.pro
 æ
 HentaiVN.plus-eu.kanade.tachiyomi.extension.vi.hentaivnplusÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.hentaivnplus-v1.6.73.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaivnplus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B4ËÍ”ªÂ£ô­aHentaiVN.plusvi"https://hentaivn.show
+ghttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.hentaivnplus-v1.6.73.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaivnplus/res/mipmap-xhdpi/ic_launcher.png"1.6(Ù¼21.6.738B4ËÍ”ªÂ£ô­aHentaiVN.plusvi"https://hentaivn.show
 Ù
 	HentaiVNx*eu.kanade.tachiyomi.extension.vi.hentaivnx×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.hentaivnx-v1.6.6.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaivnx/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B4à¡ğËÜçƒI	HentaiVNxvi"https://www.hentaivnx.com
+á
+HongTraTeam,eu.kanade.tachiyomi.extension.vi.hongtrateamÚ
+fhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-vi.hongtrateam-v1.6.56.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hongtrateam/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B4†úÜ»ÜˆÉ­0HongTraTeamvi"https://hongtrateam.com
 ç
 Há»c Viá»‡n 2Ten+eu.kanade.tachiyomi.extension.vi.hv2tcomics×
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.hv2tcomics-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hv2tcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B9ø§°‹¯Æ…|Há»c Viá»‡n 2Tenvi"https://hv2tcomics.net
+dhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.hv2tcomics-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hv2tcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B9ø§°‹¯Æ…|Há»c Viá»‡n 2Tenvi"https://hv2tcomics.net
 æ
 Jelly Comics,eu.kanade.tachiyomi.extension.vi.jellycomicsÚ
-fhttps://github.com/keiyoushi/extensions/releases/download/a49f611/tachiyomi-vi.jellycomics-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/jellycomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8ü•ÓëäÖ@Jelly Comicsvi"https://jellycomics.online
-Ô
-	KamiComic*eu.kanade.tachiyomi.extension.vi.kamicomic×
-ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.kamicomic-v1.6.5.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/kamicomic/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B/ŞáÍ“Î¸¶C	KamiComicvi"https://kamicomi.com
+fhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.jellycomics-v1.6.55.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/jellycomics/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B8ü•ÓëäÖ@Jelly Comicsvi"https://jellycomics.online
 Õ
 	KhoManhwa*eu.kanade.tachiyomi.extension.vi.khomanhwa×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.khomanhwa-v1.6.3.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/khomanhwa/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B0ÛÌ¼´Ü‰Z	KhoManhwavi"https://khomanhwa.com
 Ñ
 KiraKira)eu.kanade.tachiyomi.extension.vi.kirakiraÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.kirakira-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/kirakira/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B0Íğñ²Ú„Ò‰]KiraKiravi"https://truyenkira.net
+€
+LavibitWindroom0eu.kanade.tachiyomi.extension.vi.lavibitwindroomá
+ihttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.lavibitwindroom-v1.6.1.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lavibitwindroom/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18BE¨÷Ÿµ¾´¦ÌpLavibitWindroomvi"$https://lavibitwindroomgl.vercel.app
 ß
 LeesinComic,eu.kanade.tachiyomi.extension.vi.leesincomicÙ
 ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.leesincomic-v1.6.1.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/leesincomic/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4ŞÂµ€ú—Í—XLeesinComicvi"https://leesincomic.com
@@ -4958,13 +4959,16 @@ fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 LuvEvaLandvi"https://luvevalands2.co
 Î
 LXManga)eu.kanade.tachiyomi.extension.vi.lxhentaiÔ
-chttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.lxhentai-v1.6.40.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¸¼21.6.408B.öÎš¯Ç’ZLXMangavi"https://lxmanga.space
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.lxhentai-v1.6.42.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png"1.6(º¼21.6.428B.öÎš¯Ç’ZLXMangavi"https://lxmanga.space
 ô
 LxManga.org (unoriginal)+eu.kanade.tachiyomi.extension.vi.lxmangaorgÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.lxmangaorg-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lxmangaorg/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B=ëˆá¾äëÃ LxManga.org (unoriginal)vi"https://lxmanga.org
-à
-MeDamTruyen,eu.kanade.tachiyomi.extension.vi.medamtruyenÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-vi.medamtruyen-v1.6.9.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B5 ÇÇóÏ±ÖïMeDamTruyenvi"https://saytongtaii.site
+Ó
+	MangaMori*eu.kanade.tachiyomi.extension.vi.mangamoriÕ
+chttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.mangamori-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/mangamori/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B0Ôù±ÆÒØÉP	MangaMorivi"https://mangamori.dev
+â
+MeDamTruyen,eu.kanade.tachiyomi.extension.vi.medamtruyenÚ
+fhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.medamtruyen-v1.6.10.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/medamtruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(š¼21.6.108B5 ÇÇóÏ±ÖïMeDamTruyenvi"https://saytongtaii.site
 Ò
 MeHentai)eu.kanade.tachiyomi.extension.vi.mehentaiÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.mehentai-v1.6.12.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/mehentai/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B/Êã£¦öºÿíMeHentaivi"https://mehentai.live
@@ -4977,8 +4981,8 @@ bhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 Û
 
 MeTruyen18+eu.kanade.tachiyomi.extension.vi.metruyen18Ø
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.metruyen18-v1.6.58.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/metruyen18/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588B2Û”­öï–Ğ»\
-MeTruyen18vi"https://metruyen18.pro
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.metruyen18-v1.6.59.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/metruyen18/res/mipmap-xhdpi/ic_launcher.png"1.6(Ë¼21.6.598B2Û”­öï–Ğ»\
+MeTruyen18vi"https://damconuong.pet
 ½
 MiMi%eu.kanade.tachiyomi.extension.vi.mimiÍ
 `https://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.mimi-v1.6.7.apkihttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/mimi/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B,ñ˜ª²Õ¼¥Á#MiMivi"https://mimihentai.moe
@@ -4993,16 +4997,19 @@ MinoTruyen+eu.kanade.tachiyomi.extension.vi.minotruyenÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.minotruyen-v1.6.5.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/minotruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B:Şæà‚Î‹ÄMinoTruyen Mangavi"https://minotruyenv5.xyzB;Ş¥œ’´§ˆ4MinoTruyen Comicsvi"https://minotruyenv5.xyzB;‹Êä§ÑÉ²QMinoTruyen Hentaivi"https://minotruyenv5.xyz
 Õ
 	MoeTruyen*eu.kanade.tachiyomi.extension.vi.moetruyenÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.moetruyen-v1.6.18.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(¢¼21.6.188B0û·ƒÍÛŒôÊx	MoeTruyenvi"https://moetruyen.net
+dhttps://github.com/keiyoushi/extensions/releases/download/53a6f21/tachiyomi-vi.moetruyen-v1.6.19.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(£¼21.6.198B0û·ƒÍÛŒôÊx	MoeTruyenvi"https://moetruyen.net
 ‘
 MoeTruyenSuiCao (unoriginal)0eu.kanade.tachiyomi.extension.vi.moetruyensuicaoã
 khttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.moetruyensuicao-v1.6.2.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyensuicao/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28BG¸†—ÒÑ†ÚÜdMoeTruyenSuiCao (unoriginal)vi"https://moe.suicaodex.com
+Î
+NavyTeam)eu.kanade.tachiyomi.extension.vi.navyteamÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-vi.navyteam-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/navyteam/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/ªæÄ˜»Ü±©(NavyTeamvi"https://navyteamz.com
 û
 NetTruyenCO (unoriginal),eu.kanade.tachiyomi.extension.vi.nettruyencoÚ
 fhttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nettruyenco-v1.6.17.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyenco/res/mipmap-xhdpi/ic_launcher.png"1.6(¡¼21.6.178BAâÏã†Ïıõº1NetTruyenCO (unoriginal)vi"https://nettruyenar.com
 õ
 NetTruyenS (unoriginal)+eu.kanade.tachiyomi.extension.vi.nettruyens×
-dhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-vi.nettruyens-v1.6.0.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyens/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BAÖğ§à£‚ºTNetTruyenS (unoriginal)vi"https://nettruyen13s.com
+dhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-vi.nettruyens-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyens/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18BAÖğ§à£‚ºTNetTruyenS (unoriginal)vi"https://nettruyen14s.com
 ‡
 NetTruyenViet (unoriginal).eu.kanade.tachiyomi.extension.vi.nettruyenvietİ
 ghttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-vi.nettruyenviet-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyenviet/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08BG»¯Ñ›ì‡€–7NetTruyenViet (unoriginal)vi"https://nettruyenviet10.com
@@ -5014,9 +5021,6 @@ ehttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.
 NhatTruyen+eu.kanade.tachiyomi.extension.vi.nhattruyenØ
 ehttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.nhattruyen-v1.6.30.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nhattruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(®¼21.6.308B4½Ô‚é©È»œ_
 NhatTruyenvi"https://nhattruyenqq.com
-ä
-NhentaiClub,eu.kanade.tachiyomi.extension.vi.nhentaiclubÛ
-ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.nhentaiclub-v1.6.4.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nhentaiclub/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B7ıàÈŸåèĞ~NhentaiClubvi"https://nhentaiclub.online
 Ï
 Otakusic)eu.kanade.tachiyomi.extension.vi.otakusicÕ
 dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.otakusic-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/otakusic/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B.¢¾Ï‚Ä­¿’AOtakusicvi"https://otakusic.com
@@ -5025,12 +5029,20 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.otruyen-v1.6.2.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/otruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B+½ÖÂÓØÅ€pOTruyenvi"https://otruyen.cc
 Ê
 Panomic(eu.kanade.tachiyomi.extension.vi.panomicÑ
-ahttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-vi.panomic-v1.6.7.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/panomic/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B/¿÷ÿÔ®ï¬˜KPanomicvi"https://panomic.online
+ahttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.panomic-v1.6.8.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/panomic/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B/¿÷ÿÔ®ï¬˜KPanomicvi"https://panomic.online
+Ø
+
+QuaDaoCute+eu.kanade.tachiyomi.extension.vi.quadaocuteØ
+ehttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-vi.quadaocute-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/quadaocute/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B/ƒæ¶ƒ¿èæ™u
+QuaDaoCutevi"https://qadcuteo.cc
 Ö
 
 Roads Team*eu.kanade.tachiyomi.extension.vi.roadsteamÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.roadsteam-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/roadsteam/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0©‚ÖúğÍ®Âc
+dhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.roadsteam-v1.6.55.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/roadsteam/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558B0©‚ÖúğÍ®Âc
 Roads Teamvi"https://nhaduong.com
+‚
+RÃ¹a Háº¥p Chanh DÃ¢y/eu.kanade.tachiyomi.extension.vi.ruahapchanhdayà
+ihttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-vi.ruahapchanhday-v1.6.55.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/ruahapchanhday/res/mipmap-xhdpi/ic_launcher.png"1.6(Ç¼21.6.558BBó”Á¦„Ì´gRÃ¹a Háº¥p Chanh DÃ¢yvi"https://ruahapchanhday2.com
 í
 SangChanhTeam.eu.kanade.tachiyomi.extension.vi.sangchanhteamß
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.sangchanhteam-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/sangchanhteam/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B8Ø®–Ó´ÉÈ4SangChanhTeamvi"https://sangchanhteam.com
@@ -5045,26 +5057,26 @@ chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.sinhsieusao-v1.6.2.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/sinhsieusao/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B4÷ş£É¥ß”«BSinhSieuSaovi"https://sinhsieusao.com
 à
 SoaiCaComic,eu.kanade.tachiyomi.extension.vi.soaicacomicÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-vi.soaicacomic-v1.6.5.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B5¤¨ Õ»ëÅ‰SoaiCaComicvi"https://soaicacomic2.top
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.soaicacomic-v1.6.6.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B5¤¨ Õ»ëÅ‰SoaiCaComicvi"https://soaicacomic2.top
 ï
 Team Lanh Lung-eu.kanade.tachiyomi.extension.vi.teamlanhlungÜ
-ghttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-vi.teamlanhlung-v1.6.39.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png"1.6(·¼21.6.398B<«²¼ÁÇàø¶Team Láº¡nh LÃ¹ngvi"https://lanhlungteam3.top
+ghttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.teamlanhlung-v1.6.40.apkqhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png"1.6(¸¼21.6.408B<«²¼ÁÇàø¶Team Láº¡nh LÃ¹ngvi"https://lanhlungteam3.top
 Û
 
 TeleTruyen+eu.kanade.tachiyomi.extension.vi.teletruyenÙ
 fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.teletruyen-v1.6.1.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/teletruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B2…Ï‡åŠ´ÜÛl
 TeleTruyenvi"https://teletruyen.com
-ù
-ThienThaiTruyen0eu.kanade.tachiyomi.extension.vi.thienthaitruyená
-ihttps://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-vi.thienthaitruyen-v1.6.9.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/thienthaitruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B>•€×åˆ×¸³=ThienThaiTruyenvi"https://thienthaitruyen15.com
+û
+ThienThaiTruyen0eu.kanade.tachiyomi.extension.vi.thienthaitruyenâ
+jhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-vi.thienthaitruyen-v1.6.10.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/thienthaitruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(š¼21.6.108B>•€×åˆ×¸³=ThienThaiTruyenvi"https://thienthaitruyen16.com
 á
 Thá» Ham Ngá»§*eu.kanade.tachiyomi.extension.vi.thohamngu×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.thohamngu-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/thohamngu/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B6ô„îÄ †Ó¡Thá» Ham Ngá»§vi"https://thohamngu.xyz
-à
+á
 
 Top Truyen*eu.kanade.tachiyomi.extension.vi.toptruyenÖ
-dhttps://github.com/keiyoushi/extensions/releases/download/bda9041/tachiyomi-vi.toptruyen-v1.6.47.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(¿¼21.6.478B:òÚ±ÀÆÚê˜
-Top Truyenvi"https://www.toptruyenzonek.com
+dhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-vi.toptruyen-v1.6.48.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(À¼21.6.488B;òÚ±ÀÆÚê˜
+Top Truyenvi"https://www.toptruyenzone12.com
 È
 Tranh18(eu.kanade.tachiyomi.extension.vi.tranh18Ó
 chttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.tranh18-v1.6.6.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/tranh18/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B+®ÂÃË¿¹êèTranh18vi"https://tranh18.cc
@@ -5089,9 +5101,6 @@ jhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 TruyenHentaiz.eu.kanade.tachiyomi.extension.vi.truyenhentaizß
 ihttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.truyenhentaiz-v1.6.3.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenhentaiz/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B8§ºÂ€Õ¯Æ²cTruyenHentaizvi"https://truyenhentaiz.net
 Ó
-TruyenMM)eu.kanade.tachiyomi.extension.vi.truyenmmÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.truyenmm-v1.4.2.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenmm/res/mipmap-xhdpi/ic_launcher.png"1.4(Â¬21.4.28B2îÄÑº†¼±ATruyenMMvi"https://truyenmmhayr.com
-Ó
 TruyenQQ)eu.kanade.tachiyomi.extension.vi.truyenqqÖ
 ehttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-vi.truyenqq-v1.6.25.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenqq/res/mipmap-xhdpi/ic_launcher.png"1.6(©¼21.6.258B0‹ …êƒş·#TruyenQQvi"https://truyenqqko.com
 Ü
@@ -5100,14 +5109,14 @@ dhttps://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-vi.
 Û
 
 TruyenTini+eu.kanade.tachiyomi.extension.vi.truyentiniØ
-ehttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.truyentini-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentini/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2›¼µÄ€Æäál
+ehttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.truyentini-v1.6.56.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentini/res/mipmap-xhdpi/ic_launcher.png"1.6(È¼21.6.568B2›¼µÄ€Æäál
 TruyenTinivi"https://truyentini.net
 Œ
 Truyen tranh dam my1eu.kanade.tachiyomi.extension.vi.truyentranhdammyä
-khttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.truyentranhdammy-v1.6.58.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentranhdammy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BHØÃÖ¶»ˆ“ï4Truyá»‡n tranh Ä‘am má»¹vi"https://truyentranhdammyy.site
+khttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.truyentranhdammy-v1.6.58.apkuhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentranhdammy/res/mipmap-xhdpi/ic_launcher.png"1.6(Ê¼21.6.588BHØÃÖ¶»ˆ“ï4Truyá»‡n tranh Ä‘am má»¹vi"https://truyentranhdammyy.site
 í
 TruyenTuoiTho.eu.kanade.tachiyomi.extension.vi.truyentuoithoŞ
-hhttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-vi.truyentuoitho-v1.6.60.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B8íÂÏëö¨ÉTruyenTuoiThovi"https://truyentuoitho.com
+hhttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-vi.truyentuoitho-v1.6.60.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png"1.6(Ì¼21.6.608B8íÂÏëö¨ÉTruyenTuoiThovi"https://truyentuoitho.com
 Õ
 	TruyenTVN*eu.kanade.tachiyomi.extension.vi.truyentvn×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.truyentvn-v1.6.3.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentvn/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B0Ö‹¤ãÏúü.	TruyenTVNvi"https://truyentvn.net
@@ -5116,7 +5125,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.tuitruyen-v1.6.4.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/tuitruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B0‡¹£‰…ôÌ=	TuiTruyenvi"https://tuitruyen.top
 ö
 TuSachXinhXinh/eu.kanade.tachiyomi.extension.vi.tusachxinhxinhß
-hhttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-vi.tusachxinhxinh-v1.6.4.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/tusachxinhxinh/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B? ˆºÂÕõˆ{TuSachXinhXinhvi"https://tusachxinhxinh12.online
+hhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.tusachxinhxinh-v1.6.4.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/tusachxinhxinh/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B? ˆºÂÕõˆ{TuSachXinhXinhvi"https://tusachxinhxinh12.online
 Ö
 	UmeTruyen*eu.kanade.tachiyomi.extension.vi.umetruyen×
 ehttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.umetruyen-v1.6.9.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/umetruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(™¼21.6.98B1àâ·ŒŠÚ‰©"	UmeTruyenvi"https://umetruyenz.org
@@ -5126,28 +5135,28 @@ dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-v
 Ü
 
 VinaHentai+eu.kanade.tachiyomi.extension.vi.vinahentaiØ
-ehttps://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-vi.vinahentai-v1.6.17.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¡¼21.6.178B3ß±´ĞÏˆ•º?
-VinaHentaivi"https://vinahentai.help
+ehttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-vi.vinahentai-v1.6.18.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/vinahentai/res/mipmap-xhdpi/ic_launcher.png"1.6(¢¼21.6.188B3ß±´ĞÏˆ•º?
+VinaHentaivi"https://vinahentai.pics
 Î
 ViTruyen)eu.kanade.tachiyomi.extension.vi.vitruyenÓ
-bhttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.vitruyen-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/vitruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/Ğ×à¸ñ²ÏĞ'ViTruyenvi"https://vitruyen1.com
+bhttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.vitruyen-v1.6.1.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/vitruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/Ğ×à¸ñ²ÏĞ'ViTruyenvi"https://vitruyen1.com
 Û
 
 YuriGarden+eu.kanade.tachiyomi.extension.vi.yurigardenØ
-ehttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-vi.yurigarden-v1.6.12.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurigarden/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B2ùêìÊ¥”…‹
+ehttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-vi.yurigarden-v1.6.12.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurigarden/res/mipmap-xhdpi/ic_launcher.png"1.6(œ¼21.6.128B2ùêìÊ¥”…‹
 YuriGardenvi"https://yurigarden.moe
-Ğ
-YuriNeko)eu.kanade.tachiyomi.extension.vi.yurinekoÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.yurineko-v1.6.7.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurineko/res/mipmap-xhdpi/ic_launcher.png"1.6(—¼21.6.78B/Ò’ÿú¹ñ¢ =YuriNekovi"https://yurinekoz.com
-Ü
-	ZetTruyen*eu.kanade.tachiyomi.extension.vi.zettruyenØ
-fhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-vi.zettruyen-v1.6.13.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.138B5—ÚğÖÎÎ³	ZetTruyenvi"https://www.zettruyen1.com
+Î
+YuriNeko)eu.kanade.tachiyomi.extension.vi.yurinekoÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-vi.yurineko-v1.6.8.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurineko/res/mipmap-xhdpi/ic_launcher.png"1.6(˜¼21.6.88B/Ò’ÿú¹ñ¢ =YuriNekovi"https://yurinekoz.com
+Ú
+	ZetTruyen*eu.kanade.tachiyomi.extension.vi.zettruyenÖ
+dhttps://github.com/keiyoushi/extensions/releases/download/b5d2cd5/tachiyomi-vi.zettruyen-v1.6.14.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.148B5—ÚğÖÎÎ³	ZetTruyenvi"https://www.zettruyen3.com
 Î
 Baka Manhua'eu.kanade.tachiyomi.extension.zh.bakamhĞ
-ahttps://github.com/keiyoushi/extensions/releases/download/aa14252/tachiyomi-zh.bakamh-v1.6.65.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bakamh/res/mipmap-xhdpi/ic_launcher.png"1.6(Ñ¼21.6.658B0ŒßÄª—Â3å·´å¡æ¼«ç”»zh"https://bakamh.com
-ä
-Baozi Manhua,eu.kanade.tachiyomi.extension.zh.baozimanhuaÜ
-hhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-zh.baozimanhua-v1.6.29.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/baozimanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(­¼21.6.298B4ã£ªê÷ï™¹OåŒ…å­æ¼«ç”»zh"https://cn.baozimh.com
+ahttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-zh.bakamh-v1.6.65.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bakamh/res/mipmap-xhdpi/ic_launcher.png"1.6(Ñ¼21.6.658B0ŒßÄª—Â3å·´å¡æ¼«ç”»zh"https://bakamh.com
+â
+Baozi Manhua,eu.kanade.tachiyomi.extension.zh.baozimanhuaÚ
+fhttps://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-zh.baozimanhua-v1.6.30.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/baozimanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(®¼21.6.308B4ã£ªê÷ï™¹OåŒ…å­æ¼«ç”»zh"https://cn.baozimh.com
 Ô
 GoDa+eu.kanade.tachiyomi.extension.zh.baozimhorgÚ
 ghttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-zh.baozimhorg-v1.6.37.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png"1.6(µ¼21.6.378B/×ÕğìÌ“úŞ
@@ -5170,7 +5179,7 @@ chttps://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-zh.
 bhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.comicabc-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/comicabc/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4Æİ°á·¼Æpç„¡é™å‹•æ¼«zh"https://www.8comic.com
 ÿ
 Creative Comic Collection.eu.kanade.tachiyomi.extension.zh.creativecomicİ
-ghttps://github.com/keiyoushi/extensions/releases/download/1319949/tachiyomi-zh.creativecomic-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/creativecomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B@•£Ê•®·÷êsCCCè¿½æ¼«å°zh-Hant"https://www.creative-comic.tw
+ghttps://github.com/keiyoushi/extensions/releases/download/7363e42/tachiyomi-zh.creativecomic-v1.6.1.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/creativecomic/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B@•£Ê•®·÷êsCCCè¿½æ¼«å°zh-Hant"https://www.creative-comic.tw
 ¹
 Dm5$eu.kanade.tachiyomi.extension.zh.dm5É
 ]https://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-zh.dm5-v1.6.2.apkhhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/dm5/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B.äÇıóËƒğ‰	åŠ¨æ¼«å±‹zh"https://www.dm5.com
@@ -5183,15 +5192,15 @@ ahttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-zh.
 İ
 18Manhua/eu.kanade.tachiyomi.extension.zh.eighteenmanhuaá
 jhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-zh.eighteenmanhua-v1.6.3.apkshttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/eighteenmanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B*’óÍ¡±Ì¯˜O18æ¼«ç”»zh"https://18mh.org
-×
-FavComic)eu.kanade.tachiyomi.extension.zh.favcomicÕ
-dhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-zh.favcomic-v1.6.3.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/favcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B6Êß£ËğÔùËå–œæ¼«æ¼«ç”»zh"https://www.favcomic.com
+Õ
+FavComic)eu.kanade.tachiyomi.extension.zh.favcomicÓ
+bhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-zh.favcomic-v1.6.4.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/favcomic/res/mipmap-xhdpi/ic_launcher.png"1.6(”¼21.6.48B6Êß£ËğÔùËå–œæ¼«æ¼«ç”»zh"https://www.favcomic.com
 æ
 Guazimanhua,eu.kanade.tachiyomi.extension.zh.guazimanhuaÛ
 ghttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-zh.guazimanhua-v1.6.6.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/guazimanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(–¼21.6.68B9Ã”Ÿ¯¾¯ê«~ç“œå­æ¼«ç”»zh"https://www.guazimanhua.com
 ğ
 HanabiManga,eu.kanade.tachiyomi.extension.zh.hanabimangaÙ
-ehttps://github.com/keiyoushi/extensions/releases/download/2ba5b61/tachiyomi-zh.hanabimanga-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanabimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38BE¿²ÇŒû¡ßë\èŠ±ç«æ¼«ç”»zh"'https://uhkvqrxmcapgtpspglrp.moedot.net
+ehttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-zh.hanabimanga-v1.6.3.apkphttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanabimanga/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38BE¿²ÇŒû¡ßë\èŠ±ç«æ¼«ç”»zh"'https://uhkvqrxmcapgtpspglrp.moedot.net
 Ë
 Hanime1(eu.kanade.tachiyomi.extension.zh.hanime1Ñ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.hanime1-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanime1/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0®Øæ¾§Š Í'
@@ -5208,7 +5217,7 @@ dhttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.
 İ
 
 Hikarinagi+eu.kanade.tachiyomi.extension.zh.hikarinagi×
-dhttps://github.com/keiyoushi/extensions/releases/download/4c8cda7/tachiyomi-zh.hikarinagi-v1.6.2.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hikarinagi/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B6Û£¿‹¿ö©-
+dhttps://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-zh.hikarinagi-v1.6.3.apkohttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hikarinagi/res/mipmap-xhdpi/ic_launcher.png"1.6(“¼21.6.38B6Û£¿‹¿ö©-
 Hikarinagizh"https://www.hikarinagi.org
 Î
 Ikmmh&eu.kanade.tachiyomi.extension.zh.ikmmhÏ
@@ -5243,9 +5252,9 @@ chttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-zh.
 ×
 	ManHuaGui*eu.kanade.tachiyomi.extension.zh.manhuaguiÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.manhuagui-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuagui/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4İ“éòİŠùa	æ¼«ç”»æŸœzh"https://www.manhuagui.com
-ß
-	Manhuaren*eu.kanade.tachiyomi.extension.zh.manhuarenØ
-fhttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-zh.manhuaren-v1.4.19.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuaren/res/mipmap-xhdpi/ic_launcher.png"1.4(Ó¬21.4.198B8Ú™µ·ã˜2	æ¼«ç”»äººzh"http://mangaapi.manhuaren.com
+Ü
+	Manhuaren*eu.kanade.tachiyomi.extension.zh.manhuarenÕ
+chttps://github.com/keiyoushi/extensions/releases/download/53a6f21/tachiyomi-zh.manhuaren-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuaren/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B9Ú™µ·ã˜2	æ¼«ç”»äººzh"https://mangaapi.manhuaren.com
 Ô
 	Manhuashe*eu.kanade.tachiyomi.extension.zh.manhuashe×
 ehttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-zh.manhuashe-v1.6.1.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuashe/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B/¬”‘ùôÏç»V	æ¼«ç”»ç¤¾zh"https://www.311s.com
@@ -5254,7 +5263,7 @@ ehttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-z
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-zh.manhuawu-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuawu/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B0¨®¬¯ôÙšÁ-	æ¼«ç”»å±‹zh"https://www.mhua5.com
 »
 Manwa&eu.kanade.tachiyomi.extension.zh.manwaÍ
-_https://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.manwa-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manwa/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B(±´®Åæç‘öæ¼«è›™zh"https://manwa.me
+_https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-zh.manwa-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manwa/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B(±´®Åæç‘öæ¼«è›™zh"https://manwa.me
 Ê
 MH1234'eu.kanade.tachiyomi.extension.zh.mh1234Ñ
 bhttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-zh.mh1234-v1.6.5.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mh1234/res/mipmap-xhdpi/ic_launcher.png"1.6(•¼21.6.58B1ÿÆÕÉˆ„ĞÉm
@@ -5285,29 +5294,28 @@ chttps://github.com/keiyoushi/extensions/releases/download/62a33ed/tachiyomi-zh.
 bhttps://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-zh.rumanhua-v1.6.0.apkmhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/rumanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B2ıÖÖÒèœæ¸	å¦‚æ¼«ç”»zh"https://m.rumanhua2.com
 É
 6Manhua&eu.kanade.tachiyomi.extension.zh.sixmhÍ
-_https://github.com/keiyoushi/extensions/releases/download/bdcf84f/tachiyomi-zh.sixmh-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/sixmh/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B4›ö¢Ğß·÷G	å…­æ¼«ç”»zh"https://www.liumanhua.com
+_https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-zh.sixmh-v1.6.1.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/sixmh/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B4›ö¢Ğß·÷G	å…­æ¼«ç”»zh"https://www.liumanhua.com
 ö
 Tencent Comics (ac.qq.com).eu.kanade.tachiyomi.extension.zh.tencentcomicsİ
 ghttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.tencentcomics-v1.6.0.apkrhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/tencentcomics/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6‡ÖÆ®–ü•Xè…¾è®¯åŠ¨æ¼«zh-Hans"https://m.ac.qq.com
 ù
 Terra Historicus0eu.kanade.tachiyomi.extension.zh.terrahistoricusá
-ihttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.terrahistoricus-v1.6.0.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/terrahistoricus/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B=ŠÂ¢Â÷êĞ?æ³°æ‹‰è®°äº‹ç¤¾zh"https://comic.hypergryph.com
+ihttps://github.com/keiyoushi/extensions/releases/download/e97033f/tachiyomi-zh.terrahistoricus-v1.6.1.apkthttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/terrahistoricus/res/mipmap-xhdpi/ic_launcher.png"1.6(‘¼21.6.18B=ŠÂ¢Â÷êĞ?æ³°æ‹‰è®°äº‹ç¤¾zh"https://comic.hypergryph.com
 Ê
 Tongli'eu.kanade.tachiyomi.extension.zh.tongliÏ
 `https://github.com/keiyoushi/extensions/releases/download/ce0c3b4/tachiyomi-zh.tongli-v1.6.0.apkkhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/tongli/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B3±¼¶ƒ»âÛàLæ±ç«‹zh"https://ebook.tongli.com.tw
 Õ
 Toptoon.net(eu.kanade.tachiyomi.extension.zh.toptoonÑ
 ahttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.toptoon-v1.6.0.apklhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/toptoon/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B6ÈÆ’›§¨Ü¨TOPTOONé ‚é€šzh"https://www.toptoon.net
-Ã
-vomic&eu.kanade.tachiyomi.extension.zh.vomicÏ
-ahttps://github.com/keiyoushi/extensions/releases/download/8ef06cd-2/tachiyomi-zh.vomic-v1.4.6.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/vomic/res/mipmap-xhdpi/ic_launcher.png"1.4(Æ¬21.4.68B.ÔÏÈşò•€›.vomiczh"https://www.vomicmh.com
+¿
+Utifa&eu.kanade.tachiyomi.extension.zh.utifaÍ
+_https://github.com/keiyoushi/extensions/releases/download/23345ef/tachiyomi-zh.utifa-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/utifa/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B,ùØ÷ÔÀËªUtifazh"https://bx.yaimer.com
+½
+vomic&eu.kanade.tachiyomi.extension.zh.vomicÍ
+_https://github.com/keiyoushi/extensions/releases/download/58fd63f/tachiyomi-zh.vomic-v1.6.0.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/vomic/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B*¼èĞîÄ³Ì«Kvomiczh"https://vomicmh.com
 Å
 WNACG&eu.kanade.tachiyomi.extension.zh.wnacgÍ
 _https://github.com/keiyoushi/extensions/releases/download/a2d7e26/tachiyomi-zh.wnacg-v1.6.2.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/wnacg/res/mipmap-xhdpi/ic_launcher.png"1.6(’¼21.6.28B2’Èø”¾‰”õZç´³å£«æ¼«ç•«zh"https://www.wn07.cfd
-Ë
-
-Yidan Girl&eu.kanade.tachiyomi.extension.zh.yidanÏ
-ahttps://github.com/keiyoushi/extensions/releases/download/4217666-2/tachiyomi-zh.yidan-v1.4.5.apkjhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/yidan/res/mipmap-xhdpi/ic_launcher.png"1.4(Å¬21.4.58B1‚‘É‘èüÓÆ!ä¸€è€½å¥³å­©zh"https://yidan9.club
 Ú
 	Zaimanhua*eu.kanade.tachiyomi.extension.zh.zaimanhuaÕ
 chttps://github.com/keiyoushi/extensions/releases/download/24bc6c2/tachiyomi-zh.zaimanhua-v1.6.0.apknhttps://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/zaimanhua/res/mipmap-xhdpi/ic_launcher.png"1.6(¼21.6.08B7ı¤Ì¿ü¼ë£	å†æ¼«ç”»zh"https://manhua.zaimanhua.com
