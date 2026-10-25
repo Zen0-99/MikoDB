@@ -1024,18 +1024,18 @@
     }
   },
   "db": {
-    "version": "2026-10-18",
-    "sha256": "5418122b2885459004a7030ff8a02360d6e5a41b69f2727c39e9599e3bda2cc7",
-    "rows": 32348,
+    "version": "2026-10-25",
+    "sha256": "6069fb549edc18a64ef706ddecb90a987bd4dfd30af592750f72353d7e462d41",
+    "rows": 32333,
     "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-anime-map.db.gz",
-    "anime_episodes": 245909,
-    "anizip_docs": 13840,
-    "anizip_coverage": 0.4312,
+    "anime_episodes": 246039,
+    "anizip_docs": 13843,
+    "anizip_coverage": 0.4314,
     "filler_shows": 174,
     "anizip_drift_summary": {
-      "mismatched": 1057,
-      "coverage": 0.4312,
-      "filler_divergent": 25
+      "mismatched": 1055,
+      "coverage": 0.4314,
+      "filler_divergent": 26
     }
   },
   "mangaDb": {
