@@ -1039,12 +1039,12 @@
     }
   },
   "mangaDb": {
-    "version": "2026-10-01",
-    "sha256": "1a8550731f639bee6b11bdaf2c12c9c9799134c15ed54927c068d9e33200ec05",
-    "rows": 562717,
+    "version": "2026-11-01",
+    "sha256": "63febca710eded83ca84031ed64847ea469708da3f2384cae295e04cf49dfe36",
+    "rows": 566134,
     "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/miko-manga-map.db.gz",
     "sourceDump": {
-      "sha256": "563c72805175c84e0a35a5e4e11bdc9e77977a40097cb12f53bf2bde7b18755f",
+      "sha256": "a8465998867fa298d6ecc9ee5bd2ca0d585ca0b003c898f7d92bf29b418b8ad7",
       "url": "https://github.com/Zen0-99/MikoDB/releases/download/db-latest/series.full.sqlite.zst"
     }
   },
